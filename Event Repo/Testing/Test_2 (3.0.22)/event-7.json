@@ -531,9 +531,9 @@
           "red": {
             "score": 0,
             "team_keys": [
-              "frc0",
-              "frc0",
-              "frc0"
+              "frc1",
+              "frc2",
+              "frc3"
             ],
             "surrogate_team_keys": [],
             "dq_team_keys": []
@@ -541,9 +541,9 @@
           "blue": {
             "score": 0,
             "team_keys": [
-              "frc0",
-              "frc0",
-              "frc0"
+              "frc4",
+              "frc5",
+              "frc6"
             ],
             "surrogate_team_keys": [],
             "dq_team_keys": []
@@ -567,9 +567,9 @@
           "red": {
             "score": 0,
             "team_keys": [
-              "frc0",
-              "frc0",
-              "frc0"
+              "frc1",
+              "frc3",
+              "frc5"
             ],
             "surrogate_team_keys": [],
             "dq_team_keys": []
@@ -577,9 +577,9 @@
           "blue": {
             "score": 0,
             "team_keys": [
-              "frc0",
-              "frc0",
-              "frc0"
+              "frc2",
+              "frc4",
+              "frc6"
             ],
             "surrogate_team_keys": [],
             "dq_team_keys": []

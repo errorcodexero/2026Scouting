@@ -94,6 +94,96 @@
           "name": "rookie_year",
           "width": -1,
           "hidden": false
+        },
+        {
+          "name": "pit_trench",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "pit_scouter",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "pit_bump",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "pit_DB",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "pit_intake",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "pit_align",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "pit_BPS",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "pit_maxHopper",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "pit_OPdeliver",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "pit_a_maxFuel",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "pit_estAccuracy",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "pit_ferryNet",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "pit_movingFerry",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "pit_ferryAutoalign",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "pit_ferrying",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "tag_14",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "pit_Notes",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "pit_flipClimb",
+          "width": -1,
+          "hidden": false
         }
       ]
     },
@@ -159,6 +249,146 @@
           "name": "alliance",
           "width": -1,
           "hidden": false
+        },
+        {
+          "name": "scout_Init",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "a_startPos",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "a_hit",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "a_Climb",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "a_flipClimb",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "a_scoringTime",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "a_scoringTime_segments",
+          "width": -1,
+          "hidden": true
+        },
+        {
+          "name": "a_ferryTime",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "a_ferryTime_segments",
+          "width": -1,
+          "hidden": true
+        },
+        {
+          "name": "t_incap",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "t_scoringTime",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "t_scoringTime_segments",
+          "width": -1,
+          "hidden": true
+        },
+        {
+          "name": "t_NZferryTime",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "t_NZferryTime_segments",
+          "width": -1,
+          "hidden": true
+        },
+        {
+          "name": "t_OZferryTime",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "t_OZferryTime_segments",
+          "width": -1,
+          "hidden": true
+        },
+        {
+          "name": "end_Climb",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "end_flipClimb",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "t_Defense",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "a_Notes",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "active_Notes",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "inactive_Notes",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "end_Notes",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "t_outpostDeliv",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "t_outpostCollect",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "t_OPPferryTime",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "t_incapTime",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "t_Defenses",
+          "width": -1,
+          "hidden": false
         }
       ]
     }
@@ -185,8 +415,8 @@
       {
         "key": "frc1",
         "team_number": 1,
-        "nickname": "WCPCC",
-        "name": "WCPCC",
+        "nickname": "whats up chicken butt",
+        "name": "whats up chicken butt",
         "school_name": "",
         "city": "",
         "state_prov": "",
@@ -204,350 +434,8 @@
       {
         "key": "frc2",
         "team_number": 2,
-        "nickname": "Cranberry Alarm",
-        "name": "Cranberry Alarm",
-        "school_name": "",
-        "city": "",
-        "state_prov": "",
-        "country": "",
-        "address": "",
-        "postal_code": "",
-        "gmaps_place_id": "",
-        "gmaps_url": "",
-        "lat": 0,
-        "lng": 0,
-        "location_name": "",
-        "website": "",
-        "rookie_year": 0
-      },
-      {
-        "key": "frc3",
-        "team_number": 3,
-        "nickname": "Penn State",
-        "name": "Penn State",
-        "school_name": "",
-        "city": "",
-        "state_prov": "",
-        "country": "",
-        "address": "",
-        "postal_code": "",
-        "gmaps_place_id": "",
-        "gmaps_url": "",
-        "lat": 0,
-        "lng": 0,
-        "location_name": "",
-        "website": "",
-        "rookie_year": 0
-      },
-      {
-        "key": "frc4",
-        "team_number": 4,
-        "nickname": "Unqualified Quokka",
-        "name": "Unqualified Quokka",
-        "school_name": "",
-        "city": "",
-        "state_prov": "",
-        "country": "",
-        "address": "",
-        "postal_code": "",
-        "gmaps_place_id": "",
-        "gmaps_url": "",
-        "lat": 0,
-        "lng": 0,
-        "location_name": "",
-        "website": "",
-        "rookie_year": 0
-      },
-      {
-        "key": "frc5",
-        "team_number": 5,
-        "nickname": "Rusthounds",
-        "name": "Rusthounds",
-        "school_name": "",
-        "city": "",
-        "state_prov": "",
-        "country": "",
-        "address": "",
-        "postal_code": "",
-        "gmaps_place_id": "",
-        "gmaps_url": "",
-        "lat": 0,
-        "lng": 0,
-        "location_name": "",
-        "website": "",
-        "rookie_year": 0
-      },
-      {
-        "key": "frc6",
-        "team_number": 6,
-        "nickname": "Big Sky",
-        "name": "Big Sky",
-        "school_name": "",
-        "city": "",
-        "state_prov": "",
-        "country": "",
-        "address": "",
-        "postal_code": "",
-        "gmaps_place_id": "",
-        "gmaps_url": "",
-        "lat": 0,
-        "lng": 0,
-        "location_name": "",
-        "website": "",
-        "rookie_year": 0
-      },
-      {
-        "key": "frc7",
-        "team_number": 7,
-        "nickname": "Void1",
-        "name": "Void1",
-        "school_name": "",
-        "city": "",
-        "state_prov": "",
-        "country": "",
-        "address": "",
-        "postal_code": "",
-        "gmaps_place_id": "",
-        "gmaps_url": "",
-        "lat": 0,
-        "lng": 0,
-        "location_name": "",
-        "website": "",
-        "rookie_year": 0
-      },
-      {
-        "key": "frc8",
-        "team_number": 8,
-        "nickname": "Void2",
-        "name": "Void2",
-        "school_name": "",
-        "city": "",
-        "state_prov": "",
-        "country": "",
-        "address": "",
-        "postal_code": "",
-        "gmaps_place_id": "",
-        "gmaps_url": "",
-        "lat": 0,
-        "lng": 0,
-        "location_name": "",
-        "website": "",
-        "rookie_year": 0
-      },
-      {
-        "key": "frc9",
-        "team_number": 9,
-        "nickname": "Void3",
-        "name": "Void3",
-        "school_name": "",
-        "city": "",
-        "state_prov": "",
-        "country": "",
-        "address": "",
-        "postal_code": "",
-        "gmaps_place_id": "",
-        "gmaps_url": "",
-        "lat": 0,
-        "lng": 0,
-        "location_name": "",
-        "website": "",
-        "rookie_year": 0
-      },
-      {
-        "key": "frc10",
-        "team_number": 10,
-        "nickname": "Void4",
-        "name": "Void4",
-        "school_name": "",
-        "city": "",
-        "state_prov": "",
-        "country": "",
-        "address": "",
-        "postal_code": "",
-        "gmaps_place_id": "",
-        "gmaps_url": "",
-        "lat": 0,
-        "lng": 0,
-        "location_name": "",
-        "website": "",
-        "rookie_year": 0
-      },
-      {
-        "key": "frc11",
-        "team_number": 11,
-        "nickname": "Void5",
-        "name": "Void5",
-        "school_name": "",
-        "city": "",
-        "state_prov": "",
-        "country": "",
-        "address": "",
-        "postal_code": "",
-        "gmaps_place_id": "",
-        "gmaps_url": "",
-        "lat": 0,
-        "lng": 0,
-        "location_name": "",
-        "website": "",
-        "rookie_year": 0
-      },
-      {
-        "key": "frc12",
-        "team_number": 12,
-        "nickname": "Void6",
-        "name": "Void6",
-        "school_name": "",
-        "city": "",
-        "state_prov": "",
-        "country": "",
-        "address": "",
-        "postal_code": "",
-        "gmaps_place_id": "",
-        "gmaps_url": "",
-        "lat": 0,
-        "lng": 0,
-        "location_name": "",
-        "website": "",
-        "rookie_year": 0
-      },
-      {
-        "key": "frc13",
-        "team_number": 13,
-        "nickname": "Void7",
-        "name": "Void7",
-        "school_name": "",
-        "city": "",
-        "state_prov": "",
-        "country": "",
-        "address": "",
-        "postal_code": "",
-        "gmaps_place_id": "",
-        "gmaps_url": "",
-        "lat": 0,
-        "lng": 0,
-        "location_name": "",
-        "website": "",
-        "rookie_year": 0
-      },
-      {
-        "key": "frc14",
-        "team_number": 14,
-        "nickname": "Void8",
-        "name": "Void8",
-        "school_name": "",
-        "city": "",
-        "state_prov": "",
-        "country": "",
-        "address": "",
-        "postal_code": "",
-        "gmaps_place_id": "",
-        "gmaps_url": "",
-        "lat": 0,
-        "lng": 0,
-        "location_name": "",
-        "website": "",
-        "rookie_year": 0
-      },
-      {
-        "key": "frc15",
-        "team_number": 15,
-        "nickname": "Void9",
-        "name": "Void9",
-        "school_name": "",
-        "city": "",
-        "state_prov": "",
-        "country": "",
-        "address": "",
-        "postal_code": "",
-        "gmaps_place_id": "",
-        "gmaps_url": "",
-        "lat": 0,
-        "lng": 0,
-        "location_name": "",
-        "website": "",
-        "rookie_year": 0
-      },
-      {
-        "key": "frc16",
-        "team_number": 16,
-        "nickname": "Void10",
-        "name": "Void10",
-        "school_name": "",
-        "city": "",
-        "state_prov": "",
-        "country": "",
-        "address": "",
-        "postal_code": "",
-        "gmaps_place_id": "",
-        "gmaps_url": "",
-        "lat": 0,
-        "lng": 0,
-        "location_name": "",
-        "website": "",
-        "rookie_year": 0
-      },
-      {
-        "key": "frc17",
-        "team_number": 17,
-        "nickname": "Void11",
-        "name": "Void11",
-        "school_name": "",
-        "city": "",
-        "state_prov": "",
-        "country": "",
-        "address": "",
-        "postal_code": "",
-        "gmaps_place_id": "",
-        "gmaps_url": "",
-        "lat": 0,
-        "lng": 0,
-        "location_name": "",
-        "website": "",
-        "rookie_year": 0
-      },
-      {
-        "key": "frc18",
-        "team_number": 18,
-        "nickname": "Void12",
-        "name": "Void12",
-        "school_name": "",
-        "city": "",
-        "state_prov": "",
-        "country": "",
-        "address": "",
-        "postal_code": "",
-        "gmaps_place_id": "",
-        "gmaps_url": "",
-        "lat": 0,
-        "lng": 0,
-        "location_name": "",
-        "website": "",
-        "rookie_year": 0
-      },
-      {
-        "key": "frc19",
-        "team_number": 19,
-        "nickname": "Void13",
-        "name": "Void13",
-        "school_name": "",
-        "city": "",
-        "state_prov": "",
-        "country": "",
-        "address": "",
-        "postal_code": "",
-        "gmaps_place_id": "",
-        "gmaps_url": "",
-        "lat": 0,
-        "lng": 0,
-        "location_name": "",
-        "website": "",
-        "rookie_year": 0
-      },
-      {
-        "key": "frc20",
-        "team_number": 20,
-        "nickname": "Void14",
-        "name": "Void14",
+        "nickname": "fein",
+        "name": "fein",
         "school_name": "",
         "city": "",
         "state_prov": "",
@@ -603,102 +491,12 @@
       {
         "team": 1,
         "tablet": "Tablet 7",
-        "name": "WCPCC"
+        "name": "whats up chicken butt"
       },
       {
         "team": 2,
         "tablet": "Tablet 7",
-        "name": "Cranberry Alarm"
-      },
-      {
-        "team": 3,
-        "tablet": "Tablet 7",
-        "name": "Penn State"
-      },
-      {
-        "team": 4,
-        "tablet": "Tablet 7",
-        "name": "Unqualified Quokka"
-      },
-      {
-        "team": 5,
-        "tablet": "Tablet 7",
-        "name": "Rusthounds"
-      },
-      {
-        "team": 6,
-        "tablet": "Tablet 7",
-        "name": "Big Sky"
-      },
-      {
-        "team": 7,
-        "tablet": "Tablet 7",
-        "name": "Void1"
-      },
-      {
-        "team": 8,
-        "tablet": "Tablet 7",
-        "name": "Void2"
-      },
-      {
-        "team": 9,
-        "tablet": "Tablet 7",
-        "name": "Void3"
-      },
-      {
-        "team": 10,
-        "tablet": "Tablet 7",
-        "name": "Void4"
-      },
-      {
-        "team": 11,
-        "tablet": "Tablet 7",
-        "name": "Void5"
-      },
-      {
-        "team": 12,
-        "tablet": "Tablet 7",
-        "name": "Void6"
-      },
-      {
-        "team": 13,
-        "tablet": "Tablet 7",
-        "name": "Void7"
-      },
-      {
-        "team": 14,
-        "tablet": "Tablet 7",
-        "name": "Void8"
-      },
-      {
-        "team": 15,
-        "tablet": "Tablet 7",
-        "name": "Void9"
-      },
-      {
-        "team": 16,
-        "tablet": "Tablet 7",
-        "name": "Void10"
-      },
-      {
-        "team": 17,
-        "tablet": "Tablet 7",
-        "name": "Void11"
-      },
-      {
-        "team": 18,
-        "tablet": "Tablet 7",
-        "name": "Void12"
-      },
-      {
-        "team": 19,
-        "tablet": "Tablet 7",
-        "name": "Void13"
-      },
-      {
-        "team": 20,
-        "tablet": "Tablet 7",
-        "name": "Void14"
+        "name": "fein"
       }
     ],
     "matchassignements_": [
@@ -707,8 +505,8 @@
         "match_number": 1,
         "set_number": 1,
         "alliance": "red",
-        "teamnumber": 1,
-        "teamname": "WCPCC",
+        "teamnumber": 0,
+        "teamname": "",
         "tablet": "Tablet 1"
       },
       {
@@ -716,8 +514,8 @@
         "match_number": 1,
         "set_number": 1,
         "alliance": "red",
-        "teamnumber": 2,
-        "teamname": "Cranberry Alarm",
+        "teamnumber": 0,
+        "teamname": "",
         "tablet": "Tablet 2"
       },
       {
@@ -725,8 +523,8 @@
         "match_number": 1,
         "set_number": 1,
         "alliance": "red",
-        "teamnumber": 3,
-        "teamname": "Penn State",
+        "teamnumber": 0,
+        "teamname": "",
         "tablet": "Tablet 3"
       },
       {
@@ -734,8 +532,8 @@
         "match_number": 1,
         "set_number": 1,
         "alliance": "blue",
-        "teamnumber": 4,
-        "teamname": "Unqualified Quokka",
+        "teamnumber": 0,
+        "teamname": "",
         "tablet": "Tablet 4"
       },
       {
@@ -743,8 +541,8 @@
         "match_number": 1,
         "set_number": 1,
         "alliance": "blue",
-        "teamnumber": 5,
-        "teamname": "Rusthounds",
+        "teamnumber": 0,
+        "teamname": "",
         "tablet": "Tablet 5"
       },
       {
@@ -752,170 +550,8 @@
         "match_number": 1,
         "set_number": 1,
         "alliance": "blue",
-        "teamnumber": 6,
-        "teamname": "Big Sky",
-        "tablet": "Tablet 6"
-      },
-      {
-        "comp_level": "qm",
-        "match_number": 2,
-        "set_number": 1,
-        "alliance": "red",
-        "teamnumber": 1,
-        "teamname": "WCPCC",
-        "tablet": "Tablet 1"
-      },
-      {
-        "comp_level": "qm",
-        "match_number": 2,
-        "set_number": 1,
-        "alliance": "red",
-        "teamnumber": 3,
-        "teamname": "Penn State",
-        "tablet": "Tablet 2"
-      },
-      {
-        "comp_level": "qm",
-        "match_number": 2,
-        "set_number": 1,
-        "alliance": "red",
-        "teamnumber": 5,
-        "teamname": "Rusthounds",
-        "tablet": "Tablet 3"
-      },
-      {
-        "comp_level": "qm",
-        "match_number": 2,
-        "set_number": 1,
-        "alliance": "blue",
-        "teamnumber": 2,
-        "teamname": "Cranberry Alarm",
-        "tablet": "Tablet 4"
-      },
-      {
-        "comp_level": "qm",
-        "match_number": 2,
-        "set_number": 1,
-        "alliance": "blue",
-        "teamnumber": 4,
-        "teamname": "Unqualified Quokka",
-        "tablet": "Tablet 5"
-      },
-      {
-        "comp_level": "qm",
-        "match_number": 2,
-        "set_number": 1,
-        "alliance": "blue",
-        "teamnumber": 6,
-        "teamname": "Big Sky",
-        "tablet": "Tablet 6"
-      },
-      {
-        "comp_level": "qm",
-        "match_number": 3,
-        "set_number": 1,
-        "alliance": "red",
-        "teamnumber": 1,
-        "teamname": "WCPCC",
-        "tablet": "Tablet 1"
-      },
-      {
-        "comp_level": "qm",
-        "match_number": 3,
-        "set_number": 1,
-        "alliance": "red",
-        "teamnumber": 2,
-        "teamname": "Cranberry Alarm",
-        "tablet": "Tablet 2"
-      },
-      {
-        "comp_level": "qm",
-        "match_number": 3,
-        "set_number": 1,
-        "alliance": "red",
-        "teamnumber": 3,
-        "teamname": "Penn State",
-        "tablet": "Tablet 3"
-      },
-      {
-        "comp_level": "qm",
-        "match_number": 3,
-        "set_number": 1,
-        "alliance": "blue",
-        "teamnumber": 4,
-        "teamname": "Unqualified Quokka",
-        "tablet": "Tablet 4"
-      },
-      {
-        "comp_level": "qm",
-        "match_number": 3,
-        "set_number": 1,
-        "alliance": "blue",
-        "teamnumber": 5,
-        "teamname": "Rusthounds",
-        "tablet": "Tablet 5"
-      },
-      {
-        "comp_level": "qm",
-        "match_number": 3,
-        "set_number": 1,
-        "alliance": "blue",
-        "teamnumber": 6,
-        "teamname": "Big Sky",
-        "tablet": "Tablet 6"
-      },
-      {
-        "comp_level": "qm",
-        "match_number": 4,
-        "set_number": 1,
-        "alliance": "red",
-        "teamnumber": 1,
-        "teamname": "WCPCC",
-        "tablet": "Tablet 1"
-      },
-      {
-        "comp_level": "qm",
-        "match_number": 4,
-        "set_number": 1,
-        "alliance": "red",
-        "teamnumber": 3,
-        "teamname": "Penn State",
-        "tablet": "Tablet 2"
-      },
-      {
-        "comp_level": "qm",
-        "match_number": 4,
-        "set_number": 1,
-        "alliance": "red",
-        "teamnumber": 5,
-        "teamname": "Rusthounds",
-        "tablet": "Tablet 3"
-      },
-      {
-        "comp_level": "qm",
-        "match_number": 4,
-        "set_number": 1,
-        "alliance": "blue",
-        "teamnumber": 2,
-        "teamname": "Cranberry Alarm",
-        "tablet": "Tablet 4"
-      },
-      {
-        "comp_level": "qm",
-        "match_number": 4,
-        "set_number": 1,
-        "alliance": "blue",
-        "teamnumber": 4,
-        "teamname": "Unqualified Quokka",
-        "tablet": "Tablet 5"
-      },
-      {
-        "comp_level": "qm",
-        "match_number": 4,
-        "set_number": 1,
-        "alliance": "blue",
-        "teamnumber": 6,
-        "teamname": "Big Sky",
+        "teamnumber": 0,
+        "teamname": "",
         "tablet": "Tablet 6"
       }
     ],
@@ -1509,9 +1145,9 @@
           "red": {
             "score": 0,
             "team_keys": [
-              "frc1",
-              "frc2",
-              "frc3"
+              "frc0",
+              "frc0",
+              "frc0"
             ],
             "surrogate_team_keys": [],
             "dq_team_keys": []
@@ -1519,117 +1155,9 @@
           "blue": {
             "score": 0,
             "team_keys": [
-              "frc4",
-              "frc5",
-              "frc6"
-            ],
-            "surrogate_team_keys": [],
-            "dq_team_keys": []
-          }
-        },
-        "winning_alliance": "",
-        "event_key": "",
-        "time": 0,
-        "actual_time": 0,
-        "predicted_time": 0,
-        "post_result_time": 0,
-        "score_breakdown": {},
-        "videos": []
-      },
-      {
-        "key": "qm-1-2",
-        "comp_level": "qm",
-        "set_number": 1,
-        "match_number": 2,
-        "alliances": {
-          "red": {
-            "score": 0,
-            "team_keys": [
-              "frc1",
-              "frc3",
-              "frc5"
-            ],
-            "surrogate_team_keys": [],
-            "dq_team_keys": []
-          },
-          "blue": {
-            "score": 0,
-            "team_keys": [
-              "frc2",
-              "frc4",
-              "frc6"
-            ],
-            "surrogate_team_keys": [],
-            "dq_team_keys": []
-          }
-        },
-        "winning_alliance": "",
-        "event_key": "",
-        "time": 0,
-        "actual_time": 0,
-        "predicted_time": 0,
-        "post_result_time": 0,
-        "score_breakdown": {},
-        "videos": []
-      },
-      {
-        "key": "qm-1-3",
-        "comp_level": "qm",
-        "set_number": 1,
-        "match_number": 3,
-        "alliances": {
-          "red": {
-            "score": 0,
-            "team_keys": [
-              "frc1",
-              "frc2",
-              "frc3"
-            ],
-            "surrogate_team_keys": [],
-            "dq_team_keys": []
-          },
-          "blue": {
-            "score": 0,
-            "team_keys": [
-              "frc4",
-              "frc5",
-              "frc6"
-            ],
-            "surrogate_team_keys": [],
-            "dq_team_keys": []
-          }
-        },
-        "winning_alliance": "",
-        "event_key": "",
-        "time": 0,
-        "actual_time": 0,
-        "predicted_time": 0,
-        "post_result_time": 0,
-        "score_breakdown": {},
-        "videos": []
-      },
-      {
-        "key": "qm-1-4",
-        "comp_level": "qm",
-        "set_number": 1,
-        "match_number": 4,
-        "alliances": {
-          "red": {
-            "score": 0,
-            "team_keys": [
-              "frc1",
-              "frc3",
-              "frc5"
-            ],
-            "surrogate_team_keys": [],
-            "dq_team_keys": []
-          },
-          "blue": {
-            "score": 0,
-            "team_keys": [
-              "frc2",
-              "frc4",
-              "frc6"
+              "frc0",
+              "frc0",
+              "frc0"
             ],
             "surrogate_team_keys": [],
             "dq_team_keys": []
@@ -1757,6 +1285,192 @@
         "type": "integer",
         "source": "bluealliance",
         "editable": false
+      },
+      {
+        "name": "pit_trench",
+        "type": "boolean",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "pit_scouter",
+        "type": "string",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "pit_bump",
+        "type": "string",
+        "choices": [
+          {
+            "text": "can't",
+            "value": "cant"
+          },
+          {
+            "text": "low confidence",
+            "value": "low confidence"
+          },
+          {
+            "text": "can",
+            "value": "can"
+          }
+        ],
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "pit_DB",
+        "type": "string",
+        "choices": [
+          {
+            "text": "Swerve",
+            "value": "swerve"
+          },
+          {
+            "text": "Tank",
+            "value": "tank"
+          },
+          {
+            "text": "WC",
+            "value": "west_coast"
+          },
+          {
+            "text": "Mec",
+            "value": "mec"
+          }
+        ],
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "pit_intake",
+        "type": "string",
+        "choices": [
+          {
+            "text": "None",
+            "value": "none"
+          },
+          {
+            "text": "Ground",
+            "value": "ground"
+          },
+          {
+            "text": "Human Player",
+            "value": "human_player"
+          },
+          {
+            "text": "Both",
+            "value": "both"
+          }
+        ],
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "pit_align",
+        "type": "string",
+        "choices": [
+          {
+            "text": "None",
+            "value": "none"
+          },
+          {
+            "text": "Manual Align",
+            "value": "manual"
+          },
+          {
+            "text": "Auto Align",
+            "value": "auto_static"
+          },
+          {
+            "text": "Shoot While Moving",
+            "value": "auto_moving"
+          }
+        ],
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "pit_BPS",
+        "type": "string",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "pit_maxHopper",
+        "type": "string",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "pit_OPdeliver",
+        "type": "boolean",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "pit_a_maxFuel",
+        "type": "string",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "pit_estAccuracy",
+        "type": "string",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "pit_ferryNet",
+        "type": "boolean",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "pit_movingFerry",
+        "type": "boolean",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "pit_ferryAutoalign",
+        "type": "boolean",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "pit_ferrying",
+        "type": "string",
+        "choices": [
+          {
+            "text": "Neutral Zone",
+            "value": "NZ"
+          },
+          {
+            "text": "Opponent Zone",
+            "value": "OZ"
+          }
+        ],
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "tag_14",
+        "type": "string",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "pit_Notes",
+        "type": "string",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "pit_flipClimb",
+        "type": "boolean",
+        "editable": true,
+        "source": "form"
       }
     ]
   },
@@ -1833,6 +1547,310 @@
         "type": "string",
         "source": "bluealliance",
         "editable": false
+      },
+      {
+        "name": "scout_Init",
+        "type": "string",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "a_startPos",
+        "type": "string",
+        "choices": [
+          {
+            "text": "1",
+            "value": "depotWall1"
+          },
+          {
+            "text": "2",
+            "value": "depot2"
+          },
+          {
+            "text": "3",
+            "value": "middle3"
+          },
+          {
+            "text": "4",
+            "value": "outpost4"
+          },
+          {
+            "text": "5",
+            "value": "outpostWall5"
+          }
+        ],
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "a_hit",
+        "type": "boolean",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "a_Climb",
+        "type": "string",
+        "choices": [
+          {
+            "text": "No climb",
+            "value": "None"
+          },
+          {
+            "text": "Failed climb",
+            "value": "Failed"
+          },
+          {
+            "text": "L3, L",
+            "value": "L3_L"
+          },
+          {
+            "text": "L3, Mid",
+            "value": "L3_M"
+          },
+          {
+            "text": "L3, R",
+            "value": "L3_R"
+          },
+          {
+            "text": "L2, L",
+            "value": "L2_L"
+          },
+          {
+            "text": "L2, Mid",
+            "value": "L2_M"
+          },
+          {
+            "text": "L2, R",
+            "value": "L2_R"
+          },
+          {
+            "text": "L1, L",
+            "value": "L1_L"
+          },
+          {
+            "text": "L1, Mid",
+            "value": "L1_M"
+          },
+          {
+            "text": "L1, R",
+            "value": "L1_R"
+          }
+        ],
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "a_flipClimb",
+        "type": "boolean",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "a_scoringTime",
+        "type": "real",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "a_scoringTime_segments",
+        "type": "string",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "a_ferryTime",
+        "type": "real",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "a_ferryTime_segments",
+        "type": "string",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "t_incap",
+        "type": "integer",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "t_scoringTime",
+        "type": "real",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "t_scoringTime_segments",
+        "type": "string",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "t_NZferryTime",
+        "type": "real",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "t_NZferryTime_segments",
+        "type": "string",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "t_OZferryTime",
+        "type": "real",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "t_OZferryTime_segments",
+        "type": "string",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "end_Climb",
+        "type": "string",
+        "choices": [
+          {
+            "text": "No climb",
+            "value": "None"
+          },
+          {
+            "text": "Failed climb",
+            "value": "Failed"
+          },
+          {
+            "text": "L3, L",
+            "value": "L3_L"
+          },
+          {
+            "text": "L3, Mid",
+            "value": "L3_M"
+          },
+          {
+            "text": "L3, R",
+            "value": "L3_R"
+          },
+          {
+            "text": "L2, L",
+            "value": "L2_L"
+          },
+          {
+            "text": "L2, Mid",
+            "value": "L2_M"
+          },
+          {
+            "text": "L2, R",
+            "value": "L2_R"
+          },
+          {
+            "text": "L1, L",
+            "value": "L1_L"
+          },
+          {
+            "text": "L1, Mid",
+            "value": "L1_M"
+          },
+          {
+            "text": "L1, R",
+            "value": "L1_R"
+          }
+        ],
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "end_flipClimb",
+        "type": "boolean",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "t_Defense",
+        "type": "string",
+        "choices": [
+          {
+            "text": "None",
+            "value": "none"
+          },
+          {
+            "text": "Neutral Zone",
+            "value": "NZ"
+          },
+          {
+            "text": "Alliance Zone",
+            "value": "AZ"
+          },
+          {
+            "text": "Opp. Zone",
+            "value": "OZ"
+          },
+          {
+            "text": "Bump/Trench",
+            "value": "bumpTrench"
+          }
+        ],
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "a_Notes",
+        "type": "string",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "active_Notes",
+        "type": "string",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "inactive_Notes",
+        "type": "string",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "end_Notes",
+        "type": "string",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "t_outpostDeliv",
+        "type": "integer",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "t_outpostCollect",
+        "type": "integer",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "t_OPPferryTime",
+        "type": "integer",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "t_incapTime",
+        "type": "integer",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "t_Defenses",
+        "type": "boolean",
+        "editable": true,
+        "source": "form"
       }
     ]
   },
@@ -1849,5 +1867,6 @@
     ],
     "outcomes": {}
   },
-  "locked_": false
+  "locked_": true,
+  "uuid_": "a5ae1544-801f-4623-aef0-96f453ad4563"
 }
