@@ -1,0 +1,51 @@
+{
+    "purpose": "team",
+    "sections": [
+        {
+            "name": "New Section",
+            "items": [
+                {
+                    "type": "robotphoto",
+                    "tag": "pit_photo",
+                    "x": 36,
+                    "y": 17,
+                    "width": 280,
+                    "height": 220,
+                    "color": "black",
+                    "background": "#f3f4f6",
+                    "fontFamily": "Arial",
+                    "fontSize": 20,
+                    "fontWeight": "normal",
+                    "fontStyle": "normal",
+                    "datatype": "string",
+                    "transparent": false,
+                    "mode": "capture"
+                },
+                {
+                    "type": "label",
+                    "text": "MyLabel",
+                    "tag": "tag_1",
+                    "x": 481,
+                    "y": 151,
+                    "width": 250,
+                    "height": 50,
+                    "color": "black",
+                    "background": "white",
+                    "fontFamily": "Arial",
+                    "fontSize": 36,
+                    "fontWeight": "normal",
+                    "fontStyle": "normal",
+                    "datatype": "null",
+                    "transparent": true
+                }
+            ]
+        }
+    ],
+    "tablet": {
+        "name": "surface",
+        "size": {
+            "width": 1089,
+            "height": 727
+        }
+    }
+}

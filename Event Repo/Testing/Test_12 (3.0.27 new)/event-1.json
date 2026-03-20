@@ -1,0 +1,405 @@
+{
+  "hidden_hints_": [],
+  "data_info_": {
+    "scouted_team_": [],
+    "scouted_match_": [],
+    "match_results_": [],
+    "team_results_": [],
+    "match_formulas_": [],
+    "team_formulas_": [],
+    "teamdb_col_config_": {
+      "frozenColumnCount": 0,
+      "columns": [
+        {
+          "name": "key",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "team_number",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "nickname",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "name",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "school_name",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "city",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "state_prov",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "country",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "address",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "postal_code",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "gmaps_place_id",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "gmaps_url",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "lat",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "lng",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "location_name",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "website",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "rookie_year",
+          "width": -1,
+          "hidden": false
+        }
+      ]
+    },
+    "matchdb_col_config_": {
+      "frozenColumnCount": 0,
+      "columns": [
+        {
+          "name": "key",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "comp_level",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "set_number",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "match_number",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "team_key",
+          "width": -1,
+          "hidden": false
+        }
+      ]
+    }
+  },
+  "dataset_info_": {
+    "datasets_": [
+      {
+        "name": "All",
+        "matches": {
+          "kind": "all",
+          "first": -1,
+          "last": -1
+        },
+        "formula": ""
+      }
+    ]
+  },
+  "picklist_info_": {
+    "picklist_": [],
+    "coaches_picklist_": []
+  },
+  "team_info_": {
+    "teams_": [
+      {
+        "key": "frc1",
+        "team_number": 1,
+        "nickname": "h",
+        "name": "h",
+        "school_name": "",
+        "city": "",
+        "state_prov": "",
+        "country": "",
+        "address": "",
+        "postal_code": "",
+        "gmaps_place_id": "",
+        "gmaps_url": "",
+        "lat": 0,
+        "lng": 0,
+        "location_name": "",
+        "website": "",
+        "rookie_year": 0
+      },
+      {
+        "key": "frc2",
+        "team_number": 2,
+        "nickname": "i",
+        "name": "i",
+        "school_name": "",
+        "city": "",
+        "state_prov": "",
+        "country": "",
+        "address": "",
+        "postal_code": "",
+        "gmaps_place_id": "",
+        "gmaps_url": "",
+        "lat": 0,
+        "lng": 0,
+        "location_name": "",
+        "website": "",
+        "rookie_year": 0
+      }
+    ]
+  },
+  "formula_info_": {
+    "formulas_": [],
+    "coach_formulas_": []
+  },
+  "tablet_info_": {
+    "tablets_": [
+      {
+        "name": "Tablet 7",
+        "purpose": "team"
+      },
+      {
+        "name": "Tablet 1",
+        "purpose": "match"
+      },
+      {
+        "name": "Tablet 2",
+        "purpose": "match"
+      },
+      {
+        "name": "Tablet 3",
+        "purpose": "match"
+      },
+      {
+        "name": "Tablet 4",
+        "purpose": "match"
+      },
+      {
+        "name": "Tablet 5",
+        "purpose": "match"
+      },
+      {
+        "name": "Tablet 6",
+        "purpose": "match"
+      }
+    ],
+    "teamassignments_": [
+      {
+        "team": 1,
+        "tablet": "Tablet 7",
+        "name": "h"
+      },
+      {
+        "team": 2,
+        "tablet": "Tablet 7",
+        "name": "i"
+      }
+    ],
+    "matchassignements_": [],
+    "playoffassignments_": []
+  },
+  "match_info_": {
+    "matches_": []
+  },
+  "graph_info_": {
+    "single_team_configs_": [],
+    "coach_configs_": []
+  },
+  "form_info_": {
+    "teamform_": "team.json",
+    "matchform_": "match.json"
+  },
+  "team_db_info_": {
+    "col_descs_": [
+      {
+        "name": "key",
+        "type": "string",
+        "source": "base",
+        "editable": false
+      },
+      {
+        "name": "team_number",
+        "type": "integer",
+        "source": "base",
+        "editable": false
+      },
+      {
+        "name": "nickname",
+        "type": "string",
+        "source": "bluealliance",
+        "editable": false
+      },
+      {
+        "name": "name",
+        "type": "string",
+        "source": "bluealliance",
+        "editable": false
+      },
+      {
+        "name": "school_name",
+        "type": "string",
+        "source": "bluealliance",
+        "editable": false
+      },
+      {
+        "name": "city",
+        "type": "string",
+        "source": "bluealliance",
+        "editable": false
+      },
+      {
+        "name": "state_prov",
+        "type": "string",
+        "source": "bluealliance",
+        "editable": false
+      },
+      {
+        "name": "country",
+        "type": "string",
+        "source": "bluealliance",
+        "editable": false
+      },
+      {
+        "name": "address",
+        "type": "string",
+        "source": "bluealliance",
+        "editable": false
+      },
+      {
+        "name": "postal_code",
+        "type": "string",
+        "source": "bluealliance",
+        "editable": false
+      },
+      {
+        "name": "gmaps_place_id",
+        "type": "string",
+        "source": "bluealliance",
+        "editable": false
+      },
+      {
+        "name": "gmaps_url",
+        "type": "string",
+        "source": "bluealliance",
+        "editable": false
+      },
+      {
+        "name": "lat",
+        "type": "real",
+        "source": "bluealliance",
+        "editable": false
+      },
+      {
+        "name": "lng",
+        "type": "real",
+        "source": "bluealliance",
+        "editable": false
+      },
+      {
+        "name": "location_name",
+        "type": "string",
+        "source": "bluealliance",
+        "editable": false
+      },
+      {
+        "name": "website",
+        "type": "string",
+        "source": "bluealliance",
+        "editable": false
+      },
+      {
+        "name": "rookie_year",
+        "type": "integer",
+        "source": "bluealliance",
+        "editable": false
+      }
+    ]
+  },
+  "match_db_info_": {
+    "col_descs_": [
+      {
+        "name": "key",
+        "type": "string",
+        "source": "base",
+        "editable": false
+      },
+      {
+        "name": "comp_level",
+        "type": "string",
+        "source": "base",
+        "editable": false
+      },
+      {
+        "name": "set_number",
+        "type": "integer",
+        "source": "base",
+        "editable": false
+      },
+      {
+        "name": "match_number",
+        "type": "integer",
+        "source": "base",
+        "editable": false
+      },
+      {
+        "name": "team_key",
+        "type": "string",
+        "source": "base",
+        "editable": false
+      }
+    ]
+  },
+  "playoff_info_": {
+    "alliances": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "outcomes": {}
+  },
+  "locked_": false
+}

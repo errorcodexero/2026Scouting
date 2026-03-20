@@ -1,0 +1,35 @@
+{
+    "purpose": "match",
+    "sections": [
+        {
+            "name": "New Section",
+            "items": [
+                {
+                    "type": "autoselector",
+                    "tag": "auto_select",
+                    "x": 40,
+                    "y": 25,
+                    "width": 299,
+                    "height": 112,
+                    "color": "#0f172a",
+                    "background": "#e6eefb",
+                    "fontFamily": "Arial",
+                    "fontSize": 20,
+                    "fontWeight": "bold",
+                    "fontStyle": "normal",
+                    "datatype": "string",
+                    "transparent": false,
+                    "fieldImage": "autoImage2",
+                    "showSourceTagInTab": true
+                }
+            ]
+        }
+    ],
+    "tablet": {
+        "name": "surface",
+        "size": {
+            "width": 1089,
+            "height": 727
+        }
+    }
+}

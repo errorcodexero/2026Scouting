@@ -1,0 +1,44 @@
+{
+    "purpose": "team",
+    "sections": [
+        {
+            "name": "New Section",
+            "items": [
+                {
+                    "type": "autoplan",
+                    "tag": "tag_1",
+                    "x": 4,
+                    "y": 5,
+                    "width": 1070,
+                    "height": 692,
+                    "color": "#ffffff",
+                    "background": "#0d1220",
+                    "fontFamily": "Arial",
+                    "fontSize": 16,
+                    "fontWeight": "bold",
+                    "fontStyle": "normal",
+                    "datatype": "string",
+                    "transparent": false,
+                    "fieldImage": "autoImage2",
+                    "approvedActions": [
+                        "Start",
+                        "Shoot",
+                        "Intake",
+                        "Feed",
+                        "Climb",
+                        "Ferry",
+                        "End"
+                    ],
+                    "allowMultipleAutos": true
+                }
+            ]
+        }
+    ],
+    "tablet": {
+        "name": "surface",
+        "size": {
+            "width": 1089,
+            "height": 727
+        }
+    }
+}

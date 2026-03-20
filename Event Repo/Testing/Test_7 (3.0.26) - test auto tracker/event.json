@@ -1,0 +1,6450 @@
+{
+  "hidden_hints_": [],
+  "data_info_": {
+    "scouted_team_": [
+      78,
+      88
+    ],
+    "scouted_match_": [],
+    "match_results_": [],
+    "team_results_": [
+      {
+        "item": "st-78",
+        "data": [
+          {
+            "tag": "pit_trench",
+            "value": {
+              "type": "boolean",
+              "value": false
+            }
+          },
+          {
+            "tag": "pit_scouter",
+            "value": {
+              "type": "string",
+              "value": ""
+            }
+          },
+          {
+            "tag": "pit_bump",
+            "value": {
+              "type": "string",
+              "value": "cant"
+            }
+          },
+          {
+            "tag": "pit_DB",
+            "value": {
+              "type": "string",
+              "value": "swerve"
+            }
+          },
+          {
+            "tag": "pit_intake",
+            "value": {
+              "type": "string",
+              "value": "none"
+            }
+          },
+          {
+            "tag": "pit_align",
+            "value": {
+              "type": "string",
+              "value": "none"
+            }
+          },
+          {
+            "tag": "pit_BPS",
+            "value": {
+              "type": "string",
+              "value": ""
+            }
+          },
+          {
+            "tag": "pit_maxHopper",
+            "value": {
+              "type": "string",
+              "value": ""
+            }
+          },
+          {
+            "tag": "pit_OPdeliver",
+            "value": {
+              "type": "boolean",
+              "value": false
+            }
+          },
+          {
+            "tag": "pit_a_maxFuel",
+            "value": {
+              "type": "string",
+              "value": ""
+            }
+          },
+          {
+            "tag": "pit_estAccuracy",
+            "value": {
+              "type": "string",
+              "value": ""
+            }
+          },
+          {
+            "tag": "tag_14",
+            "value": {
+              "type": "string",
+              "value": "{\"version\":1,\"autos\":[{\"id\":\"auto-1\",\"name\":\"Auto 1\",\"nodes\":[{\"id\":\"node-1771702707432-1\",\"action\":\"Start\",\"x\":0.47096943645127826,\"y\":0.17805250596897484,\"end\":false},{\"id\":\"node-1771702709156-2\",\"action\":\"Intake\",\"x\":0.2680770909694856,\"y\":0.2971639303341976,\"end\":false},{\"id\":\"node-1771702710632-3\",\"action\":\"Shoot\",\"x\":0.43456814775923946,\"y\":0.4916761751739669,\"end\":false},{\"id\":\"node-1771702712485-4\",\"action\":\"End\",\"x\":0.3295415495008422,\"y\":0.5648914979688228}],\"edges\":[{\"id\":\"edge-1771702741673-6\",\"from\":\"node-1771702707432-1\",\"to\":\"node-1771702709156-2\",\"cx\":0.3695232637103819,\"cy\":0.23760821815158623},{\"id\":\"edge-1771702748717-7\",\"from\":\"node-1771702709156-2\",\"to\":\"node-1771702710632-3\",\"cx\":0.35132261936436254,\"cy\":0.3944200527540822},{\"id\":\"edge-1771702749728-8\",\"from\":\"node-1771702710632-3\",\"to\":\"node-1771702712485-4\",\"cx\":0.3820548486300408,\"cy\":0.5282838365713949}]},{\"id\":\"auto-1771702732823-5\",\"name\":\"Auto 2\",\"nodes\":[{\"id\":\"node-1771702764320-9\",\"action\":\"Start\",\"x\":0.45127694586324285,\"y\":0.4949544717163385,\"end\":false},{\"id\":\"node-1771702766183-10\",\"action\":\"Shoot\",\"x\":0.36355585142563057,\"y\":0.5015110648010817,\"end\":false},{\"id\":\"node-1771702769551-11\",\"action\":\"Intake\",\"x\":0.26330317206835946,\"y\":0.8435467040704081,\"end\":false},{\"id\":\"node-1771702770888-12\",\"action\":\"Shoot\",\"x\":0.45426063834727487,\"y\":0.6282719311365639,\"end\":true}],\"edges\":[{\"id\":\"edge-1771702800217-13\",\"from\":\"node-1771702764320-9\",\"to\":\"node-1771702766183-10\",\"cx\":0.4074163986444367,\"cy\":0.4982327682587101},{\"id\":\"edge-1771702803279-14\",\"from\":\"node-1771702766183-10\",\"to\":\"node-1771702764320-9\",\"cx\":0.4074163986444367,\"cy\":0.4982327682587101},{\"id\":\"edge-1771702805270-15\",\"from\":\"node-1771702764320-9\",\"to\":\"node-1771702770888-12\",\"cx\":0.4527687921052589,\"cy\":0.5616132014264512},{\"id\":\"edge-1771702805528-16\",\"from\":\"node-1771702770888-12\",\"to\":\"node-1771702766183-10\",\"cx\":0.4089082448864527,\"cy\":0.5648914979688228},{\"id\":\"edge-1771702811101-17\",\"from\":\"node-1771702766183-10\",\"to\":\"node-1771702770888-12\",\"cx\":0.4089082448864527,\"cy\":0.5648914979688228},{\"id\":\"edge-1771702811399-18\",\"from\":\"node-1771702770888-12\",\"to\":\"node-1771702769551-11\",\"cx\":0.35878190520781716,\"cy\":0.735909317603486}]},{\"id\":\"auto-1771702818355-19\",\"name\":\"Auto 3\",\"nodes\":[{\"id\":\"node-1771702821119-20\",\"action\":\"Start\",\"x\":0.45903455724840103,\"y\":0.44359452590107384,\"end\":false},{\"id\":\"node-1771702824497-21\",\"action\":\"Intake\",\"x\":0.6655074101977564,\"y\":0.7124148423755444,\"end\":false},{\"id\":\"node-1771702826102-22\",\"action\":\"Shoot\",\"x\":0.39100595339882416,\"y\":0.562706000289132,\"end\":false},{\"id\":\"node-1771702827459-23\",\"action\":\"Intake\",\"x\":0.6672976366148505,\"y\":0.804207145561949,\"end\":false},{\"id\":\"node-1771702829074-24\",\"action\":\"End\",\"x\":0.3641525571424123,\"y\":0.6501272080704842}],\"edges\":[{\"id\":\"edge-1771702843866-25\",\"from\":\"node-1771702829074-24\",\"to\":\"node-1771702821119-20\",\"cx\":0.4115935571954067,\"cy\":0.5468608669857791},{\"id\":\"edge-1771702844025-26\",\"from\":\"node-1771702821119-20\",\"to\":\"node-1771702829074-24\",\"cx\":0.4115935571954067,\"cy\":0.5468608669857791},{\"id\":\"edge-1771702866821-27\",\"from\":\"node-1771702821119-20\",\"to\":\"node-1771702824497-21\",\"cx\":0.7645665688547151,\"cy\":0.19990778290289518},{\"id\":\"edge-1771702872616-28\",\"from\":\"node-1771702829074-24\",\"to\":\"node-1771702827459-23\",\"cx\":0.38265158166350977,\"cy\":0.9309679118517603}]},{\"id\":\"auto-1771702884768-29\",\"name\":\"Auto 4\",\"nodes\":[{\"id\":\"node-1771702889936-30\",\"action\":\"Start\",\"x\":0.4655987571999958,\"y\":0.35289497155451466},{\"id\":\"node-1771703010917-31\",\"action\":\"Intake\",\"x\":0.44650297232874214,\"y\":0.5583349048840796},{\"id\":\"node-1771703012313-32\",\"action\":\"Climb\",\"x\":0.35878187789112986,\"y\":0.5965816645298578},{\"id\":\"node-1771703015474-33\",\"action\":\"Ferry\",\"x\":0.3731036892278829,\"y\":0.3354107400028113},{\"id\":\"node-1771703029047-37\",\"action\":\"Shoot\",\"x\":0.44053558736067805,\"y\":0.1911656921384612}],\"edges\":[{\"id\":\"edge-1771703021151-34\",\"from\":\"node-1771702889936-30\",\"to\":\"node-1771703015474-33\",\"cx\":0.4056261449106553,\"cy\":0.3856779369782306},{\"id\":\"edge-1771703022182-35\",\"from\":\"node-1771703015474-33\",\"to\":\"node-1771703010917-31\",\"cx\":0.40980333077831255,\"cy\":0.4468728224434454},{\"id\":\"edge-1771703025253-36\",\"from\":\"node-1771703010917-31\",\"to\":\"node-1771703012313-32\",\"cx\":0.402642425109936,\"cy\":0.5774582847069687},{\"id\":\"edge-1771703036597-38\",\"from\":\"node-1771703012313-32\",\"to\":\"node-1771702889936-30\",\"cx\":0.41219031754556285,\"cy\":0.47473831804218625}]},{\"id\":\"auto-1771703044468-39\",\"name\":\"Auto 5\",\"nodes\":[{\"id\":\"node-1771703048079-40\",\"action\":\"Start\",\"x\":0.42024633642248643,\"y\":0.16821761634186005},{\"id\":\"node-1771703049397-41\",\"action\":\"Shoot\",\"x\":0.42442354960683093,\"y\":0.2927928849519806},{\"id\":\"node-1771703050496-42\",\"action\":\"Intake\",\"x\":0.42800400244101916,\"y\":0.4523366166655078},{\"id\":\"node-1771703051645-43\",\"action\":\"Climb\",\"x\":0.4351649081093957,\"y\":0.610787649562025},{\"id\":\"node-1771703077800-48\",\"action\":\"Shoot\",\"x\":0.3480405193885651,\"y\":0.6840029723568809},{\"id\":\"node-1771703110415-50\",\"action\":\"Shoot\",\"x\":0.5139348704615373,\"y\":0.24798948219862368},{\"id\":\"node-1771703139418-54\",\"action\":\"Intake\",\"x\":0.5610774630227663,\"y\":0.42829579202906126}],\"edges\":[{\"id\":\"edge-1771703055856-44\",\"from\":\"node-1771703048079-40\",\"to\":\"node-1771703049397-41\",\"cx\":0.4223349430146587,\"cy\":0.23050525064692032},{\"id\":\"edge-1771703059284-45\",\"from\":\"node-1771703050496-42\",\"to\":\"node-1771703049397-41\",\"cx\":0.4262137760239251,\"cy\":0.3725647508087442},{\"id\":\"edge-1771703061216-46\",\"from\":\"node-1771703049397-41\",\"to\":\"node-1771703050496-42\",\"cx\":0.4262137760239251,\"cy\":0.3725647508087442},{\"id\":\"edge-1771703070454-47\",\"from\":\"node-1771703051645-43\",\"to\":\"node-1771703050496-42\",\"cx\":0.4315844552752074,\"cy\":0.5315621331137664},{\"id\":\"edge-1771703089679-49\",\"from\":\"node-1771703077800-48\",\"to\":\"node-1771703051645-43\",\"cx\":0.39160271374898037,\"cy\":0.647395310959453},{\"id\":\"edge-1771703144124-55\",\"from\":\"node-1771703111811-51\",\"to\":\"node-1771703139418-54\"},{\"id\":\"edge-1771703145085-56\",\"from\":\"node-1771703139418-54\",\"to\":\"node-1771703110415-50\",\"cx\":0.5375061667421518,\"cy\":0.33814263711384246}]}],\"activeAutoId\":\"auto-1771703044468-39\"}"
+            }
+          }
+        ]
+      },
+      {
+        "item": "st-88",
+        "data": [
+          {
+            "tag": "pit_trench",
+            "value": {
+              "type": "boolean",
+              "value": false
+            }
+          },
+          {
+            "tag": "pit_scouter",
+            "value": {
+              "type": "string",
+              "value": ""
+            }
+          },
+          {
+            "tag": "pit_bump",
+            "value": {
+              "type": "string",
+              "value": "cant"
+            }
+          },
+          {
+            "tag": "pit_DB",
+            "value": {
+              "type": "string",
+              "value": "swerve"
+            }
+          },
+          {
+            "tag": "pit_ferryNet",
+            "value": {
+              "type": "boolean",
+              "value": false
+            }
+          },
+          {
+            "tag": "pit_movingFerry",
+            "value": {
+              "type": "boolean",
+              "value": false
+            }
+          },
+          {
+            "tag": "pit_ferryAutoalign",
+            "value": {
+              "type": "boolean",
+              "value": false
+            }
+          },
+          {
+            "tag": "pit_ferrying",
+            "value": {
+              "type": "string",
+              "value": "[]"
+            }
+          },
+          {
+            "tag": "tag_14",
+            "value": {
+              "type": "string",
+              "value": "{\"version\":1,\"autos\":[{\"id\":\"auto-1\",\"name\":\"Auto 1\",\"nodes\":[{\"id\":\"node-1771703193721-1\",\"action\":\"Start\",\"x\":0.42442354960683093,\"y\":0.16603206863933387,\"end\":true},{\"id\":\"node-1771703195198-2\",\"action\":\"Shoot\",\"x\":0.25136829286548223,\"y\":0.30590607112146695,\"end\":false},{\"id\":\"node-1771703197060-3\",\"action\":\"Intake\",\"x\":0.2728510098706118,\"y\":0.5146242509705681,\"end\":false}],\"edges\":[{\"id\":\"edge-1771703215646-5\",\"from\":\"node-1771703195198-2\",\"to\":\"node-1771703193721-1\",\"cx\":0.3378959212361566,\"cy\":0.2359690698804004},{\"id\":\"edge-1771703217528-6\",\"from\":\"node-1771703193721-1\",\"to\":\"node-1771703197060-3\",\"cx\":0.4435192798447101,\"cy\":0.4873051798145854}]},{\"id\":\"auto-1771703233510-7\",\"name\":\"Auto 2\",\"nodes\":[{\"id\":\"node-1771703237462-8\",\"action\":\"Start\",\"x\":0.47932380818659265,\"y\":0.40534771623246013},{\"id\":\"node-1771703240979-9\",\"action\":\"Shoot\",\"x\":0.360572104308224,\"y\":0.5703552921908851},{\"id\":\"node-1771703242247-10\",\"action\":\"Intake\",\"x\":0.4655987571999958,\"y\":0.7408267123942079}],\"edges\":[{\"id\":\"edge-1771703251407-11\",\"from\":\"node-1771703237462-8\",\"to\":\"node-1771703240979-9\",\"cx\":0.3731036892278829,\"cy\":0.3725647508087442},{\"id\":\"edge-1771703253497-12\",\"from\":\"node-1771703240979-9\",\"to\":\"node-1771703242247-10\",\"cx\":0.34744381367178345,\"cy\":0.7845373663077194}]}],\"activeAutoId\":\"auto-1771703233510-7\"}"
+            }
+          }
+        ]
+      }
+    ],
+    "match_formulas_": [],
+    "team_formulas_": [],
+    "teamdb_col_config_": {
+      "frozenColumnCount": 0,
+      "columns": [
+        {
+          "name": "key",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "team_number",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "nickname",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "name",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "school_name",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "city",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "state_prov",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "country",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "address",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "postal_code",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "gmaps_place_id",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "gmaps_url",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "lat",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "lng",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "location_name",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "website",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "rookie_year",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "pit_trench",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "pit_scouter",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "pit_bump",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "pit_DB",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "pit_intake",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "pit_align",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "pit_BPS",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "pit_maxHopper",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "pit_OPdeliver",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "pit_a_maxFuel",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "pit_estAccuracy",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "pit_ferryNet",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "pit_movingFerry",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "pit_ferryAutoalign",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "pit_ferrying",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "tag_14",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "pit_Notes",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "pit_flipClimb",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "pit_climb",
+          "width": -1,
+          "hidden": false
+        }
+      ]
+    },
+    "matchdb_col_config_": {
+      "frozenColumnCount": 0,
+      "columns": [
+        {
+          "name": "key",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "comp_level",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "set_number",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "match_number",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "team_key",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "r1",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "r2",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "r3",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "b1",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "b2",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "b3",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "alliance",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "scout_Init",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "a_startPos",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "a_hit",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "a_Climb",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "a_flipClimb",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "a_scoringTime",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "a_scoringTime_segments",
+          "width": -1,
+          "hidden": true
+        },
+        {
+          "name": "a_ferryTime",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "a_ferryTime_segments",
+          "width": -1,
+          "hidden": true
+        },
+        {
+          "name": "a_selector",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "t_incap",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "t_scoringTime",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "t_scoringTime_segments",
+          "width": -1,
+          "hidden": true
+        },
+        {
+          "name": "t_NZferryTime",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "t_NZferryTime_segments",
+          "width": -1,
+          "hidden": true
+        },
+        {
+          "name": "t_OZferryTime",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "t_OZferryTime_segments",
+          "width": -1,
+          "hidden": true
+        },
+        {
+          "name": "end_Climb",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "end_flipClimb",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "t_Defense",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "a_Notes",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "active_Notes",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "inactive_Notes",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "end_Notes",
+          "width": -1,
+          "hidden": false
+        }
+      ]
+    }
+  },
+  "dataset_info_": {
+    "datasets_": [
+      {
+        "name": "All",
+        "matches": {
+          "kind": "all",
+          "first": -1,
+          "last": -1
+        },
+        "formula": ""
+      }
+    ]
+  },
+  "picklist_info_": {
+    "picklist_": [],
+    "coaches_picklist_": []
+  },
+  "team_info_": {
+    "teams_": [
+      {
+        "address": null,
+        "city": "Hollis",
+        "country": "USA",
+        "gmaps_place_id": null,
+        "gmaps_url": null,
+        "key": "frc1073",
+        "lat": null,
+        "lng": null,
+        "location_name": null,
+        "motto": null,
+        "name": "New Hampshire Department of Education/RTX/L3Harris/REV Robotics/Viasat/Alapage/NextMove Technologies/Dr. Diane (Corus Ortho - Shieh LLC)/Online Metals&Hollis Brookline High School&Family/Community",
+        "nickname": "The Force Team",
+        "postal_code": "03049",
+        "rookie_year": 2003,
+        "school_name": "Family/Community & Hollis Brookline High School",
+        "state_prov": "New Hampshire",
+        "team_number": 1073,
+        "website": "http://www.frc1073.org"
+      },
+      {
+        "address": null,
+        "city": "Walpole",
+        "country": "USA",
+        "gmaps_place_id": null,
+        "gmaps_url": null,
+        "key": "frc1119",
+        "lat": null,
+        "lng": null,
+        "location_name": null,
+        "motto": null,
+        "name": "Walpole High School & Family/Community",
+        "nickname": "Pup Cups",
+        "postal_code": null,
+        "rookie_year": 2003,
+        "school_name": "Family/Community & Walpole High School",
+        "state_prov": "Massachusetts",
+        "team_number": 1119,
+        "website": null
+      },
+      {
+        "address": null,
+        "city": "Walpole",
+        "country": "USA",
+        "gmaps_place_id": null,
+        "gmaps_url": null,
+        "key": "frc1153",
+        "lat": null,
+        "lng": null,
+        "location_name": null,
+        "motto": null,
+        "name": "Analog Devices/Legacy Engineering/WM Duggan Company/Koopman Lumber&Walpole High School",
+        "nickname": "Timberwolves",
+        "postal_code": "02081",
+        "rookie_year": 2003,
+        "school_name": "Walpole High School",
+        "state_prov": "Massachusetts",
+        "team_number": 1153,
+        "website": "http://www.walpolerobotics.org/"
+      },
+      {
+        "address": null,
+        "city": "Manchester",
+        "country": "USA",
+        "gmaps_place_id": null,
+        "gmaps_url": null,
+        "key": "frc131",
+        "lat": null,
+        "lng": null,
+        "location_name": null,
+        "motto": null,
+        "name": "NH Department of Education/BAE/Gene Haas Foundation/RTX/West Coast Products/Comcast/PB & J Records/Queen City Rotary Club/Central Pride Foundation/Pfizer/CHAOS Families and Alumni & 4-H & Manchester Central High School",
+        "nickname": "CHAOS",
+        "postal_code": "03104",
+        "rookie_year": 1992,
+        "school_name": "4-H & Manchester Central High School",
+        "state_prov": "New Hampshire",
+        "team_number": 131,
+        "website": "http://www.chaos131.com"
+      },
+      {
+        "address": null,
+        "city": "Nashua",
+        "country": "USA",
+        "gmaps_place_id": null,
+        "gmaps_url": null,
+        "key": "frc151",
+        "lat": null,
+        "lng": null,
+        "location_name": null,
+        "motto": null,
+        "name": "MakeIt Labs/GHO Ventures/BAE Systems/Parker Hannifin/Star Machines/Ritz Carlton Boston/The Godfrey Hotel/Corning Foundation&Nashua High School-South&Nashua High School-North&Family/Community",
+        "nickname": "Tough Techs",
+        "postal_code": "03062",
+        "rookie_year": 1992,
+        "school_name": "Family/Community & Nashua High School-North & Nashua High School-South",
+        "state_prov": "New Hampshire",
+        "team_number": 151,
+        "website": "http://www.nashua151.org"
+      },
+      {
+        "address": null,
+        "city": "Concord",
+        "country": "USA",
+        "gmaps_place_id": null,
+        "gmaps_url": null,
+        "key": "frc1512",
+        "lat": null,
+        "lng": null,
+        "location_name": null,
+        "motto": null,
+        "name": "&St Paul'S School",
+        "nickname": "The Big Red",
+        "postal_code": "03301",
+        "rookie_year": 2005,
+        "school_name": "St Paul'S School",
+        "state_prov": "New Hampshire",
+        "team_number": 1512,
+        "website": "http://robotics.sps.edu"
+      },
+      {
+        "address": null,
+        "city": "Concord",
+        "country": "USA",
+        "gmaps_place_id": null,
+        "gmaps_url": null,
+        "key": "frc1721",
+        "lat": null,
+        "lng": null,
+        "location_name": null,
+        "motto": null,
+        "name": "Schneider Electric/NH Technical Institute/JCB Precision, LLC/Lonza/LeMay School of Real Estate/Sedutto Motorsport/Spain Family/Sedutto Family/Slavin Family/Harris Family/Speedy Printing&Concord High School",
+        "nickname": "Tidal Force",
+        "postal_code": "03301",
+        "rookie_year": 2006,
+        "school_name": "Concord High School",
+        "state_prov": "New Hampshire",
+        "team_number": 1721,
+        "website": "http://www.frc1721.org/"
+      },
+      {
+        "address": null,
+        "city": "Worcester",
+        "country": "USA",
+        "gmaps_place_id": null,
+        "gmaps_url": null,
+        "key": "frc1735",
+        "lat": null,
+        "lng": null,
+        "location_name": null,
+        "motto": null,
+        "name": "WPI/Boston Scientific&Burncoat High School",
+        "nickname": "Green Reapers",
+        "postal_code": "01606",
+        "rookie_year": 2006,
+        "school_name": "Burncoat High School",
+        "state_prov": "Massachusetts",
+        "team_number": 1735,
+        "website": "http://www.burncoatrobotics.org/"
+      },
+      {
+        "address": null,
+        "city": "Bolton",
+        "country": "USA",
+        "gmaps_place_id": null,
+        "gmaps_url": null,
+        "key": "frc1768",
+        "lat": null,
+        "lng": null,
+        "location_name": null,
+        "motto": null,
+        "name": "SynQor/Smartapp/Raytheon&Nashoba Regional High School",
+        "nickname": "Nashoba Robotics",
+        "postal_code": "01740",
+        "rookie_year": 2006,
+        "school_name": "Nashoba Regional High School",
+        "state_prov": "Massachusetts",
+        "team_number": 1768,
+        "website": "http://www.nashobarobotics.org"
+      },
+      {
+        "address": null,
+        "city": "Worcester",
+        "country": "USA",
+        "gmaps_place_id": null,
+        "gmaps_url": null,
+        "key": "frc190",
+        "lat": null,
+        "lng": null,
+        "location_name": null,
+        "motto": null,
+        "name": "WPI/Jabil Healthcare&Mass Academy-Math & Science",
+        "nickname": "Gompei and the HERD",
+        "postal_code": "01609",
+        "rookie_year": 1992,
+        "school_name": "Mass Academy-Math & Science",
+        "state_prov": "Massachusetts",
+        "team_number": 190,
+        "website": "http://users.wpi.edu/~first/"
+      },
+      {
+        "address": null,
+        "city": "Franklin",
+        "country": "USA",
+        "gmaps_place_id": null,
+        "gmaps_url": null,
+        "key": "frc2079",
+        "lat": null,
+        "lng": null,
+        "location_name": null,
+        "motto": null,
+        "name": "4-H",
+        "nickname": "4H ALARM Robotics",
+        "postal_code": "02038",
+        "rookie_year": 2007,
+        "school_name": "4-H",
+        "state_prov": "Massachusetts",
+        "team_number": 2079,
+        "website": "http://www.alarmrobotics.com"
+      },
+      {
+        "address": null,
+        "city": "Nashua",
+        "country": "USA",
+        "gmaps_place_id": null,
+        "gmaps_url": null,
+        "key": "frc2342",
+        "lat": null,
+        "lng": null,
+        "location_name": null,
+        "motto": null,
+        "name": "Academy for Science and Design/NH Department of Education/4-H&Neighborhood Group&Academy for Science & Design",
+        "nickname": "Team Phoenix",
+        "postal_code": "03064",
+        "rookie_year": 2008,
+        "school_name": "Academy for Science & Design & Neighborhood Group",
+        "state_prov": "New Hampshire",
+        "team_number": 2342,
+        "website": "http://team2342.org/"
+      },
+      {
+        "address": null,
+        "city": "Watertown",
+        "country": "USA",
+        "gmaps_place_id": null,
+        "gmaps_url": null,
+        "key": "frc2423",
+        "lat": null,
+        "lng": null,
+        "location_name": null,
+        "motto": null,
+        "name": "Boeing/Enanta Pharmaceuticals/Markforged/Smartapp&Watertown High School",
+        "nickname": "The KwarQs",
+        "postal_code": "02472",
+        "rookie_year": 2008,
+        "school_name": "Watertown High School",
+        "state_prov": "Massachusetts",
+        "team_number": 2423,
+        "website": "http://www.team2423.org"
+      },
+      {
+        "address": null,
+        "city": "Newtonville",
+        "country": "USA",
+        "gmaps_place_id": null,
+        "gmaps_url": null,
+        "key": "frc2877",
+        "lat": null,
+        "lng": null,
+        "location_name": null,
+        "motto": null,
+        "name": "Rockwell Automation/WPS/Newton Public Schools/RTX/The Village Bank/PTC/Amazon Robotics/Honda Village/Mass Cultural Council&Newton North High School&Newton South High School",
+        "nickname": "LigerBots",
+        "postal_code": "02459",
+        "rookie_year": 2009,
+        "school_name": "Newton South High School & Newton North High School",
+        "state_prov": "Massachusetts",
+        "team_number": 2877,
+        "website": "http://www.ligerbots.org"
+      },
+      {
+        "address": null,
+        "city": "Southborough",
+        "country": "USA",
+        "gmaps_place_id": null,
+        "gmaps_url": null,
+        "key": "frc3566",
+        "lat": null,
+        "lng": null,
+        "location_name": null,
+        "motto": null,
+        "name": "&St Mark's School",
+        "nickname": "Gone Fishin'",
+        "postal_code": "01772",
+        "rookie_year": 2011,
+        "school_name": "St Mark's School",
+        "state_prov": "Massachusetts",
+        "team_number": 3566,
+        "website": "http://www.team3566.org/"
+      },
+      {
+        "address": null,
+        "city": "Gardiner",
+        "country": "USA",
+        "gmaps_place_id": null,
+        "gmaps_url": null,
+        "key": "frc4041",
+        "lat": null,
+        "lng": null,
+        "location_name": null,
+        "motto": null,
+        "name": "MSAD #11/The Robinson Fund/DoDEA&Gardiner Area High School",
+        "nickname": "Iron Tigers",
+        "postal_code": "04345",
+        "rookie_year": 2012,
+        "school_name": "Gardiner Area High School",
+        "state_prov": "Maine",
+        "team_number": 4041,
+        "website": "http://www.firstteam4041.com"
+      },
+      {
+        "address": null,
+        "city": "Billerica",
+        "country": "USA",
+        "gmaps_place_id": null,
+        "gmaps_url": null,
+        "key": "frc4909",
+        "lat": null,
+        "lng": null,
+        "location_name": null,
+        "motto": null,
+        "name": "Orbotech/KLA/Analog Devices/Boeing/Raytheon/Gene Haas Foundation/EMD Serono&Billerica Memorial High School",
+        "nickname": "Bionics",
+        "postal_code": "01821",
+        "rookie_year": 2014,
+        "school_name": "Billerica Memorial High School",
+        "state_prov": "Massachusetts",
+        "team_number": 4909,
+        "website": "http://www.team4909.org/"
+      },
+      {
+        "address": null,
+        "city": "Hingham",
+        "country": "USA",
+        "gmaps_place_id": null,
+        "gmaps_url": null,
+        "key": "frc5000",
+        "lat": null,
+        "lng": null,
+        "location_name": null,
+        "motto": null,
+        "name": "Bolt Depot/Symmons/Massa/Hart Supply/FRC tees&Hingham Senior High School",
+        "nickname": "HAMMERHEADS",
+        "postal_code": "02043",
+        "rookie_year": 2014,
+        "school_name": "Hingham Senior High School",
+        "state_prov": "Massachusetts",
+        "team_number": 5000,
+        "website": "http://frcteam5000.weebly.com"
+      },
+      {
+        "address": null,
+        "city": "Manchester/Goffstown",
+        "country": "USA",
+        "gmaps_place_id": null,
+        "gmaps_url": null,
+        "key": "frc501",
+        "lat": null,
+        "lng": null,
+        "location_name": null,
+        "motto": null,
+        "name": "AC Trust/NH Department of Education/Louis P. Cote Inc./Stu, Sam & Lexxie/L3/Harris/TCI/FIRST NH/Heritage Helps Foundation/Macy Industries/BAE Systems/Serge Marchesseault Memorial Fund&4-H&Goffstown High School&Manchester High School-West",
+        "nickname": "The PowerKnights",
+        "postal_code": "03101",
+        "rookie_year": 2001,
+        "school_name": "4-H & Manchester High School-West & Goffstown High School",
+        "state_prov": "New Hampshire",
+        "team_number": 501,
+        "website": "http://powerknights.com"
+      },
+      {
+        "address": null,
+        "city": "Westford",
+        "country": "USA",
+        "gmaps_place_id": null,
+        "gmaps_url": null,
+        "key": "frc5422",
+        "lat": null,
+        "lng": null,
+        "location_name": null,
+        "motto": null,
+        "name": "Rockwell Automation/Analog Devices/BAE Systems/NetScout/Dassault Systemes/SMC LTD/Hunter Automation/Boxer Properties/IBM&Middlesex County Robotics Club Inc",
+        "nickname": "Stormgears",
+        "postal_code": "01886",
+        "rookie_year": 2015,
+        "school_name": "Middlesex County Robotics Club Inc",
+        "state_prov": "Massachusetts",
+        "team_number": 5422,
+        "website": "https://www.stormgears.org"
+      },
+      {
+        "address": null,
+        "city": "Portland",
+        "country": "USA",
+        "gmaps_place_id": null,
+        "gmaps_url": null,
+        "key": "frc5687",
+        "lat": null,
+        "lng": null,
+        "location_name": null,
+        "motto": null,
+        "name": "Baxter Academy Tech & Science & Waynflete School",
+        "nickname": "The Outliers",
+        "postal_code": "04101",
+        "rookie_year": 2015,
+        "school_name": "Baxter Academy Tech & Science & Waynflete School",
+        "state_prov": "Maine",
+        "team_number": 5687,
+        "website": "http://www.firstinspires.org/"
+      },
+      {
+        "address": null,
+        "city": "Concord",
+        "country": "USA",
+        "gmaps_place_id": null,
+        "gmaps_url": null,
+        "key": "frc5813",
+        "lat": null,
+        "lng": null,
+        "location_name": null,
+        "motto": null,
+        "name": "Iron Dragon Corporation/Rogers Family/Elektrisola Inc/SOLIDWORKS/Pikas & Pebbles, Inc./Orsmond Family/Mr. Billings/Steadfast Broadband, Inc./Spear & Kernan Family/Miskoe Family/Baked & Brewed Cafe/Mr. Horn&Neighborhood Group",
+        "nickname": "Morpheus",
+        "postal_code": "03301",
+        "rookie_year": 2016,
+        "school_name": "Neighborhood Group",
+        "state_prov": "New Hampshire",
+        "team_number": 5813,
+        "website": "https://5813.frc.team"
+      },
+      {
+        "address": null,
+        "city": "Lowell",
+        "country": "USA",
+        "gmaps_place_id": null,
+        "gmaps_url": null,
+        "key": "frc5962",
+        "lat": null,
+        "lng": null,
+        "location_name": null,
+        "motto": null,
+        "name": "UMASS Lowell/Merrimack Valley Robotics & Family/Community",
+        "nickname": "perSEVERE",
+        "postal_code": "01853",
+        "rookie_year": 2016,
+        "school_name": "Family/Community",
+        "state_prov": "Massachusetts",
+        "team_number": 5962,
+        "website": "https://frcpersevere.com"
+      },
+      {
+        "address": null,
+        "city": "Littleton",
+        "country": "USA",
+        "gmaps_place_id": null,
+        "gmaps_url": null,
+        "key": "frc6328",
+        "lat": null,
+        "lng": null,
+        "location_name": null,
+        "motto": null,
+        "name": "Littleton STEM Educational Foundation/Patriot Beverages/ZOLL&Family/Community",
+        "nickname": "Mechanical Advantage",
+        "postal_code": "01460",
+        "rookie_year": 2017,
+        "school_name": "Family/Community",
+        "state_prov": "Massachusetts",
+        "team_number": 6328,
+        "website": "http://www.littletonrobotics.org"
+      },
+      {
+        "address": null,
+        "city": "Newport",
+        "country": "USA",
+        "gmaps_place_id": null,
+        "gmaps_url": null,
+        "key": "frc78",
+        "lat": null,
+        "lng": null,
+        "location_name": null,
+        "motto": null,
+        "name": "Naval Undersea Warfare Center/DoD STEM/Nordson EFD/Teri Degnan Real Estate and Consulting/Hideaway Solutions/South Coast Powdercoating&Aquidneck Island Robotics",
+        "nickname": "AIR STRIKE",
+        "postal_code": "02841",
+        "rookie_year": 1996,
+        "school_name": "Aquidneck Island Robotics",
+        "state_prov": "Rhode Island",
+        "team_number": 78,
+        "website": "http://www.facebook.com/frc78/"
+      },
+      {
+        "address": null,
+        "city": "Nashua",
+        "country": "USA",
+        "gmaps_place_id": null,
+        "gmaps_url": null,
+        "key": "frc811",
+        "lat": null,
+        "lng": null,
+        "location_name": null,
+        "motto": null,
+        "name": "Analog Devices Corporation/Brady Sullivan Properties/Nickerson Consulting/BAE Systems/Society of Woman Engineers - Southern NH&Bishop Guertin High School",
+        "nickname": "Wild Cards",
+        "postal_code": "03060",
+        "rookie_year": 2002,
+        "school_name": "Bishop Guertin High School",
+        "state_prov": "New Hampshire",
+        "team_number": 811,
+        "website": "http://www.team811.com"
+      },
+      {
+        "address": null,
+        "city": "Bedford",
+        "country": "USA",
+        "gmaps_place_id": null,
+        "gmaps_url": null,
+        "key": "frc8724",
+        "lat": null,
+        "lng": null,
+        "location_name": null,
+        "motto": null,
+        "name": "Wire Belt Company of America/Gene Haas Foundation/BAE/TE Connectivity/REVO Casino & Social House&Family/Community",
+        "nickname": "Mayhem",
+        "postal_code": null,
+        "rookie_year": 2022,
+        "school_name": "Family/Community",
+        "state_prov": "New Hampshire",
+        "team_number": 8724,
+        "website": null
+      },
+      {
+        "address": null,
+        "city": "Bridgewater",
+        "country": "USA",
+        "gmaps_place_id": null,
+        "gmaps_url": null,
+        "key": "frc88",
+        "lat": null,
+        "lng": null,
+        "location_name": null,
+        "motto": null,
+        "name": "Johnson & Johnson MedTech/Point 32 Health/Bridgewater-Raynham Regional School District/The Wall Family/Harpak Ulma/RTX/Qualcomm&Bridgewater-Raynham Reg HS",
+        "nickname": "TJ²",
+        "postal_code": "02324",
+        "rookie_year": 1996,
+        "school_name": "Bridgewater-Raynham Reg HS",
+        "state_prov": "Massachusetts",
+        "team_number": 88,
+        "website": "http://www.tj2.org"
+      },
+      {
+        "address": null,
+        "city": "Marlborough",
+        "country": "USA",
+        "gmaps_place_id": null,
+        "gmaps_url": null,
+        "key": "frc9644",
+        "lat": null,
+        "lng": null,
+        "location_name": null,
+        "motto": null,
+        "name": "New England Innovation Academy",
+        "nickname": "NEIA Robotics",
+        "postal_code": null,
+        "rookie_year": 2024,
+        "school_name": "New England Innovation Academy",
+        "state_prov": "Massachusetts",
+        "team_number": 9644,
+        "website": null
+      }
+    ]
+  },
+  "formula_info_": {
+    "formulas_": [],
+    "coach_formulas_": []
+  },
+  "tablet_info_": {
+    "tablets_": [
+      {
+        "name": "Tablet 7",
+        "purpose": "team"
+      },
+      {
+        "name": "Tablet 1",
+        "purpose": "match"
+      },
+      {
+        "name": "Tablet 2",
+        "purpose": "match"
+      },
+      {
+        "name": "Tablet 3",
+        "purpose": "match"
+      },
+      {
+        "name": "Tablet 4",
+        "purpose": "match"
+      },
+      {
+        "name": "Tablet 5",
+        "purpose": "match"
+      },
+      {
+        "name": "Tablet 6",
+        "purpose": "match"
+      }
+    ],
+    "teamassignments_": [
+      {
+        "team": 1073,
+        "tablet": "Tablet 7",
+        "name": "The Force Team"
+      },
+      {
+        "team": 1119,
+        "tablet": "Tablet 7",
+        "name": "Pup Cups"
+      },
+      {
+        "team": 1153,
+        "tablet": "Tablet 7",
+        "name": "Timberwolves"
+      },
+      {
+        "team": 131,
+        "tablet": "Tablet 7",
+        "name": "CHAOS"
+      },
+      {
+        "team": 151,
+        "tablet": "Tablet 7",
+        "name": "Tough Techs"
+      },
+      {
+        "team": 1512,
+        "tablet": "Tablet 7",
+        "name": "The Big Red"
+      },
+      {
+        "team": 1721,
+        "tablet": "Tablet 7",
+        "name": "Tidal Force"
+      },
+      {
+        "team": 1735,
+        "tablet": "Tablet 7",
+        "name": "Green Reapers"
+      },
+      {
+        "team": 1768,
+        "tablet": "Tablet 7",
+        "name": "Nashoba Robotics"
+      },
+      {
+        "team": 190,
+        "tablet": "Tablet 7",
+        "name": "Gompei and the HERD"
+      },
+      {
+        "team": 2079,
+        "tablet": "Tablet 7",
+        "name": "4H ALARM Robotics"
+      },
+      {
+        "team": 2342,
+        "tablet": "Tablet 7",
+        "name": "Team Phoenix"
+      },
+      {
+        "team": 2423,
+        "tablet": "Tablet 7",
+        "name": "The KwarQs"
+      },
+      {
+        "team": 2877,
+        "tablet": "Tablet 7",
+        "name": "LigerBots"
+      },
+      {
+        "team": 3566,
+        "tablet": "Tablet 7",
+        "name": "Gone Fishin'"
+      },
+      {
+        "team": 4041,
+        "tablet": "Tablet 7",
+        "name": "Iron Tigers"
+      },
+      {
+        "team": 4909,
+        "tablet": "Tablet 7",
+        "name": "Bionics"
+      },
+      {
+        "team": 5000,
+        "tablet": "Tablet 7",
+        "name": "HAMMERHEADS"
+      },
+      {
+        "team": 501,
+        "tablet": "Tablet 7",
+        "name": "The PowerKnights"
+      },
+      {
+        "team": 5422,
+        "tablet": "Tablet 7",
+        "name": "Stormgears"
+      },
+      {
+        "team": 5687,
+        "tablet": "Tablet 7",
+        "name": "The Outliers"
+      },
+      {
+        "team": 5813,
+        "tablet": "Tablet 7",
+        "name": "Morpheus"
+      },
+      {
+        "team": 5962,
+        "tablet": "Tablet 7",
+        "name": "perSEVERE"
+      },
+      {
+        "team": 6328,
+        "tablet": "Tablet 7",
+        "name": "Mechanical Advantage"
+      },
+      {
+        "team": 78,
+        "tablet": "Tablet 7",
+        "name": "AIR STRIKE"
+      },
+      {
+        "team": 811,
+        "tablet": "Tablet 7",
+        "name": "Wild Cards"
+      },
+      {
+        "team": 8724,
+        "tablet": "Tablet 7",
+        "name": "Mayhem"
+      },
+      {
+        "team": 88,
+        "tablet": "Tablet 7",
+        "name": "TJ²"
+      },
+      {
+        "team": 9644,
+        "tablet": "Tablet 7",
+        "name": "NEIA Robotics"
+      }
+    ],
+    "matchassignements_": [
+      {
+        "comp_level": "qm",
+        "match_number": 1,
+        "set_number": 1,
+        "alliance": "red",
+        "teamnumber": 88,
+        "teamname": "TJ²",
+        "tablet": "Tablet 1"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 1,
+        "set_number": 1,
+        "alliance": "red",
+        "teamnumber": 501,
+        "teamname": "The PowerKnights",
+        "tablet": "Tablet 2"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 1,
+        "set_number": 1,
+        "alliance": "red",
+        "teamnumber": 3566,
+        "teamname": "Gone Fishin'",
+        "tablet": "Tablet 3"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 1,
+        "set_number": 1,
+        "alliance": "blue",
+        "teamnumber": 1768,
+        "teamname": "Nashoba Robotics",
+        "tablet": "Tablet 4"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 1,
+        "set_number": 1,
+        "alliance": "blue",
+        "teamnumber": 5962,
+        "teamname": "perSEVERE",
+        "tablet": "Tablet 5"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 1,
+        "set_number": 1,
+        "alliance": "blue",
+        "teamnumber": 190,
+        "teamname": "Gompei and the HERD",
+        "tablet": "Tablet 6"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 10,
+        "set_number": 1,
+        "alliance": "red",
+        "teamnumber": 811,
+        "teamname": "Wild Cards",
+        "tablet": "Tablet 1"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 10,
+        "set_number": 1,
+        "alliance": "red",
+        "teamnumber": 1768,
+        "teamname": "Nashoba Robotics",
+        "tablet": "Tablet 2"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 10,
+        "set_number": 1,
+        "alliance": "red",
+        "teamnumber": 1512,
+        "teamname": "The Big Red",
+        "tablet": "Tablet 3"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 10,
+        "set_number": 1,
+        "alliance": "blue",
+        "teamnumber": 5687,
+        "teamname": "The Outliers",
+        "tablet": "Tablet 4"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 10,
+        "set_number": 1,
+        "alliance": "blue",
+        "teamnumber": 9644,
+        "teamname": "NEIA Robotics",
+        "tablet": "Tablet 5"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 10,
+        "set_number": 1,
+        "alliance": "blue",
+        "teamnumber": 131,
+        "teamname": "CHAOS",
+        "tablet": "Tablet 6"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 11,
+        "set_number": 1,
+        "alliance": "red",
+        "teamnumber": 190,
+        "teamname": "Gompei and the HERD",
+        "tablet": "Tablet 1"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 11,
+        "set_number": 1,
+        "alliance": "red",
+        "teamnumber": 5813,
+        "teamname": "Morpheus",
+        "tablet": "Tablet 2"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 11,
+        "set_number": 1,
+        "alliance": "red",
+        "teamnumber": 1119,
+        "teamname": "Pup Cups",
+        "tablet": "Tablet 3"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 11,
+        "set_number": 1,
+        "alliance": "blue",
+        "teamnumber": 1153,
+        "teamname": "Timberwolves",
+        "tablet": "Tablet 4"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 11,
+        "set_number": 1,
+        "alliance": "blue",
+        "teamnumber": 4041,
+        "teamname": "Iron Tigers",
+        "tablet": "Tablet 5"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 11,
+        "set_number": 1,
+        "alliance": "blue",
+        "teamnumber": 6328,
+        "teamname": "Mechanical Advantage",
+        "tablet": "Tablet 6"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 12,
+        "set_number": 1,
+        "alliance": "red",
+        "teamnumber": 151,
+        "teamname": "Tough Techs",
+        "tablet": "Tablet 1"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 12,
+        "set_number": 1,
+        "alliance": "red",
+        "teamnumber": 2877,
+        "teamname": "LigerBots",
+        "tablet": "Tablet 2"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 12,
+        "set_number": 1,
+        "alliance": "red",
+        "teamnumber": 1721,
+        "teamname": "Tidal Force",
+        "tablet": "Tablet 3"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 12,
+        "set_number": 1,
+        "alliance": "blue",
+        "teamnumber": 501,
+        "teamname": "The PowerKnights",
+        "tablet": "Tablet 4"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 12,
+        "set_number": 1,
+        "alliance": "blue",
+        "teamnumber": 2423,
+        "teamname": "The KwarQs",
+        "tablet": "Tablet 5"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 12,
+        "set_number": 1,
+        "alliance": "blue",
+        "teamnumber": 1735,
+        "teamname": "Green Reapers",
+        "tablet": "Tablet 6"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 13,
+        "set_number": 1,
+        "alliance": "red",
+        "teamnumber": 2342,
+        "teamname": "Team Phoenix",
+        "tablet": "Tablet 1"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 13,
+        "set_number": 1,
+        "alliance": "red",
+        "teamnumber": 131,
+        "teamname": "CHAOS",
+        "tablet": "Tablet 2"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 13,
+        "set_number": 1,
+        "alliance": "red",
+        "teamnumber": 811,
+        "teamname": "Wild Cards",
+        "tablet": "Tablet 3"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 13,
+        "set_number": 1,
+        "alliance": "blue",
+        "teamnumber": 3566,
+        "teamname": "Gone Fishin'",
+        "tablet": "Tablet 4"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 13,
+        "set_number": 1,
+        "alliance": "blue",
+        "teamnumber": 1073,
+        "teamname": "The Force Team",
+        "tablet": "Tablet 5"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 13,
+        "set_number": 1,
+        "alliance": "blue",
+        "teamnumber": 8724,
+        "teamname": "Mayhem",
+        "tablet": "Tablet 6"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 14,
+        "set_number": 1,
+        "alliance": "red",
+        "teamnumber": 5000,
+        "teamname": "HAMMERHEADS",
+        "tablet": "Tablet 1"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 14,
+        "set_number": 1,
+        "alliance": "red",
+        "teamnumber": 1512,
+        "teamname": "The Big Red",
+        "tablet": "Tablet 2"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 14,
+        "set_number": 1,
+        "alliance": "red",
+        "teamnumber": 5422,
+        "teamname": "Stormgears",
+        "tablet": "Tablet 3"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 14,
+        "set_number": 1,
+        "alliance": "blue",
+        "teamnumber": 78,
+        "teamname": "AIR STRIKE",
+        "tablet": "Tablet 4"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 14,
+        "set_number": 1,
+        "alliance": "blue",
+        "teamnumber": 4909,
+        "teamname": "Bionics",
+        "tablet": "Tablet 5"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 14,
+        "set_number": 1,
+        "alliance": "blue",
+        "teamnumber": 88,
+        "teamname": "TJ²",
+        "tablet": "Tablet 6"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 15,
+        "set_number": 1,
+        "alliance": "red",
+        "teamnumber": 2877,
+        "teamname": "LigerBots",
+        "tablet": "Tablet 1"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 15,
+        "set_number": 1,
+        "alliance": "red",
+        "teamnumber": 5687,
+        "teamname": "The Outliers",
+        "tablet": "Tablet 2"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 15,
+        "set_number": 1,
+        "alliance": "red",
+        "teamnumber": 5962,
+        "teamname": "perSEVERE",
+        "tablet": "Tablet 3"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 15,
+        "set_number": 1,
+        "alliance": "blue",
+        "teamnumber": 2079,
+        "teamname": "4H ALARM Robotics",
+        "tablet": "Tablet 4"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 15,
+        "set_number": 1,
+        "alliance": "blue",
+        "teamnumber": 1735,
+        "teamname": "Green Reapers",
+        "tablet": "Tablet 5"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 15,
+        "set_number": 1,
+        "alliance": "blue",
+        "teamnumber": 6328,
+        "teamname": "Mechanical Advantage",
+        "tablet": "Tablet 6"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 2,
+        "set_number": 1,
+        "alliance": "red",
+        "teamnumber": 6328,
+        "teamname": "Mechanical Advantage",
+        "tablet": "Tablet 1"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 2,
+        "set_number": 1,
+        "alliance": "red",
+        "teamnumber": 78,
+        "teamname": "AIR STRIKE",
+        "tablet": "Tablet 2"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 2,
+        "set_number": 1,
+        "alliance": "red",
+        "teamnumber": 1073,
+        "teamname": "The Force Team",
+        "tablet": "Tablet 3"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 2,
+        "set_number": 1,
+        "alliance": "blue",
+        "teamnumber": 9644,
+        "teamname": "NEIA Robotics",
+        "tablet": "Tablet 4"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 2,
+        "set_number": 1,
+        "alliance": "blue",
+        "teamnumber": 1735,
+        "teamname": "Green Reapers",
+        "tablet": "Tablet 5"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 2,
+        "set_number": 1,
+        "alliance": "blue",
+        "teamnumber": 4041,
+        "teamname": "Iron Tigers",
+        "tablet": "Tablet 6"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 3,
+        "set_number": 1,
+        "alliance": "red",
+        "teamnumber": 4909,
+        "teamname": "Bionics",
+        "tablet": "Tablet 1"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 3,
+        "set_number": 1,
+        "alliance": "red",
+        "teamnumber": 5422,
+        "teamname": "Stormgears",
+        "tablet": "Tablet 2"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 3,
+        "set_number": 1,
+        "alliance": "red",
+        "teamnumber": 2423,
+        "teamname": "The KwarQs",
+        "tablet": "Tablet 3"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 3,
+        "set_number": 1,
+        "alliance": "blue",
+        "teamnumber": 2877,
+        "teamname": "LigerBots",
+        "tablet": "Tablet 4"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 3,
+        "set_number": 1,
+        "alliance": "blue",
+        "teamnumber": 811,
+        "teamname": "Wild Cards",
+        "tablet": "Tablet 5"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 3,
+        "set_number": 1,
+        "alliance": "blue",
+        "teamnumber": 5813,
+        "teamname": "Morpheus",
+        "tablet": "Tablet 6"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 4,
+        "set_number": 1,
+        "alliance": "red",
+        "teamnumber": 1119,
+        "teamname": "Pup Cups",
+        "tablet": "Tablet 1"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 4,
+        "set_number": 1,
+        "alliance": "red",
+        "teamnumber": 1153,
+        "teamname": "Timberwolves",
+        "tablet": "Tablet 2"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 4,
+        "set_number": 1,
+        "alliance": "red",
+        "teamnumber": 151,
+        "teamname": "Tough Techs",
+        "tablet": "Tablet 3"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 4,
+        "set_number": 1,
+        "alliance": "blue",
+        "teamnumber": 131,
+        "teamname": "CHAOS",
+        "tablet": "Tablet 4"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 4,
+        "set_number": 1,
+        "alliance": "blue",
+        "teamnumber": 5000,
+        "teamname": "HAMMERHEADS",
+        "tablet": "Tablet 5"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 4,
+        "set_number": 1,
+        "alliance": "blue",
+        "teamnumber": 2079,
+        "teamname": "4H ALARM Robotics",
+        "tablet": "Tablet 6"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 5,
+        "set_number": 1,
+        "alliance": "red",
+        "teamnumber": 8724,
+        "teamname": "Mayhem",
+        "tablet": "Tablet 1"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 5,
+        "set_number": 1,
+        "alliance": "red",
+        "teamnumber": 190,
+        "teamname": "Gompei and the HERD",
+        "tablet": "Tablet 2"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 5,
+        "set_number": 1,
+        "alliance": "red",
+        "teamnumber": 2342,
+        "teamname": "Team Phoenix",
+        "tablet": "Tablet 3"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 5,
+        "set_number": 1,
+        "alliance": "blue",
+        "teamnumber": 1512,
+        "teamname": "The Big Red",
+        "tablet": "Tablet 4"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 5,
+        "set_number": 1,
+        "alliance": "blue",
+        "teamnumber": 1721,
+        "teamname": "Tidal Force",
+        "tablet": "Tablet 5"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 5,
+        "set_number": 1,
+        "alliance": "blue",
+        "teamnumber": 5687,
+        "teamname": "The Outliers",
+        "tablet": "Tablet 6"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 6,
+        "set_number": 1,
+        "alliance": "red",
+        "teamnumber": 1073,
+        "teamname": "The Force Team",
+        "tablet": "Tablet 1"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 6,
+        "set_number": 1,
+        "alliance": "red",
+        "teamnumber": 88,
+        "teamname": "TJ²",
+        "tablet": "Tablet 2"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 6,
+        "set_number": 1,
+        "alliance": "red",
+        "teamnumber": 1768,
+        "teamname": "Nashoba Robotics",
+        "tablet": "Tablet 3"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 6,
+        "set_number": 1,
+        "alliance": "blue",
+        "teamnumber": 2423,
+        "teamname": "The KwarQs",
+        "tablet": "Tablet 4"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 6,
+        "set_number": 1,
+        "alliance": "blue",
+        "teamnumber": 6328,
+        "teamname": "Mechanical Advantage",
+        "tablet": "Tablet 5"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 6,
+        "set_number": 1,
+        "alliance": "blue",
+        "teamnumber": 2877,
+        "teamname": "LigerBots",
+        "tablet": "Tablet 6"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 7,
+        "set_number": 1,
+        "alliance": "red",
+        "teamnumber": 5813,
+        "teamname": "Morpheus",
+        "tablet": "Tablet 1"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 7,
+        "set_number": 1,
+        "alliance": "red",
+        "teamnumber": 3566,
+        "teamname": "Gone Fishin'",
+        "tablet": "Tablet 2"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 7,
+        "set_number": 1,
+        "alliance": "red",
+        "teamnumber": 9644,
+        "teamname": "NEIA Robotics",
+        "tablet": "Tablet 3"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 7,
+        "set_number": 1,
+        "alliance": "blue",
+        "teamnumber": 1735,
+        "teamname": "Green Reapers",
+        "tablet": "Tablet 4"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 7,
+        "set_number": 1,
+        "alliance": "blue",
+        "teamnumber": 1119,
+        "teamname": "Pup Cups",
+        "tablet": "Tablet 5"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 7,
+        "set_number": 1,
+        "alliance": "blue",
+        "teamnumber": 5000,
+        "teamname": "HAMMERHEADS",
+        "tablet": "Tablet 6"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 8,
+        "set_number": 1,
+        "alliance": "red",
+        "teamnumber": 4041,
+        "teamname": "Iron Tigers",
+        "tablet": "Tablet 1"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 8,
+        "set_number": 1,
+        "alliance": "red",
+        "teamnumber": 2342,
+        "teamname": "Team Phoenix",
+        "tablet": "Tablet 2"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 8,
+        "set_number": 1,
+        "alliance": "red",
+        "teamnumber": 501,
+        "teamname": "The PowerKnights",
+        "tablet": "Tablet 3"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 8,
+        "set_number": 1,
+        "alliance": "blue",
+        "teamnumber": 5422,
+        "teamname": "Stormgears",
+        "tablet": "Tablet 4"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 8,
+        "set_number": 1,
+        "alliance": "blue",
+        "teamnumber": 2079,
+        "teamname": "4H ALARM Robotics",
+        "tablet": "Tablet 5"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 8,
+        "set_number": 1,
+        "alliance": "blue",
+        "teamnumber": 1153,
+        "teamname": "Timberwolves",
+        "tablet": "Tablet 6"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 9,
+        "set_number": 1,
+        "alliance": "red",
+        "teamnumber": 1721,
+        "teamname": "Tidal Force",
+        "tablet": "Tablet 1"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 9,
+        "set_number": 1,
+        "alliance": "red",
+        "teamnumber": 8724,
+        "teamname": "Mayhem",
+        "tablet": "Tablet 2"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 9,
+        "set_number": 1,
+        "alliance": "red",
+        "teamnumber": 4909,
+        "teamname": "Bionics",
+        "tablet": "Tablet 3"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 9,
+        "set_number": 1,
+        "alliance": "blue",
+        "teamnumber": 5962,
+        "teamname": "perSEVERE",
+        "tablet": "Tablet 4"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 9,
+        "set_number": 1,
+        "alliance": "blue",
+        "teamnumber": 151,
+        "teamname": "Tough Techs",
+        "tablet": "Tablet 5"
+      },
+      {
+        "comp_level": "qm",
+        "match_number": 9,
+        "set_number": 1,
+        "alliance": "blue",
+        "teamnumber": 78,
+        "teamname": "AIR STRIKE",
+        "tablet": "Tablet 6"
+      },
+      {
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 1,
+        "alliance": "red",
+        "teamnumber": 2877,
+        "teamname": "LigerBots",
+        "tablet": "Tablet 1"
+      },
+      {
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 1,
+        "alliance": "red",
+        "teamnumber": 6328,
+        "teamname": "Mechanical Advantage",
+        "tablet": "Tablet 2"
+      },
+      {
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 1,
+        "alliance": "red",
+        "teamnumber": 2342,
+        "teamname": "Team Phoenix",
+        "tablet": "Tablet 3"
+      },
+      {
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 1,
+        "alliance": "blue",
+        "teamnumber": 88,
+        "teamname": "TJ²",
+        "tablet": "Tablet 4"
+      },
+      {
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 1,
+        "alliance": "blue",
+        "teamnumber": 78,
+        "teamname": "AIR STRIKE",
+        "tablet": "Tablet 5"
+      },
+      {
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 1,
+        "alliance": "blue",
+        "teamnumber": 131,
+        "teamname": "CHAOS",
+        "tablet": "Tablet 6"
+      },
+      {
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 2,
+        "alliance": "red",
+        "teamnumber": 2079,
+        "teamname": "4H ALARM Robotics",
+        "tablet": "Tablet 1"
+      },
+      {
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 2,
+        "alliance": "red",
+        "teamnumber": 5000,
+        "teamname": "HAMMERHEADS",
+        "tablet": "Tablet 2"
+      },
+      {
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 2,
+        "alliance": "red",
+        "teamnumber": 1512,
+        "teamname": "The Big Red",
+        "tablet": "Tablet 3"
+      },
+      {
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 2,
+        "alliance": "blue",
+        "teamnumber": 1721,
+        "teamname": "Tidal Force",
+        "tablet": "Tablet 4"
+      },
+      {
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 2,
+        "alliance": "blue",
+        "teamnumber": 5687,
+        "teamname": "The Outliers",
+        "tablet": "Tablet 5"
+      },
+      {
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 2,
+        "alliance": "blue",
+        "teamnumber": 151,
+        "teamname": "Tough Techs",
+        "tablet": "Tablet 6"
+      },
+      {
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 3,
+        "alliance": "red",
+        "teamnumber": 1768,
+        "teamname": "Nashoba Robotics",
+        "tablet": "Tablet 1"
+      },
+      {
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 3,
+        "alliance": "red",
+        "teamnumber": 4909,
+        "teamname": "Bionics",
+        "tablet": "Tablet 2"
+      },
+      {
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 3,
+        "alliance": "red",
+        "teamnumber": 9644,
+        "teamname": "NEIA Robotics",
+        "tablet": "Tablet 3"
+      },
+      {
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 3,
+        "alliance": "blue",
+        "teamnumber": 1119,
+        "teamname": "Pup Cups",
+        "tablet": "Tablet 4"
+      },
+      {
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 3,
+        "alliance": "blue",
+        "teamnumber": 2423,
+        "teamname": "The KwarQs",
+        "tablet": "Tablet 5"
+      },
+      {
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 3,
+        "alliance": "blue",
+        "teamnumber": 5422,
+        "teamname": "Stormgears",
+        "tablet": "Tablet 6"
+      },
+      {
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 4,
+        "alliance": "red",
+        "teamnumber": 190,
+        "teamname": "Gompei and the HERD",
+        "tablet": "Tablet 1"
+      },
+      {
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 4,
+        "alliance": "red",
+        "teamnumber": 8724,
+        "teamname": "Mayhem",
+        "tablet": "Tablet 2"
+      },
+      {
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 4,
+        "alliance": "red",
+        "teamnumber": 1735,
+        "teamname": "Green Reapers",
+        "tablet": "Tablet 3"
+      },
+      {
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 4,
+        "alliance": "blue",
+        "teamnumber": 1153,
+        "teamname": "Timberwolves",
+        "tablet": "Tablet 4"
+      },
+      {
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 4,
+        "alliance": "blue",
+        "teamnumber": 1073,
+        "teamname": "The Force Team",
+        "tablet": "Tablet 5"
+      },
+      {
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 4,
+        "alliance": "blue",
+        "teamnumber": 4041,
+        "teamname": "Iron Tigers",
+        "tablet": "Tablet 6"
+      },
+      {
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 5,
+        "alliance": "red",
+        "teamnumber": 88,
+        "teamname": "TJ²",
+        "tablet": "Tablet 1"
+      },
+      {
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 5,
+        "alliance": "red",
+        "teamnumber": 78,
+        "teamname": "AIR STRIKE",
+        "tablet": "Tablet 2"
+      },
+      {
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 5,
+        "alliance": "red",
+        "teamnumber": 131,
+        "teamname": "CHAOS",
+        "tablet": "Tablet 3"
+      },
+      {
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 5,
+        "alliance": "blue",
+        "teamnumber": 2079,
+        "teamname": "4H ALARM Robotics",
+        "tablet": "Tablet 4"
+      },
+      {
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 5,
+        "alliance": "blue",
+        "teamnumber": 5000,
+        "teamname": "HAMMERHEADS",
+        "tablet": "Tablet 5"
+      },
+      {
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 5,
+        "alliance": "blue",
+        "teamnumber": 1512,
+        "teamname": "The Big Red",
+        "tablet": "Tablet 6"
+      },
+      {
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 6,
+        "alliance": "red",
+        "teamnumber": 1119,
+        "teamname": "Pup Cups",
+        "tablet": "Tablet 1"
+      },
+      {
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 6,
+        "alliance": "red",
+        "teamnumber": 2423,
+        "teamname": "The KwarQs",
+        "tablet": "Tablet 2"
+      },
+      {
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 6,
+        "alliance": "red",
+        "teamnumber": 5422,
+        "teamname": "Stormgears",
+        "tablet": "Tablet 3"
+      },
+      {
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 6,
+        "alliance": "blue",
+        "teamnumber": 1153,
+        "teamname": "Timberwolves",
+        "tablet": "Tablet 4"
+      },
+      {
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 6,
+        "alliance": "blue",
+        "teamnumber": 1073,
+        "teamname": "The Force Team",
+        "tablet": "Tablet 5"
+      },
+      {
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 6,
+        "alliance": "blue",
+        "teamnumber": 4041,
+        "teamname": "Iron Tigers",
+        "tablet": "Tablet 6"
+      },
+      {
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 7,
+        "alliance": "red",
+        "teamnumber": 2877,
+        "teamname": "LigerBots",
+        "tablet": "Tablet 1"
+      },
+      {
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 7,
+        "alliance": "red",
+        "teamnumber": 6328,
+        "teamname": "Mechanical Advantage",
+        "tablet": "Tablet 2"
+      },
+      {
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 7,
+        "alliance": "red",
+        "teamnumber": 2342,
+        "teamname": "Team Phoenix",
+        "tablet": "Tablet 3"
+      },
+      {
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 7,
+        "alliance": "blue",
+        "teamnumber": 1721,
+        "teamname": "Tidal Force",
+        "tablet": "Tablet 4"
+      },
+      {
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 7,
+        "alliance": "blue",
+        "teamnumber": 5687,
+        "teamname": "The Outliers",
+        "tablet": "Tablet 5"
+      },
+      {
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 7,
+        "alliance": "blue",
+        "teamnumber": 151,
+        "teamname": "Tough Techs",
+        "tablet": "Tablet 6"
+      },
+      {
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 8,
+        "alliance": "red",
+        "teamnumber": 1768,
+        "teamname": "Nashoba Robotics",
+        "tablet": "Tablet 1"
+      },
+      {
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 8,
+        "alliance": "red",
+        "teamnumber": 4909,
+        "teamname": "Bionics",
+        "tablet": "Tablet 2"
+      },
+      {
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 8,
+        "alliance": "red",
+        "teamnumber": 9644,
+        "teamname": "NEIA Robotics",
+        "tablet": "Tablet 3"
+      },
+      {
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 8,
+        "alliance": "blue",
+        "teamnumber": 190,
+        "teamname": "Gompei and the HERD",
+        "tablet": "Tablet 4"
+      },
+      {
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 8,
+        "alliance": "blue",
+        "teamnumber": 8724,
+        "teamname": "Mayhem",
+        "tablet": "Tablet 5"
+      },
+      {
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 8,
+        "alliance": "blue",
+        "teamnumber": 1735,
+        "teamname": "Green Reapers",
+        "tablet": "Tablet 6"
+      }
+    ],
+    "playoffassignments_": [
+      {
+        "match": 1,
+        "alliance": "red",
+        "tablet": "Tablet 1",
+        "which": 0
+      },
+      {
+        "match": 1,
+        "alliance": "red",
+        "tablet": "Tablet 2",
+        "which": 1
+      },
+      {
+        "match": 1,
+        "alliance": "red",
+        "tablet": "Tablet 3",
+        "which": 2
+      },
+      {
+        "match": 1,
+        "alliance": "blue",
+        "tablet": "Tablet 4",
+        "which": 0
+      },
+      {
+        "match": 1,
+        "alliance": "blue",
+        "tablet": "Tablet 5",
+        "which": 1
+      },
+      {
+        "match": 1,
+        "alliance": "blue",
+        "tablet": "Tablet 6",
+        "which": 2
+      },
+      {
+        "match": 2,
+        "alliance": "red",
+        "tablet": "Tablet 1",
+        "which": 0
+      },
+      {
+        "match": 2,
+        "alliance": "red",
+        "tablet": "Tablet 2",
+        "which": 1
+      },
+      {
+        "match": 2,
+        "alliance": "red",
+        "tablet": "Tablet 3",
+        "which": 2
+      },
+      {
+        "match": 2,
+        "alliance": "blue",
+        "tablet": "Tablet 4",
+        "which": 0
+      },
+      {
+        "match": 2,
+        "alliance": "blue",
+        "tablet": "Tablet 5",
+        "which": 1
+      },
+      {
+        "match": 2,
+        "alliance": "blue",
+        "tablet": "Tablet 6",
+        "which": 2
+      },
+      {
+        "match": 3,
+        "alliance": "red",
+        "tablet": "Tablet 1",
+        "which": 0
+      },
+      {
+        "match": 3,
+        "alliance": "red",
+        "tablet": "Tablet 2",
+        "which": 1
+      },
+      {
+        "match": 3,
+        "alliance": "red",
+        "tablet": "Tablet 3",
+        "which": 2
+      },
+      {
+        "match": 3,
+        "alliance": "blue",
+        "tablet": "Tablet 4",
+        "which": 0
+      },
+      {
+        "match": 3,
+        "alliance": "blue",
+        "tablet": "Tablet 5",
+        "which": 1
+      },
+      {
+        "match": 3,
+        "alliance": "blue",
+        "tablet": "Tablet 6",
+        "which": 2
+      },
+      {
+        "match": 4,
+        "alliance": "red",
+        "tablet": "Tablet 1",
+        "which": 0
+      },
+      {
+        "match": 4,
+        "alliance": "red",
+        "tablet": "Tablet 2",
+        "which": 1
+      },
+      {
+        "match": 4,
+        "alliance": "red",
+        "tablet": "Tablet 3",
+        "which": 2
+      },
+      {
+        "match": 4,
+        "alliance": "blue",
+        "tablet": "Tablet 4",
+        "which": 0
+      },
+      {
+        "match": 4,
+        "alliance": "blue",
+        "tablet": "Tablet 5",
+        "which": 1
+      },
+      {
+        "match": 4,
+        "alliance": "blue",
+        "tablet": "Tablet 6",
+        "which": 2
+      },
+      {
+        "match": 5,
+        "alliance": "red",
+        "tablet": "Tablet 1",
+        "which": 0
+      },
+      {
+        "match": 5,
+        "alliance": "red",
+        "tablet": "Tablet 2",
+        "which": 1
+      },
+      {
+        "match": 5,
+        "alliance": "red",
+        "tablet": "Tablet 3",
+        "which": 2
+      },
+      {
+        "match": 5,
+        "alliance": "blue",
+        "tablet": "Tablet 4",
+        "which": 0
+      },
+      {
+        "match": 5,
+        "alliance": "blue",
+        "tablet": "Tablet 5",
+        "which": 1
+      },
+      {
+        "match": 5,
+        "alliance": "blue",
+        "tablet": "Tablet 6",
+        "which": 2
+      },
+      {
+        "match": 6,
+        "alliance": "red",
+        "tablet": "Tablet 1",
+        "which": 0
+      },
+      {
+        "match": 6,
+        "alliance": "red",
+        "tablet": "Tablet 2",
+        "which": 1
+      },
+      {
+        "match": 6,
+        "alliance": "red",
+        "tablet": "Tablet 3",
+        "which": 2
+      },
+      {
+        "match": 6,
+        "alliance": "blue",
+        "tablet": "Tablet 4",
+        "which": 0
+      },
+      {
+        "match": 6,
+        "alliance": "blue",
+        "tablet": "Tablet 5",
+        "which": 1
+      },
+      {
+        "match": 6,
+        "alliance": "blue",
+        "tablet": "Tablet 6",
+        "which": 2
+      },
+      {
+        "match": 7,
+        "alliance": "red",
+        "tablet": "Tablet 1",
+        "which": 0
+      },
+      {
+        "match": 7,
+        "alliance": "red",
+        "tablet": "Tablet 2",
+        "which": 1
+      },
+      {
+        "match": 7,
+        "alliance": "red",
+        "tablet": "Tablet 3",
+        "which": 2
+      },
+      {
+        "match": 7,
+        "alliance": "blue",
+        "tablet": "Tablet 4",
+        "which": 0
+      },
+      {
+        "match": 7,
+        "alliance": "blue",
+        "tablet": "Tablet 5",
+        "which": 1
+      },
+      {
+        "match": 7,
+        "alliance": "blue",
+        "tablet": "Tablet 6",
+        "which": 2
+      },
+      {
+        "match": 8,
+        "alliance": "red",
+        "tablet": "Tablet 1",
+        "which": 0
+      },
+      {
+        "match": 8,
+        "alliance": "red",
+        "tablet": "Tablet 2",
+        "which": 1
+      },
+      {
+        "match": 8,
+        "alliance": "red",
+        "tablet": "Tablet 3",
+        "which": 2
+      },
+      {
+        "match": 8,
+        "alliance": "blue",
+        "tablet": "Tablet 4",
+        "which": 0
+      },
+      {
+        "match": 8,
+        "alliance": "blue",
+        "tablet": "Tablet 5",
+        "which": 1
+      },
+      {
+        "match": 8,
+        "alliance": "blue",
+        "tablet": "Tablet 6",
+        "which": 2
+      },
+      {
+        "match": 9,
+        "alliance": "red",
+        "tablet": "Tablet 1",
+        "which": 0
+      },
+      {
+        "match": 9,
+        "alliance": "red",
+        "tablet": "Tablet 2",
+        "which": 1
+      },
+      {
+        "match": 9,
+        "alliance": "red",
+        "tablet": "Tablet 3",
+        "which": 2
+      },
+      {
+        "match": 9,
+        "alliance": "blue",
+        "tablet": "Tablet 4",
+        "which": 0
+      },
+      {
+        "match": 9,
+        "alliance": "blue",
+        "tablet": "Tablet 5",
+        "which": 1
+      },
+      {
+        "match": 9,
+        "alliance": "blue",
+        "tablet": "Tablet 6",
+        "which": 2
+      },
+      {
+        "match": 10,
+        "alliance": "red",
+        "tablet": "Tablet 1",
+        "which": 0
+      },
+      {
+        "match": 10,
+        "alliance": "red",
+        "tablet": "Tablet 2",
+        "which": 1
+      },
+      {
+        "match": 10,
+        "alliance": "red",
+        "tablet": "Tablet 3",
+        "which": 2
+      },
+      {
+        "match": 10,
+        "alliance": "blue",
+        "tablet": "Tablet 4",
+        "which": 0
+      },
+      {
+        "match": 10,
+        "alliance": "blue",
+        "tablet": "Tablet 5",
+        "which": 1
+      },
+      {
+        "match": 10,
+        "alliance": "blue",
+        "tablet": "Tablet 6",
+        "which": 2
+      },
+      {
+        "match": 11,
+        "alliance": "red",
+        "tablet": "Tablet 1",
+        "which": 0
+      },
+      {
+        "match": 11,
+        "alliance": "red",
+        "tablet": "Tablet 2",
+        "which": 1
+      },
+      {
+        "match": 11,
+        "alliance": "red",
+        "tablet": "Tablet 3",
+        "which": 2
+      },
+      {
+        "match": 11,
+        "alliance": "blue",
+        "tablet": "Tablet 4",
+        "which": 0
+      },
+      {
+        "match": 11,
+        "alliance": "blue",
+        "tablet": "Tablet 5",
+        "which": 1
+      },
+      {
+        "match": 11,
+        "alliance": "blue",
+        "tablet": "Tablet 6",
+        "which": 2
+      },
+      {
+        "match": 12,
+        "alliance": "red",
+        "tablet": "Tablet 1",
+        "which": 0
+      },
+      {
+        "match": 12,
+        "alliance": "red",
+        "tablet": "Tablet 2",
+        "which": 1
+      },
+      {
+        "match": 12,
+        "alliance": "red",
+        "tablet": "Tablet 3",
+        "which": 2
+      },
+      {
+        "match": 12,
+        "alliance": "blue",
+        "tablet": "Tablet 4",
+        "which": 0
+      },
+      {
+        "match": 12,
+        "alliance": "blue",
+        "tablet": "Tablet 5",
+        "which": 1
+      },
+      {
+        "match": 12,
+        "alliance": "blue",
+        "tablet": "Tablet 6",
+        "which": 2
+      },
+      {
+        "match": 13,
+        "alliance": "red",
+        "tablet": "Tablet 1",
+        "which": 0
+      },
+      {
+        "match": 13,
+        "alliance": "red",
+        "tablet": "Tablet 2",
+        "which": 1
+      },
+      {
+        "match": 13,
+        "alliance": "red",
+        "tablet": "Tablet 3",
+        "which": 2
+      },
+      {
+        "match": 13,
+        "alliance": "blue",
+        "tablet": "Tablet 4",
+        "which": 0
+      },
+      {
+        "match": 13,
+        "alliance": "blue",
+        "tablet": "Tablet 5",
+        "which": 1
+      },
+      {
+        "match": 13,
+        "alliance": "blue",
+        "tablet": "Tablet 6",
+        "which": 2
+      },
+      {
+        "match": 14,
+        "alliance": "red",
+        "tablet": "Tablet 1",
+        "which": 0
+      },
+      {
+        "match": 14,
+        "alliance": "red",
+        "tablet": "Tablet 2",
+        "which": 1
+      },
+      {
+        "match": 14,
+        "alliance": "red",
+        "tablet": "Tablet 3",
+        "which": 2
+      },
+      {
+        "match": 14,
+        "alliance": "blue",
+        "tablet": "Tablet 4",
+        "which": 0
+      },
+      {
+        "match": 14,
+        "alliance": "blue",
+        "tablet": "Tablet 5",
+        "which": 1
+      },
+      {
+        "match": 14,
+        "alliance": "blue",
+        "tablet": "Tablet 6",
+        "which": 2
+      },
+      {
+        "match": 15,
+        "alliance": "red",
+        "tablet": "Tablet 1",
+        "which": 0
+      },
+      {
+        "match": 15,
+        "alliance": "red",
+        "tablet": "Tablet 2",
+        "which": 1
+      },
+      {
+        "match": 15,
+        "alliance": "red",
+        "tablet": "Tablet 3",
+        "which": 2
+      },
+      {
+        "match": 15,
+        "alliance": "blue",
+        "tablet": "Tablet 4",
+        "which": 0
+      },
+      {
+        "match": 15,
+        "alliance": "blue",
+        "tablet": "Tablet 5",
+        "which": 1
+      },
+      {
+        "match": 15,
+        "alliance": "blue",
+        "tablet": "Tablet 6",
+        "which": 2
+      },
+      {
+        "match": 16,
+        "alliance": "red",
+        "tablet": "Tablet 1",
+        "which": 0
+      },
+      {
+        "match": 16,
+        "alliance": "red",
+        "tablet": "Tablet 2",
+        "which": 1
+      },
+      {
+        "match": 16,
+        "alliance": "red",
+        "tablet": "Tablet 3",
+        "which": 2
+      },
+      {
+        "match": 16,
+        "alliance": "blue",
+        "tablet": "Tablet 4",
+        "which": 0
+      },
+      {
+        "match": 16,
+        "alliance": "blue",
+        "tablet": "Tablet 5",
+        "which": 1
+      },
+      {
+        "match": 16,
+        "alliance": "blue",
+        "tablet": "Tablet 6",
+        "which": 2
+      }
+    ]
+  },
+  "match_info_": {
+    "matches_": [
+      {
+        "actual_time": 1771685983,
+        "alliances": {
+          "blue": {
+            "dq_team_keys": [],
+            "score": 132,
+            "surrogate_team_keys": [],
+            "team_keys": [
+              "frc1768",
+              "frc5962",
+              "frc190"
+            ]
+          },
+          "red": {
+            "dq_team_keys": [],
+            "score": 1,
+            "surrogate_team_keys": [],
+            "team_keys": [
+              "frc88",
+              "frc501",
+              "frc3566"
+            ]
+          }
+        },
+        "comp_level": "qm",
+        "event_key": "2026week0",
+        "key": "2026week0_qm1",
+        "match_number": 1,
+        "post_result_time": 1771686247,
+        "predicted_time": 1771686558,
+        "score_breakdown": {
+          "blue": {
+            "adjustPoints": 0,
+            "autoTowerPoints": 0,
+            "autoTowerRobot1": "None",
+            "autoTowerRobot2": "None",
+            "autoTowerRobot3": "None",
+            "endGameTowerPoints": 0,
+            "endGameTowerRobot1": "None",
+            "endGameTowerRobot2": "None",
+            "endGameTowerRobot3": "None",
+            "energizedAchieved": true,
+            "foulPoints": 10,
+            "g206Penalty": false,
+            "hubScore": {
+              "autoCount": 19,
+              "autoPoints": 19,
+              "endgameCount": 4,
+              "endgamePoints": 4,
+              "shift1Count": 0,
+              "shift1Points": 0,
+              "shift2Count": 71,
+              "shift2Points": 71,
+              "shift3Count": 0,
+              "shift3Points": 0,
+              "shift4Count": 18,
+              "shift4Points": 18,
+              "teleopCount": 103,
+              "teleopPoints": 103,
+              "totalCount": 122,
+              "totalPoints": 122,
+              "transitionCount": 10,
+              "transitionPoints": 10,
+              "uncounted": 0
+            },
+            "majorFoulCount": 0,
+            "minorFoulCount": 0,
+            "penalties": "None",
+            "rp": 4,
+            "superchargedAchieved": false,
+            "totalAutoPoints": 19,
+            "totalPoints": 132,
+            "totalTeleopPoints": 103,
+            "totalTowerPoints": 0,
+            "traversalAchieved": false
+          },
+          "red": {
+            "adjustPoints": 0,
+            "autoTowerPoints": 0,
+            "autoTowerRobot1": "None",
+            "autoTowerRobot2": "None",
+            "autoTowerRobot3": "None",
+            "endGameTowerPoints": 0,
+            "endGameTowerRobot1": "None",
+            "endGameTowerRobot2": "None",
+            "endGameTowerRobot3": "None",
+            "energizedAchieved": false,
+            "foulPoints": 0,
+            "g206Penalty": false,
+            "hubScore": {
+              "autoCount": 0,
+              "autoPoints": 0,
+              "endgameCount": 1,
+              "endgamePoints": 1,
+              "shift1Count": 0,
+              "shift1Points": 0,
+              "shift2Count": 0,
+              "shift2Points": 0,
+              "shift3Count": 0,
+              "shift3Points": 0,
+              "shift4Count": 0,
+              "shift4Points": 0,
+              "teleopCount": 1,
+              "teleopPoints": 1,
+              "totalCount": 1,
+              "totalPoints": 1,
+              "transitionCount": 0,
+              "transitionPoints": 0,
+              "uncounted": 0
+            },
+            "majorFoulCount": 0,
+            "minorFoulCount": 2,
+            "penalties": "None",
+            "rp": 0,
+            "superchargedAchieved": false,
+            "totalAutoPoints": 0,
+            "totalPoints": 1,
+            "totalTeleopPoints": 1,
+            "totalTowerPoints": 0,
+            "traversalAchieved": false
+          }
+        },
+        "set_number": 1,
+        "time": 1771685100,
+        "videos": [],
+        "winning_alliance": "blue"
+      },
+      {
+        "actual_time": 1771692150,
+        "alliances": {
+          "blue": {
+            "dq_team_keys": [],
+            "score": 79,
+            "surrogate_team_keys": [],
+            "team_keys": [
+              "frc5687",
+              "frc9644",
+              "frc131"
+            ]
+          },
+          "red": {
+            "dq_team_keys": [],
+            "score": 48,
+            "surrogate_team_keys": [],
+            "team_keys": [
+              "frc811",
+              "frc1768",
+              "frc1512"
+            ]
+          }
+        },
+        "comp_level": "qm",
+        "event_key": "2026week0",
+        "key": "2026week0_qm10",
+        "match_number": 10,
+        "post_result_time": 1771692432,
+        "predicted_time": 1771692375,
+        "score_breakdown": {
+          "blue": {
+            "adjustPoints": 0,
+            "autoTowerPoints": 0,
+            "autoTowerRobot1": "None",
+            "autoTowerRobot2": "None",
+            "autoTowerRobot3": "None",
+            "endGameTowerPoints": 30,
+            "endGameTowerRobot1": "None",
+            "endGameTowerRobot2": "None",
+            "endGameTowerRobot3": "Level3",
+            "energizedAchieved": false,
+            "foulPoints": 20,
+            "g206Penalty": false,
+            "hubScore": {
+              "autoCount": 3,
+              "autoPoints": 3,
+              "endgameCount": 2,
+              "endgamePoints": 2,
+              "shift1Count": 13,
+              "shift1Points": 13,
+              "shift2Count": 0,
+              "shift2Points": 0,
+              "shift3Count": 8,
+              "shift3Points": 8,
+              "shift4Count": 0,
+              "shift4Points": 0,
+              "teleopCount": 26,
+              "teleopPoints": 26,
+              "totalCount": 29,
+              "totalPoints": 29,
+              "transitionCount": 3,
+              "transitionPoints": 3,
+              "uncounted": 0
+            },
+            "majorFoulCount": 0,
+            "minorFoulCount": 0,
+            "penalties": "None",
+            "rp": 3,
+            "superchargedAchieved": false,
+            "totalAutoPoints": 3,
+            "totalPoints": 79,
+            "totalTeleopPoints": 56,
+            "totalTowerPoints": 30,
+            "traversalAchieved": false
+          },
+          "red": {
+            "adjustPoints": 0,
+            "autoTowerPoints": 0,
+            "autoTowerRobot1": "None",
+            "autoTowerRobot2": "None",
+            "autoTowerRobot3": "None",
+            "endGameTowerPoints": 0,
+            "endGameTowerRobot1": "None",
+            "endGameTowerRobot2": "None",
+            "endGameTowerRobot3": "None",
+            "energizedAchieved": false,
+            "foulPoints": 0,
+            "g206Penalty": false,
+            "hubScore": {
+              "autoCount": 14,
+              "autoPoints": 14,
+              "endgameCount": 0,
+              "endgamePoints": 0,
+              "shift1Count": 0,
+              "shift1Points": 0,
+              "shift2Count": 23,
+              "shift2Points": 23,
+              "shift3Count": 0,
+              "shift3Points": 0,
+              "shift4Count": 6,
+              "shift4Points": 6,
+              "teleopCount": 34,
+              "teleopPoints": 34,
+              "totalCount": 48,
+              "totalPoints": 48,
+              "transitionCount": 5,
+              "transitionPoints": 5,
+              "uncounted": 0
+            },
+            "majorFoulCount": 1,
+            "minorFoulCount": 1,
+            "penalties": "None",
+            "rp": 0,
+            "superchargedAchieved": false,
+            "totalAutoPoints": 14,
+            "totalPoints": 48,
+            "totalTeleopPoints": 34,
+            "totalTowerPoints": 0,
+            "traversalAchieved": false
+          }
+        },
+        "set_number": 1,
+        "time": 1771690020,
+        "videos": [],
+        "winning_alliance": "blue"
+      },
+      {
+        "actual_time": 1771692795,
+        "alliances": {
+          "blue": {
+            "dq_team_keys": [],
+            "score": 187,
+            "surrogate_team_keys": [],
+            "team_keys": [
+              "frc1153",
+              "frc4041",
+              "frc6328"
+            ]
+          },
+          "red": {
+            "dq_team_keys": [],
+            "score": 65,
+            "surrogate_team_keys": [],
+            "team_keys": [
+              "frc190",
+              "frc5813",
+              "frc1119"
+            ]
+          }
+        },
+        "comp_level": "qm",
+        "event_key": "2026week0",
+        "key": "2026week0_qm11",
+        "match_number": 11,
+        "post_result_time": 1771693018,
+        "predicted_time": 1771692806,
+        "score_breakdown": {
+          "blue": {
+            "adjustPoints": 0,
+            "autoTowerPoints": 0,
+            "autoTowerRobot1": "None",
+            "autoTowerRobot2": "None",
+            "autoTowerRobot3": "None",
+            "endGameTowerPoints": 0,
+            "endGameTowerRobot1": "None",
+            "endGameTowerRobot2": "None",
+            "endGameTowerRobot3": "None",
+            "energizedAchieved": true,
+            "foulPoints": 0,
+            "g206Penalty": false,
+            "hubScore": {
+              "autoCount": 32,
+              "autoPoints": 32,
+              "endgameCount": 82,
+              "endgamePoints": 82,
+              "shift1Count": 0,
+              "shift1Points": 0,
+              "shift2Count": 58,
+              "shift2Points": 58,
+              "shift3Count": 0,
+              "shift3Points": 0,
+              "shift4Count": 12,
+              "shift4Points": 12,
+              "teleopCount": 155,
+              "teleopPoints": 155,
+              "totalCount": 187,
+              "totalPoints": 187,
+              "transitionCount": 3,
+              "transitionPoints": 3,
+              "uncounted": 0
+            },
+            "majorFoulCount": 0,
+            "minorFoulCount": 5,
+            "penalties": "None",
+            "rp": 4,
+            "superchargedAchieved": false,
+            "totalAutoPoints": 32,
+            "totalPoints": 187,
+            "totalTeleopPoints": 155,
+            "totalTowerPoints": 0,
+            "traversalAchieved": false
+          },
+          "red": {
+            "adjustPoints": 0,
+            "autoTowerPoints": 0,
+            "autoTowerRobot1": "None",
+            "autoTowerRobot2": "None",
+            "autoTowerRobot3": "None",
+            "endGameTowerPoints": 20,
+            "endGameTowerRobot1": "Level2",
+            "endGameTowerRobot2": "None",
+            "endGameTowerRobot3": "None",
+            "energizedAchieved": false,
+            "foulPoints": 25,
+            "g206Penalty": false,
+            "hubScore": {
+              "autoCount": 10,
+              "autoPoints": 10,
+              "endgameCount": 0,
+              "endgamePoints": 0,
+              "shift1Count": 4,
+              "shift1Points": 4,
+              "shift2Count": 0,
+              "shift2Points": 0,
+              "shift3Count": 6,
+              "shift3Points": 6,
+              "shift4Count": 0,
+              "shift4Points": 0,
+              "teleopCount": 10,
+              "teleopPoints": 10,
+              "totalCount": 20,
+              "totalPoints": 20,
+              "transitionCount": 0,
+              "transitionPoints": 0,
+              "uncounted": 0
+            },
+            "majorFoulCount": 0,
+            "minorFoulCount": 0,
+            "penalties": "None",
+            "rp": 0,
+            "superchargedAchieved": false,
+            "totalAutoPoints": 10,
+            "totalPoints": 65,
+            "totalTeleopPoints": 30,
+            "totalTowerPoints": 20,
+            "traversalAchieved": false
+          }
+        },
+        "set_number": 1,
+        "time": 1771690800,
+        "videos": [],
+        "winning_alliance": "blue"
+      },
+      {
+        "actual_time": 1771693449,
+        "alliances": {
+          "blue": {
+            "dq_team_keys": [],
+            "score": 37,
+            "surrogate_team_keys": [],
+            "team_keys": [
+              "frc501",
+              "frc2423",
+              "frc1735"
+            ]
+          },
+          "red": {
+            "dq_team_keys": [],
+            "score": 122,
+            "surrogate_team_keys": [],
+            "team_keys": [
+              "frc151",
+              "frc2877",
+              "frc1721"
+            ]
+          }
+        },
+        "comp_level": "qm",
+        "event_key": "2026week0",
+        "key": "2026week0_qm12",
+        "match_number": 12,
+        "post_result_time": 1771693650,
+        "predicted_time": 1771693816,
+        "score_breakdown": {
+          "blue": {
+            "adjustPoints": 0,
+            "autoTowerPoints": 0,
+            "autoTowerRobot1": "None",
+            "autoTowerRobot2": "None",
+            "autoTowerRobot3": "None",
+            "endGameTowerPoints": 0,
+            "endGameTowerRobot1": "None",
+            "endGameTowerRobot2": "None",
+            "endGameTowerRobot3": "None",
+            "energizedAchieved": false,
+            "foulPoints": 0,
+            "g206Penalty": false,
+            "hubScore": {
+              "autoCount": 2,
+              "autoPoints": 2,
+              "endgameCount": 13,
+              "endgamePoints": 13,
+              "shift1Count": 9,
+              "shift1Points": 9,
+              "shift2Count": 0,
+              "shift2Points": 0,
+              "shift3Count": 12,
+              "shift3Points": 12,
+              "shift4Count": 0,
+              "shift4Points": 0,
+              "teleopCount": 35,
+              "teleopPoints": 35,
+              "totalCount": 37,
+              "totalPoints": 37,
+              "transitionCount": 1,
+              "transitionPoints": 1,
+              "uncounted": 0
+            },
+            "majorFoulCount": 0,
+            "minorFoulCount": 0,
+            "penalties": "None",
+            "rp": 0,
+            "superchargedAchieved": false,
+            "totalAutoPoints": 2,
+            "totalPoints": 37,
+            "totalTeleopPoints": 35,
+            "totalTowerPoints": 0,
+            "traversalAchieved": false
+          },
+          "red": {
+            "adjustPoints": 0,
+            "autoTowerPoints": 0,
+            "autoTowerRobot1": "None",
+            "autoTowerRobot2": "None",
+            "autoTowerRobot3": "None",
+            "endGameTowerPoints": 0,
+            "endGameTowerRobot1": "None",
+            "endGameTowerRobot2": "None",
+            "endGameTowerRobot3": "None",
+            "energizedAchieved": true,
+            "foulPoints": 0,
+            "g206Penalty": false,
+            "hubScore": {
+              "autoCount": 31,
+              "autoPoints": 31,
+              "endgameCount": 24,
+              "endgamePoints": 24,
+              "shift1Count": 0,
+              "shift1Points": 0,
+              "shift2Count": 29,
+              "shift2Points": 29,
+              "shift3Count": 0,
+              "shift3Points": 0,
+              "shift4Count": 32,
+              "shift4Points": 32,
+              "teleopCount": 91,
+              "teleopPoints": 91,
+              "totalCount": 122,
+              "totalPoints": 122,
+              "transitionCount": 6,
+              "transitionPoints": 6,
+              "uncounted": 0
+            },
+            "majorFoulCount": 0,
+            "minorFoulCount": 0,
+            "penalties": "None",
+            "rp": 4,
+            "superchargedAchieved": false,
+            "totalAutoPoints": 31,
+            "totalPoints": 122,
+            "totalTeleopPoints": 91,
+            "totalTowerPoints": 0,
+            "traversalAchieved": false
+          }
+        },
+        "set_number": 1,
+        "time": 1771691280,
+        "videos": [],
+        "winning_alliance": "red"
+      },
+      {
+        "actual_time": 1771694253,
+        "alliances": {
+          "blue": {
+            "dq_team_keys": [],
+            "score": 47,
+            "surrogate_team_keys": [],
+            "team_keys": [
+              "frc3566",
+              "frc1073",
+              "frc8724"
+            ]
+          },
+          "red": {
+            "dq_team_keys": [],
+            "score": 28,
+            "surrogate_team_keys": [],
+            "team_keys": [
+              "frc2342",
+              "frc131",
+              "frc811"
+            ]
+          }
+        },
+        "comp_level": "qm",
+        "event_key": "2026week0",
+        "key": "2026week0_qm13",
+        "match_number": 13,
+        "post_result_time": 1771694469,
+        "predicted_time": 1771694073,
+        "score_breakdown": {
+          "blue": {
+            "adjustPoints": 0,
+            "autoTowerPoints": 0,
+            "autoTowerRobot1": "None",
+            "autoTowerRobot2": "None",
+            "autoTowerRobot3": "None",
+            "endGameTowerPoints": 0,
+            "endGameTowerRobot1": "None",
+            "endGameTowerRobot2": "None",
+            "endGameTowerRobot3": "None",
+            "energizedAchieved": false,
+            "foulPoints": 0,
+            "g206Penalty": false,
+            "hubScore": {
+              "autoCount": 3,
+              "autoPoints": 3,
+              "endgameCount": 9,
+              "endgamePoints": 9,
+              "shift1Count": 20,
+              "shift1Points": 20,
+              "shift2Count": 0,
+              "shift2Points": 0,
+              "shift3Count": 14,
+              "shift3Points": 14,
+              "shift4Count": 0,
+              "shift4Points": 0,
+              "teleopCount": 44,
+              "teleopPoints": 44,
+              "totalCount": 47,
+              "totalPoints": 47,
+              "transitionCount": 1,
+              "transitionPoints": 1,
+              "uncounted": 0
+            },
+            "majorFoulCount": 0,
+            "minorFoulCount": 0,
+            "penalties": "None",
+            "rp": 3,
+            "superchargedAchieved": false,
+            "totalAutoPoints": 3,
+            "totalPoints": 47,
+            "totalTeleopPoints": 44,
+            "totalTowerPoints": 0,
+            "traversalAchieved": false
+          },
+          "red": {
+            "adjustPoints": 0,
+            "autoTowerPoints": 0,
+            "autoTowerRobot1": "None",
+            "autoTowerRobot2": "None",
+            "autoTowerRobot3": "None",
+            "endGameTowerPoints": 10,
+            "endGameTowerRobot1": "None",
+            "endGameTowerRobot2": "Level1",
+            "endGameTowerRobot3": "None",
+            "energizedAchieved": false,
+            "foulPoints": 0,
+            "g206Penalty": false,
+            "hubScore": {
+              "autoCount": 7,
+              "autoPoints": 7,
+              "endgameCount": 0,
+              "endgamePoints": 0,
+              "shift1Count": 0,
+              "shift1Points": 0,
+              "shift2Count": 2,
+              "shift2Points": 2,
+              "shift3Count": 0,
+              "shift3Points": 0,
+              "shift4Count": 2,
+              "shift4Points": 2,
+              "teleopCount": 11,
+              "teleopPoints": 11,
+              "totalCount": 18,
+              "totalPoints": 18,
+              "transitionCount": 7,
+              "transitionPoints": 7,
+              "uncounted": 0
+            },
+            "majorFoulCount": 0,
+            "minorFoulCount": 0,
+            "penalties": "None",
+            "rp": 0,
+            "superchargedAchieved": false,
+            "totalAutoPoints": 7,
+            "totalPoints": 28,
+            "totalTeleopPoints": 21,
+            "totalTowerPoints": 10,
+            "traversalAchieved": false
+          }
+        },
+        "set_number": 1,
+        "time": 1771691760,
+        "videos": [],
+        "winning_alliance": "blue"
+      },
+      {
+        "actual_time": 1771694927,
+        "alliances": {
+          "blue": {
+            "dq_team_keys": [],
+            "score": 104,
+            "surrogate_team_keys": [],
+            "team_keys": [
+              "frc78",
+              "frc4909",
+              "frc88"
+            ]
+          },
+          "red": {
+            "dq_team_keys": [],
+            "score": 99,
+            "surrogate_team_keys": [],
+            "team_keys": [
+              "frc5000",
+              "frc1512",
+              "frc5422"
+            ]
+          }
+        },
+        "comp_level": "qm",
+        "event_key": "2026week0",
+        "key": "2026week0_qm14",
+        "match_number": 14,
+        "post_result_time": 1771695127,
+        "predicted_time": 1771695001,
+        "score_breakdown": {
+          "blue": {
+            "adjustPoints": 0,
+            "autoTowerPoints": 0,
+            "autoTowerRobot1": "None",
+            "autoTowerRobot2": "None",
+            "autoTowerRobot3": "None",
+            "endGameTowerPoints": 0,
+            "endGameTowerRobot1": "None",
+            "endGameTowerRobot2": "None",
+            "endGameTowerRobot3": "None",
+            "energizedAchieved": true,
+            "foulPoints": 0,
+            "g206Penalty": false,
+            "hubScore": {
+              "autoCount": 19,
+              "autoPoints": 19,
+              "endgameCount": 26,
+              "endgamePoints": 26,
+              "shift1Count": 23,
+              "shift1Points": 23,
+              "shift2Count": 0,
+              "shift2Points": 0,
+              "shift3Count": 36,
+              "shift3Points": 36,
+              "shift4Count": 0,
+              "shift4Points": 0,
+              "teleopCount": 85,
+              "teleopPoints": 85,
+              "totalCount": 104,
+              "totalPoints": 104,
+              "transitionCount": 0,
+              "transitionPoints": 0,
+              "uncounted": 0
+            },
+            "majorFoulCount": 0,
+            "minorFoulCount": 2,
+            "penalties": "None",
+            "rp": 4,
+            "superchargedAchieved": false,
+            "totalAutoPoints": 19,
+            "totalPoints": 104,
+            "totalTeleopPoints": 85,
+            "totalTowerPoints": 0,
+            "traversalAchieved": false
+          },
+          "red": {
+            "adjustPoints": 0,
+            "autoTowerPoints": 15,
+            "autoTowerRobot1": "Level1",
+            "autoTowerRobot2": "None",
+            "autoTowerRobot3": "None",
+            "endGameTowerPoints": 0,
+            "endGameTowerRobot1": "None",
+            "endGameTowerRobot2": "None",
+            "endGameTowerRobot3": "None",
+            "energizedAchieved": false,
+            "foulPoints": 10,
+            "g206Penalty": false,
+            "hubScore": {
+              "autoCount": 26,
+              "autoPoints": 26,
+              "endgameCount": 12,
+              "endgamePoints": 12,
+              "shift1Count": 0,
+              "shift1Points": 0,
+              "shift2Count": 14,
+              "shift2Points": 14,
+              "shift3Count": 0,
+              "shift3Points": 0,
+              "shift4Count": 21,
+              "shift4Points": 21,
+              "teleopCount": 48,
+              "teleopPoints": 48,
+              "totalCount": 74,
+              "totalPoints": 74,
+              "transitionCount": 1,
+              "transitionPoints": 1,
+              "uncounted": 0
+            },
+            "majorFoulCount": 0,
+            "minorFoulCount": 0,
+            "penalties": "None",
+            "rp": 0,
+            "superchargedAchieved": false,
+            "totalAutoPoints": 41,
+            "totalPoints": 99,
+            "totalTeleopPoints": 48,
+            "totalTowerPoints": 15,
+            "traversalAchieved": false
+          }
+        },
+        "set_number": 1,
+        "time": 1771692240,
+        "videos": [],
+        "winning_alliance": "blue"
+      },
+      {
+        "actual_time": 1771695540,
+        "alliances": {
+          "blue": {
+            "dq_team_keys": [],
+            "score": 215,
+            "surrogate_team_keys": [
+              "frc1735",
+              "frc6328"
+            ],
+            "team_keys": [
+              "frc2079",
+              "frc1735",
+              "frc6328"
+            ]
+          },
+          "red": {
+            "dq_team_keys": [],
+            "score": 85,
+            "surrogate_team_keys": [
+              "frc2877"
+            ],
+            "team_keys": [
+              "frc2877",
+              "frc5687",
+              "frc5962"
+            ]
+          }
+        },
+        "comp_level": "qm",
+        "event_key": "2026week0",
+        "key": "2026week0_qm15",
+        "match_number": 15,
+        "post_result_time": 1771695744,
+        "predicted_time": 1771695715,
+        "score_breakdown": {
+          "blue": {
+            "adjustPoints": 0,
+            "autoTowerPoints": 0,
+            "autoTowerRobot1": "None",
+            "autoTowerRobot2": "None",
+            "autoTowerRobot3": "None",
+            "endGameTowerPoints": 0,
+            "endGameTowerRobot1": "None",
+            "endGameTowerRobot2": "None",
+            "endGameTowerRobot3": "None",
+            "energizedAchieved": true,
+            "foulPoints": 0,
+            "g206Penalty": false,
+            "hubScore": {
+              "autoCount": 25,
+              "autoPoints": 25,
+              "endgameCount": 91,
+              "endgamePoints": 91,
+              "shift1Count": 30,
+              "shift1Points": 30,
+              "shift2Count": 0,
+              "shift2Points": 0,
+              "shift3Count": 67,
+              "shift3Points": 67,
+              "shift4Count": 0,
+              "shift4Points": 0,
+              "teleopCount": 190,
+              "teleopPoints": 190,
+              "totalCount": 215,
+              "totalPoints": 215,
+              "transitionCount": 2,
+              "transitionPoints": 2,
+              "uncounted": 0
+            },
+            "majorFoulCount": 0,
+            "minorFoulCount": 1,
+            "penalties": "None",
+            "rp": 4,
+            "superchargedAchieved": false,
+            "totalAutoPoints": 25,
+            "totalPoints": 215,
+            "totalTeleopPoints": 190,
+            "totalTowerPoints": 0,
+            "traversalAchieved": false
+          },
+          "red": {
+            "adjustPoints": 0,
+            "autoTowerPoints": 0,
+            "autoTowerRobot1": "None",
+            "autoTowerRobot2": "None",
+            "autoTowerRobot3": "None",
+            "endGameTowerPoints": 0,
+            "endGameTowerRobot1": "None",
+            "endGameTowerRobot2": "None",
+            "endGameTowerRobot3": "None",
+            "energizedAchieved": false,
+            "foulPoints": 5,
+            "g206Penalty": false,
+            "hubScore": {
+              "autoCount": 39,
+              "autoPoints": 39,
+              "endgameCount": 7,
+              "endgamePoints": 7,
+              "shift1Count": 0,
+              "shift1Points": 0,
+              "shift2Count": 9,
+              "shift2Points": 9,
+              "shift3Count": 0,
+              "shift3Points": 0,
+              "shift4Count": 17,
+              "shift4Points": 17,
+              "teleopCount": 41,
+              "teleopPoints": 41,
+              "totalCount": 80,
+              "totalPoints": 80,
+              "transitionCount": 8,
+              "transitionPoints": 8,
+              "uncounted": 0
+            },
+            "majorFoulCount": 0,
+            "minorFoulCount": 0,
+            "penalties": "None",
+            "rp": 0,
+            "superchargedAchieved": false,
+            "totalAutoPoints": 39,
+            "totalPoints": 85,
+            "totalTeleopPoints": 41,
+            "totalTowerPoints": 0,
+            "traversalAchieved": false
+          }
+        },
+        "set_number": 1,
+        "time": 1771692720,
+        "videos": [],
+        "winning_alliance": "blue"
+      },
+      {
+        "actual_time": 1771686700,
+        "alliances": {
+          "blue": {
+            "dq_team_keys": [],
+            "score": 18,
+            "surrogate_team_keys": [],
+            "team_keys": [
+              "frc9644",
+              "frc1735",
+              "frc4041"
+            ]
+          },
+          "red": {
+            "dq_team_keys": [],
+            "score": 155,
+            "surrogate_team_keys": [],
+            "team_keys": [
+              "frc6328",
+              "frc78",
+              "frc1073"
+            ]
+          }
+        },
+        "comp_level": "qm",
+        "event_key": "2026week0",
+        "key": "2026week0_qm2",
+        "match_number": 2,
+        "post_result_time": 1771686958,
+        "predicted_time": 1771686820,
+        "score_breakdown": {
+          "blue": {
+            "adjustPoints": 0,
+            "autoTowerPoints": 0,
+            "autoTowerRobot1": "None",
+            "autoTowerRobot2": "None",
+            "autoTowerRobot3": "None",
+            "endGameTowerPoints": 0,
+            "endGameTowerRobot1": "None",
+            "endGameTowerRobot2": "None",
+            "endGameTowerRobot3": "None",
+            "energizedAchieved": false,
+            "foulPoints": 0,
+            "g206Penalty": false,
+            "hubScore": {
+              "autoCount": 0,
+              "autoPoints": 0,
+              "endgameCount": 4,
+              "endgamePoints": 4,
+              "shift1Count": 6,
+              "shift1Points": 6,
+              "shift2Count": 0,
+              "shift2Points": 0,
+              "shift3Count": 8,
+              "shift3Points": 8,
+              "shift4Count": 0,
+              "shift4Points": 0,
+              "teleopCount": 18,
+              "teleopPoints": 18,
+              "totalCount": 18,
+              "totalPoints": 18,
+              "transitionCount": 0,
+              "transitionPoints": 0,
+              "uncounted": 0
+            },
+            "majorFoulCount": 0,
+            "minorFoulCount": 0,
+            "penalties": "None",
+            "rp": 0,
+            "superchargedAchieved": false,
+            "totalAutoPoints": 0,
+            "totalPoints": 18,
+            "totalTeleopPoints": 18,
+            "totalTowerPoints": 0,
+            "traversalAchieved": false
+          },
+          "red": {
+            "adjustPoints": 0,
+            "autoTowerPoints": 0,
+            "autoTowerRobot1": "None",
+            "autoTowerRobot2": "None",
+            "autoTowerRobot3": "None",
+            "endGameTowerPoints": 0,
+            "endGameTowerRobot1": "None",
+            "endGameTowerRobot2": "None",
+            "endGameTowerRobot3": "None",
+            "energizedAchieved": true,
+            "foulPoints": 0,
+            "g206Penalty": false,
+            "hubScore": {
+              "autoCount": 6,
+              "autoPoints": 6,
+              "endgameCount": 30,
+              "endgamePoints": 30,
+              "shift1Count": 0,
+              "shift1Points": 0,
+              "shift2Count": 55,
+              "shift2Points": 55,
+              "shift3Count": 0,
+              "shift3Points": 0,
+              "shift4Count": 57,
+              "shift4Points": 57,
+              "teleopCount": 149,
+              "teleopPoints": 149,
+              "totalCount": 155,
+              "totalPoints": 155,
+              "transitionCount": 7,
+              "transitionPoints": 7,
+              "uncounted": 0
+            },
+            "majorFoulCount": 0,
+            "minorFoulCount": 0,
+            "penalties": "None",
+            "rp": 4,
+            "superchargedAchieved": false,
+            "totalAutoPoints": 6,
+            "totalPoints": 155,
+            "totalTeleopPoints": 149,
+            "totalTowerPoints": 0,
+            "traversalAchieved": false
+          }
+        },
+        "set_number": 1,
+        "time": 1771685640,
+        "videos": [],
+        "winning_alliance": "red"
+      },
+      {
+        "actual_time": 1771687553,
+        "alliances": {
+          "blue": {
+            "dq_team_keys": [],
+            "score": 57,
+            "surrogate_team_keys": [],
+            "team_keys": [
+              "frc2877",
+              "frc811",
+              "frc5813"
+            ]
+          },
+          "red": {
+            "dq_team_keys": [],
+            "score": 119,
+            "surrogate_team_keys": [],
+            "team_keys": [
+              "frc4909",
+              "frc5422",
+              "frc2423"
+            ]
+          }
+        },
+        "comp_level": "qm",
+        "event_key": "2026week0",
+        "key": "2026week0_qm3",
+        "match_number": 3,
+        "post_result_time": 1771687789,
+        "predicted_time": 1771687336,
+        "score_breakdown": {
+          "blue": {
+            "adjustPoints": 0,
+            "autoTowerPoints": 0,
+            "autoTowerRobot1": "None",
+            "autoTowerRobot2": "None",
+            "autoTowerRobot3": "None",
+            "endGameTowerPoints": 0,
+            "endGameTowerRobot1": "None",
+            "endGameTowerRobot2": "None",
+            "endGameTowerRobot3": "None",
+            "energizedAchieved": false,
+            "foulPoints": 5,
+            "g206Penalty": false,
+            "hubScore": {
+              "autoCount": 11,
+              "autoPoints": 11,
+              "endgameCount": 27,
+              "endgamePoints": 27,
+              "shift1Count": 4,
+              "shift1Points": 4,
+              "shift2Count": 0,
+              "shift2Points": 0,
+              "shift3Count": 9,
+              "shift3Points": 9,
+              "shift4Count": 0,
+              "shift4Points": 0,
+              "teleopCount": 41,
+              "teleopPoints": 41,
+              "totalCount": 52,
+              "totalPoints": 52,
+              "transitionCount": 1,
+              "transitionPoints": 1,
+              "uncounted": 0
+            },
+            "majorFoulCount": 0,
+            "minorFoulCount": 0,
+            "penalties": "None",
+            "rp": 0,
+            "superchargedAchieved": false,
+            "totalAutoPoints": 11,
+            "totalPoints": 57,
+            "totalTeleopPoints": 41,
+            "totalTowerPoints": 0,
+            "traversalAchieved": false
+          },
+          "red": {
+            "adjustPoints": 0,
+            "autoTowerPoints": 0,
+            "autoTowerRobot1": "None",
+            "autoTowerRobot2": "None",
+            "autoTowerRobot3": "None",
+            "endGameTowerPoints": 0,
+            "endGameTowerRobot1": "None",
+            "endGameTowerRobot2": "None",
+            "endGameTowerRobot3": "None",
+            "energizedAchieved": true,
+            "foulPoints": 0,
+            "g206Penalty": false,
+            "hubScore": {
+              "autoCount": 16,
+              "autoPoints": 16,
+              "endgameCount": 27,
+              "endgamePoints": 27,
+              "shift1Count": 0,
+              "shift1Points": 0,
+              "shift2Count": 30,
+              "shift2Points": 30,
+              "shift3Count": 0,
+              "shift3Points": 0,
+              "shift4Count": 45,
+              "shift4Points": 45,
+              "teleopCount": 103,
+              "teleopPoints": 103,
+              "totalCount": 119,
+              "totalPoints": 119,
+              "transitionCount": 1,
+              "transitionPoints": 1,
+              "uncounted": 0
+            },
+            "majorFoulCount": 0,
+            "minorFoulCount": 1,
+            "penalties": "None",
+            "rp": 4,
+            "superchargedAchieved": false,
+            "totalAutoPoints": 16,
+            "totalPoints": 119,
+            "totalTeleopPoints": 103,
+            "totalTowerPoints": 0,
+            "traversalAchieved": false
+          }
+        },
+        "set_number": 1,
+        "time": 1771686180,
+        "videos": [],
+        "winning_alliance": "red"
+      },
+      {
+        "actual_time": 1771688263,
+        "alliances": {
+          "blue": {
+            "dq_team_keys": [],
+            "score": 54,
+            "surrogate_team_keys": [],
+            "team_keys": [
+              "frc131",
+              "frc5000",
+              "frc2079"
+            ]
+          },
+          "red": {
+            "dq_team_keys": [],
+            "score": 46,
+            "surrogate_team_keys": [],
+            "team_keys": [
+              "frc1119",
+              "frc1153",
+              "frc151"
+            ]
+          }
+        },
+        "comp_level": "qm",
+        "event_key": "2026week0",
+        "key": "2026week0_qm4",
+        "match_number": 4,
+        "post_result_time": 1771688561,
+        "predicted_time": 1771688258,
+        "score_breakdown": {
+          "blue": {
+            "adjustPoints": 0,
+            "autoTowerPoints": 0,
+            "autoTowerRobot1": "None",
+            "autoTowerRobot2": "None",
+            "autoTowerRobot3": "None",
+            "endGameTowerPoints": 0,
+            "endGameTowerRobot1": "None",
+            "endGameTowerRobot2": "None",
+            "endGameTowerRobot3": "None",
+            "energizedAchieved": false,
+            "foulPoints": 0,
+            "g206Penalty": false,
+            "hubScore": {
+              "autoCount": 16,
+              "autoPoints": 16,
+              "endgameCount": 13,
+              "endgamePoints": 13,
+              "shift1Count": 0,
+              "shift1Points": 0,
+              "shift2Count": 8,
+              "shift2Points": 8,
+              "shift3Count": 0,
+              "shift3Points": 0,
+              "shift4Count": 14,
+              "shift4Points": 14,
+              "teleopCount": 38,
+              "teleopPoints": 38,
+              "totalCount": 54,
+              "totalPoints": 54,
+              "transitionCount": 3,
+              "transitionPoints": 3,
+              "uncounted": 0
+            },
+            "majorFoulCount": 0,
+            "minorFoulCount": 1,
+            "penalties": "None",
+            "rp": 3,
+            "superchargedAchieved": false,
+            "totalAutoPoints": 16,
+            "totalPoints": 54,
+            "totalTeleopPoints": 38,
+            "totalTowerPoints": 0,
+            "traversalAchieved": false
+          },
+          "red": {
+            "adjustPoints": 0,
+            "autoTowerPoints": 0,
+            "autoTowerRobot1": "None",
+            "autoTowerRobot2": "None",
+            "autoTowerRobot3": "None",
+            "endGameTowerPoints": 0,
+            "endGameTowerRobot1": "None",
+            "endGameTowerRobot2": "None",
+            "endGameTowerRobot3": "None",
+            "energizedAchieved": false,
+            "foulPoints": 5,
+            "g206Penalty": false,
+            "hubScore": {
+              "autoCount": 3,
+              "autoPoints": 3,
+              "endgameCount": 7,
+              "endgamePoints": 7,
+              "shift1Count": 7,
+              "shift1Points": 7,
+              "shift2Count": 0,
+              "shift2Points": 0,
+              "shift3Count": 17,
+              "shift3Points": 17,
+              "shift4Count": 0,
+              "shift4Points": 0,
+              "teleopCount": 38,
+              "teleopPoints": 38,
+              "totalCount": 41,
+              "totalPoints": 41,
+              "transitionCount": 7,
+              "transitionPoints": 7,
+              "uncounted": 0
+            },
+            "majorFoulCount": 0,
+            "minorFoulCount": 0,
+            "penalties": "None",
+            "rp": 0,
+            "superchargedAchieved": false,
+            "totalAutoPoints": 3,
+            "totalPoints": 46,
+            "totalTeleopPoints": 38,
+            "totalTowerPoints": 0,
+            "traversalAchieved": false
+          }
+        },
+        "set_number": 1,
+        "time": 1771686720,
+        "videos": [],
+        "winning_alliance": "blue"
+      },
+      {
+        "actual_time": 1771688945,
+        "alliances": {
+          "blue": {
+            "dq_team_keys": [],
+            "score": 81,
+            "surrogate_team_keys": [],
+            "team_keys": [
+              "frc1512",
+              "frc1721",
+              "frc5687"
+            ]
+          },
+          "red": {
+            "dq_team_keys": [],
+            "score": 138,
+            "surrogate_team_keys": [],
+            "team_keys": [
+              "frc8724",
+              "frc190",
+              "frc2342"
+            ]
+          }
+        },
+        "comp_level": "qm",
+        "event_key": "2026week0",
+        "key": "2026week0_qm5",
+        "match_number": 5,
+        "post_result_time": 1771689168,
+        "predicted_time": 1771689097,
+        "score_breakdown": {
+          "blue": {
+            "adjustPoints": 0,
+            "autoTowerPoints": 0,
+            "autoTowerRobot1": "None",
+            "autoTowerRobot2": "None",
+            "autoTowerRobot3": "None",
+            "endGameTowerPoints": 0,
+            "endGameTowerRobot1": "None",
+            "endGameTowerRobot2": "None",
+            "endGameTowerRobot3": "None",
+            "energizedAchieved": false,
+            "foulPoints": 0,
+            "g206Penalty": false,
+            "hubScore": {
+              "autoCount": 5,
+              "autoPoints": 5,
+              "endgameCount": 22,
+              "endgamePoints": 22,
+              "shift1Count": 28,
+              "shift1Points": 28,
+              "shift2Count": 0,
+              "shift2Points": 0,
+              "shift3Count": 26,
+              "shift3Points": 26,
+              "shift4Count": 0,
+              "shift4Points": 0,
+              "teleopCount": 76,
+              "teleopPoints": 76,
+              "totalCount": 81,
+              "totalPoints": 81,
+              "transitionCount": 0,
+              "transitionPoints": 0,
+              "uncounted": 0
+            },
+            "majorFoulCount": 0,
+            "minorFoulCount": 1,
+            "penalties": "None",
+            "rp": 0,
+            "superchargedAchieved": false,
+            "totalAutoPoints": 5,
+            "totalPoints": 81,
+            "totalTeleopPoints": 76,
+            "totalTowerPoints": 0,
+            "traversalAchieved": false
+          },
+          "red": {
+            "adjustPoints": 0,
+            "autoTowerPoints": 0,
+            "autoTowerRobot1": "None",
+            "autoTowerRobot2": "None",
+            "autoTowerRobot3": "None",
+            "endGameTowerPoints": 10,
+            "endGameTowerRobot1": "None",
+            "endGameTowerRobot2": "Level1",
+            "endGameTowerRobot3": "None",
+            "energizedAchieved": true,
+            "foulPoints": 5,
+            "g206Penalty": false,
+            "hubScore": {
+              "autoCount": 39,
+              "autoPoints": 39,
+              "endgameCount": 7,
+              "endgamePoints": 7,
+              "shift1Count": 0,
+              "shift1Points": 0,
+              "shift2Count": 46,
+              "shift2Points": 46,
+              "shift3Count": 0,
+              "shift3Points": 0,
+              "shift4Count": 26,
+              "shift4Points": 26,
+              "teleopCount": 84,
+              "teleopPoints": 84,
+              "totalCount": 123,
+              "totalPoints": 123,
+              "transitionCount": 5,
+              "transitionPoints": 5,
+              "uncounted": 0
+            },
+            "majorFoulCount": 0,
+            "minorFoulCount": 0,
+            "penalties": "None",
+            "rp": 4,
+            "superchargedAchieved": false,
+            "totalAutoPoints": 39,
+            "totalPoints": 138,
+            "totalTeleopPoints": 94,
+            "totalTowerPoints": 10,
+            "traversalAchieved": false
+          }
+        },
+        "set_number": 1,
+        "time": 1771687260,
+        "videos": [],
+        "winning_alliance": "red"
+      },
+      {
+        "actual_time": 1771689631,
+        "alliances": {
+          "blue": {
+            "dq_team_keys": [],
+            "score": 171,
+            "surrogate_team_keys": [],
+            "team_keys": [
+              "frc2423",
+              "frc6328",
+              "frc2877"
+            ]
+          },
+          "red": {
+            "dq_team_keys": [],
+            "score": 136,
+            "surrogate_team_keys": [],
+            "team_keys": [
+              "frc1073",
+              "frc88",
+              "frc1768"
+            ]
+          }
+        },
+        "comp_level": "qm",
+        "event_key": "2026week0",
+        "key": "2026week0_qm6",
+        "match_number": 6,
+        "post_result_time": 1771689854,
+        "predicted_time": 1771689702,
+        "score_breakdown": {
+          "blue": {
+            "adjustPoints": 0,
+            "autoTowerPoints": 0,
+            "autoTowerRobot1": "None",
+            "autoTowerRobot2": "None",
+            "autoTowerRobot3": "None",
+            "endGameTowerPoints": 0,
+            "endGameTowerRobot1": "None",
+            "endGameTowerRobot2": "None",
+            "endGameTowerRobot3": "None",
+            "energizedAchieved": true,
+            "foulPoints": 0,
+            "g206Penalty": false,
+            "hubScore": {
+              "autoCount": 19,
+              "autoPoints": 19,
+              "endgameCount": 48,
+              "endgamePoints": 48,
+              "shift1Count": 0,
+              "shift1Points": 0,
+              "shift2Count": 69,
+              "shift2Points": 69,
+              "shift3Count": 0,
+              "shift3Points": 0,
+              "shift4Count": 33,
+              "shift4Points": 33,
+              "teleopCount": 152,
+              "teleopPoints": 152,
+              "totalCount": 171,
+              "totalPoints": 171,
+              "transitionCount": 2,
+              "transitionPoints": 2,
+              "uncounted": 0
+            },
+            "majorFoulCount": 0,
+            "minorFoulCount": 1,
+            "penalties": "None",
+            "rp": 4,
+            "superchargedAchieved": false,
+            "totalAutoPoints": 19,
+            "totalPoints": 171,
+            "totalTeleopPoints": 152,
+            "totalTowerPoints": 0,
+            "traversalAchieved": false
+          },
+          "red": {
+            "adjustPoints": 0,
+            "autoTowerPoints": 0,
+            "autoTowerRobot1": "None",
+            "autoTowerRobot2": "None",
+            "autoTowerRobot3": "None",
+            "endGameTowerPoints": 0,
+            "endGameTowerRobot1": "None",
+            "endGameTowerRobot2": "None",
+            "endGameTowerRobot3": "None",
+            "energizedAchieved": true,
+            "foulPoints": 5,
+            "g206Penalty": false,
+            "hubScore": {
+              "autoCount": 10,
+              "autoPoints": 10,
+              "endgameCount": 38,
+              "endgamePoints": 38,
+              "shift1Count": 35,
+              "shift1Points": 35,
+              "shift2Count": 0,
+              "shift2Points": 0,
+              "shift3Count": 44,
+              "shift3Points": 44,
+              "shift4Count": 0,
+              "shift4Points": 0,
+              "teleopCount": 121,
+              "teleopPoints": 121,
+              "totalCount": 131,
+              "totalPoints": 131,
+              "transitionCount": 4,
+              "transitionPoints": 4,
+              "uncounted": 0
+            },
+            "majorFoulCount": 0,
+            "minorFoulCount": 0,
+            "penalties": "None",
+            "rp": 1,
+            "superchargedAchieved": false,
+            "totalAutoPoints": 10,
+            "totalPoints": 136,
+            "totalTeleopPoints": 121,
+            "totalTowerPoints": 0,
+            "traversalAchieved": false
+          }
+        },
+        "set_number": 1,
+        "time": 1771688100,
+        "videos": [],
+        "winning_alliance": "blue"
+      },
+      {
+        "actual_time": 1771690275,
+        "alliances": {
+          "blue": {
+            "dq_team_keys": [],
+            "score": 37,
+            "surrogate_team_keys": [],
+            "team_keys": [
+              "frc1735",
+              "frc1119",
+              "frc5000"
+            ]
+          },
+          "red": {
+            "dq_team_keys": [],
+            "score": 24,
+            "surrogate_team_keys": [],
+            "team_keys": [
+              "frc5813",
+              "frc3566",
+              "frc9644"
+            ]
+          }
+        },
+        "comp_level": "qm",
+        "event_key": "2026week0",
+        "key": "2026week0_qm7",
+        "match_number": 7,
+        "post_result_time": 1771690482,
+        "predicted_time": 1771690353,
+        "score_breakdown": {
+          "blue": {
+            "adjustPoints": 0,
+            "autoTowerPoints": 0,
+            "autoTowerRobot1": "None",
+            "autoTowerRobot2": "None",
+            "autoTowerRobot3": "None",
+            "endGameTowerPoints": 0,
+            "endGameTowerRobot1": "None",
+            "endGameTowerRobot2": "None",
+            "endGameTowerRobot3": "None",
+            "energizedAchieved": false,
+            "foulPoints": 0,
+            "g206Penalty": false,
+            "hubScore": {
+              "autoCount": 10,
+              "autoPoints": 10,
+              "endgameCount": 10,
+              "endgamePoints": 10,
+              "shift1Count": 0,
+              "shift1Points": 0,
+              "shift2Count": 10,
+              "shift2Points": 10,
+              "shift3Count": 0,
+              "shift3Points": 0,
+              "shift4Count": 5,
+              "shift4Points": 5,
+              "teleopCount": 27,
+              "teleopPoints": 27,
+              "totalCount": 37,
+              "totalPoints": 37,
+              "transitionCount": 2,
+              "transitionPoints": 2,
+              "uncounted": 0
+            },
+            "majorFoulCount": 0,
+            "minorFoulCount": 0,
+            "penalties": "None",
+            "rp": 3,
+            "superchargedAchieved": false,
+            "totalAutoPoints": 10,
+            "totalPoints": 37,
+            "totalTeleopPoints": 27,
+            "totalTowerPoints": 0,
+            "traversalAchieved": false
+          },
+          "red": {
+            "adjustPoints": 0,
+            "autoTowerPoints": 0,
+            "autoTowerRobot1": "None",
+            "autoTowerRobot2": "None",
+            "autoTowerRobot3": "None",
+            "endGameTowerPoints": 0,
+            "endGameTowerRobot1": "None",
+            "endGameTowerRobot2": "None",
+            "endGameTowerRobot3": "None",
+            "energizedAchieved": false,
+            "foulPoints": 0,
+            "g206Penalty": false,
+            "hubScore": {
+              "autoCount": 0,
+              "autoPoints": 0,
+              "endgameCount": 5,
+              "endgamePoints": 5,
+              "shift1Count": 6,
+              "shift1Points": 6,
+              "shift2Count": 0,
+              "shift2Points": 0,
+              "shift3Count": 8,
+              "shift3Points": 8,
+              "shift4Count": 0,
+              "shift4Points": 0,
+              "teleopCount": 24,
+              "teleopPoints": 24,
+              "totalCount": 24,
+              "totalPoints": 24,
+              "transitionCount": 5,
+              "transitionPoints": 5,
+              "uncounted": 0
+            },
+            "majorFoulCount": 0,
+            "minorFoulCount": 0,
+            "penalties": "None",
+            "rp": 0,
+            "superchargedAchieved": false,
+            "totalAutoPoints": 0,
+            "totalPoints": 24,
+            "totalTeleopPoints": 24,
+            "totalTowerPoints": 0,
+            "traversalAchieved": false
+          }
+        },
+        "set_number": 1,
+        "time": 1771688580,
+        "videos": [],
+        "winning_alliance": "blue"
+      },
+      {
+        "actual_time": 1771690926,
+        "alliances": {
+          "blue": {
+            "dq_team_keys": [],
+            "score": 59,
+            "surrogate_team_keys": [],
+            "team_keys": [
+              "frc5422",
+              "frc2079",
+              "frc1153"
+            ]
+          },
+          "red": {
+            "dq_team_keys": [],
+            "score": 18,
+            "surrogate_team_keys": [],
+            "team_keys": [
+              "frc4041",
+              "frc2342",
+              "frc501"
+            ]
+          }
+        },
+        "comp_level": "qm",
+        "event_key": "2026week0",
+        "key": "2026week0_qm8",
+        "match_number": 8,
+        "post_result_time": 1771691122,
+        "predicted_time": 1771690862,
+        "score_breakdown": {
+          "blue": {
+            "adjustPoints": 0,
+            "autoTowerPoints": 0,
+            "autoTowerRobot1": "None",
+            "autoTowerRobot2": "None",
+            "autoTowerRobot3": "None",
+            "endGameTowerPoints": 0,
+            "endGameTowerRobot1": "None",
+            "endGameTowerRobot2": "None",
+            "endGameTowerRobot3": "None",
+            "energizedAchieved": false,
+            "foulPoints": 0,
+            "g206Penalty": false,
+            "hubScore": {
+              "autoCount": 4,
+              "autoPoints": 4,
+              "endgameCount": 23,
+              "endgamePoints": 23,
+              "shift1Count": 8,
+              "shift1Points": 8,
+              "shift2Count": 0,
+              "shift2Points": 0,
+              "shift3Count": 17,
+              "shift3Points": 17,
+              "shift4Count": 0,
+              "shift4Points": 0,
+              "teleopCount": 55,
+              "teleopPoints": 55,
+              "totalCount": 59,
+              "totalPoints": 59,
+              "transitionCount": 7,
+              "transitionPoints": 7,
+              "uncounted": 0
+            },
+            "majorFoulCount": 0,
+            "minorFoulCount": 0,
+            "penalties": "None",
+            "rp": 3,
+            "superchargedAchieved": false,
+            "totalAutoPoints": 4,
+            "totalPoints": 59,
+            "totalTeleopPoints": 55,
+            "totalTowerPoints": 0,
+            "traversalAchieved": false
+          },
+          "red": {
+            "adjustPoints": 0,
+            "autoTowerPoints": 0,
+            "autoTowerRobot1": "None",
+            "autoTowerRobot2": "None",
+            "autoTowerRobot3": "None",
+            "endGameTowerPoints": 0,
+            "endGameTowerRobot1": "None",
+            "endGameTowerRobot2": "None",
+            "endGameTowerRobot3": "None",
+            "energizedAchieved": false,
+            "foulPoints": 0,
+            "g206Penalty": false,
+            "hubScore": {
+              "autoCount": 4,
+              "autoPoints": 4,
+              "endgameCount": 3,
+              "endgamePoints": 3,
+              "shift1Count": 0,
+              "shift1Points": 0,
+              "shift2Count": 6,
+              "shift2Points": 6,
+              "shift3Count": 0,
+              "shift3Points": 0,
+              "shift4Count": 0,
+              "shift4Points": 0,
+              "teleopCount": 14,
+              "teleopPoints": 14,
+              "totalCount": 18,
+              "totalPoints": 18,
+              "transitionCount": 5,
+              "transitionPoints": 5,
+              "uncounted": 0
+            },
+            "majorFoulCount": 0,
+            "minorFoulCount": 0,
+            "penalties": "None",
+            "rp": 0,
+            "superchargedAchieved": false,
+            "totalAutoPoints": 4,
+            "totalPoints": 18,
+            "totalTeleopPoints": 14,
+            "totalTowerPoints": 0,
+            "traversalAchieved": false
+          }
+        },
+        "set_number": 1,
+        "time": 1771689060,
+        "videos": [],
+        "winning_alliance": "blue"
+      },
+      {
+        "actual_time": 1771691531,
+        "alliances": {
+          "blue": {
+            "dq_team_keys": [],
+            "score": 34,
+            "surrogate_team_keys": [],
+            "team_keys": [
+              "frc5962",
+              "frc151",
+              "frc78"
+            ]
+          },
+          "red": {
+            "dq_team_keys": [],
+            "score": 149,
+            "surrogate_team_keys": [],
+            "team_keys": [
+              "frc1721",
+              "frc8724",
+              "frc4909"
+            ]
+          }
+        },
+        "comp_level": "qm",
+        "event_key": "2026week0",
+        "key": "2026week0_qm9",
+        "match_number": 9,
+        "post_result_time": 1771691735,
+        "predicted_time": 1771691669,
+        "score_breakdown": {
+          "blue": {
+            "adjustPoints": 0,
+            "autoTowerPoints": 0,
+            "autoTowerRobot1": "None",
+            "autoTowerRobot2": "None",
+            "autoTowerRobot3": "None",
+            "endGameTowerPoints": 0,
+            "endGameTowerRobot1": "None",
+            "endGameTowerRobot2": "None",
+            "endGameTowerRobot3": "None",
+            "energizedAchieved": false,
+            "foulPoints": 0,
+            "g206Penalty": false,
+            "hubScore": {
+              "autoCount": 5,
+              "autoPoints": 5,
+              "endgameCount": 16,
+              "endgamePoints": 16,
+              "shift1Count": 5,
+              "shift1Points": 5,
+              "shift2Count": 0,
+              "shift2Points": 0,
+              "shift3Count": 6,
+              "shift3Points": 6,
+              "shift4Count": 0,
+              "shift4Points": 0,
+              "teleopCount": 29,
+              "teleopPoints": 29,
+              "totalCount": 34,
+              "totalPoints": 34,
+              "transitionCount": 2,
+              "transitionPoints": 2,
+              "uncounted": 0
+            },
+            "majorFoulCount": 0,
+            "minorFoulCount": 1,
+            "penalties": "None",
+            "rp": 0,
+            "superchargedAchieved": false,
+            "totalAutoPoints": 5,
+            "totalPoints": 34,
+            "totalTeleopPoints": 29,
+            "totalTowerPoints": 0,
+            "traversalAchieved": false
+          },
+          "red": {
+            "adjustPoints": 0,
+            "autoTowerPoints": 0,
+            "autoTowerRobot1": "None",
+            "autoTowerRobot2": "None",
+            "autoTowerRobot3": "None",
+            "endGameTowerPoints": 0,
+            "endGameTowerRobot1": "None",
+            "endGameTowerRobot2": "None",
+            "endGameTowerRobot3": "None",
+            "energizedAchieved": true,
+            "foulPoints": 5,
+            "g206Penalty": false,
+            "hubScore": {
+              "autoCount": 31,
+              "autoPoints": 31,
+              "endgameCount": 18,
+              "endgamePoints": 18,
+              "shift1Count": 0,
+              "shift1Points": 0,
+              "shift2Count": 45,
+              "shift2Points": 45,
+              "shift3Count": 0,
+              "shift3Points": 0,
+              "shift4Count": 41,
+              "shift4Points": 41,
+              "teleopCount": 113,
+              "teleopPoints": 113,
+              "totalCount": 144,
+              "totalPoints": 144,
+              "transitionCount": 9,
+              "transitionPoints": 9,
+              "uncounted": 0
+            },
+            "majorFoulCount": 0,
+            "minorFoulCount": 0,
+            "penalties": "None",
+            "rp": 4,
+            "superchargedAchieved": false,
+            "totalAutoPoints": 31,
+            "totalPoints": 149,
+            "totalTeleopPoints": 113,
+            "totalTowerPoints": 0,
+            "traversalAchieved": false
+          }
+        },
+        "set_number": 1,
+        "time": 1771689540,
+        "videos": [],
+        "winning_alliance": "red"
+      },
+      {
+        "actual_time": 1771699610,
+        "alliances": {
+          "blue": {
+            "dq_team_keys": [],
+            "score": 80,
+            "surrogate_team_keys": [],
+            "team_keys": [
+              "frc88",
+              "frc78",
+              "frc131"
+            ]
+          },
+          "red": {
+            "dq_team_keys": [],
+            "score": 141,
+            "surrogate_team_keys": [],
+            "team_keys": [
+              "frc2877",
+              "frc6328",
+              "frc2342"
+            ]
+          }
+        },
+        "comp_level": "sf",
+        "event_key": "2026week0",
+        "key": "2026week0_sf1m1",
+        "match_number": 1,
+        "post_result_time": 1771699815,
+        "predicted_time": 1771699706,
+        "score_breakdown": {
+          "blue": {
+            "adjustPoints": 0,
+            "autoTowerPoints": 0,
+            "autoTowerRobot1": "None",
+            "autoTowerRobot2": "None",
+            "autoTowerRobot3": "None",
+            "endGameTowerPoints": 10,
+            "endGameTowerRobot1": "None",
+            "endGameTowerRobot2": "None",
+            "endGameTowerRobot3": "Level1",
+            "energizedAchieved": false,
+            "foulPoints": 0,
+            "g206Penalty": false,
+            "hubScore": {
+              "autoCount": 8,
+              "autoPoints": 8,
+              "endgameCount": 21,
+              "endgamePoints": 21,
+              "shift1Count": 19,
+              "shift1Points": 19,
+              "shift2Count": 0,
+              "shift2Points": 0,
+              "shift3Count": 20,
+              "shift3Points": 20,
+              "shift4Count": 0,
+              "shift4Points": 0,
+              "teleopCount": 62,
+              "teleopPoints": 62,
+              "totalCount": 70,
+              "totalPoints": 70,
+              "transitionCount": 2,
+              "transitionPoints": 2,
+              "uncounted": 0
+            },
+            "majorFoulCount": 0,
+            "minorFoulCount": 0,
+            "penalties": "None",
+            "rp": 0,
+            "superchargedAchieved": false,
+            "totalAutoPoints": 8,
+            "totalPoints": 80,
+            "totalTeleopPoints": 72,
+            "totalTowerPoints": 10,
+            "traversalAchieved": false
+          },
+          "red": {
+            "adjustPoints": 0,
+            "autoTowerPoints": 0,
+            "autoTowerRobot1": "None",
+            "autoTowerRobot2": "None",
+            "autoTowerRobot3": "None",
+            "endGameTowerPoints": 0,
+            "endGameTowerRobot1": "None",
+            "endGameTowerRobot2": "None",
+            "endGameTowerRobot3": "None",
+            "energizedAchieved": false,
+            "foulPoints": 0,
+            "g206Penalty": false,
+            "hubScore": {
+              "autoCount": 34,
+              "autoPoints": 34,
+              "endgameCount": 45,
+              "endgamePoints": 45,
+              "shift1Count": 0,
+              "shift1Points": 0,
+              "shift2Count": 18,
+              "shift2Points": 18,
+              "shift3Count": 0,
+              "shift3Points": 0,
+              "shift4Count": 34,
+              "shift4Points": 34,
+              "teleopCount": 107,
+              "teleopPoints": 107,
+              "totalCount": 141,
+              "totalPoints": 141,
+              "transitionCount": 10,
+              "transitionPoints": 10,
+              "uncounted": 0
+            },
+            "majorFoulCount": 0,
+            "minorFoulCount": 0,
+            "penalties": "None",
+            "rp": 0,
+            "superchargedAchieved": false,
+            "totalAutoPoints": 34,
+            "totalPoints": 141,
+            "totalTeleopPoints": 107,
+            "totalTowerPoints": 0,
+            "traversalAchieved": false
+          }
+        },
+        "set_number": 1,
+        "time": 1771698600,
+        "videos": [],
+        "winning_alliance": "red"
+      },
+      {
+        "actual_time": 1771700225,
+        "alliances": {
+          "blue": {
+            "dq_team_keys": [],
+            "score": 107,
+            "surrogate_team_keys": [],
+            "team_keys": [
+              "frc1721",
+              "frc5687",
+              "frc151"
+            ]
+          },
+          "red": {
+            "dq_team_keys": [],
+            "score": 64,
+            "surrogate_team_keys": [],
+            "team_keys": [
+              "frc2079",
+              "frc5000",
+              "frc1512"
+            ]
+          }
+        },
+        "comp_level": "sf",
+        "event_key": "2026week0",
+        "key": "2026week0_sf2m1",
+        "match_number": 1,
+        "post_result_time": 1771700423,
+        "predicted_time": 1771700186,
+        "score_breakdown": {
+          "blue": {
+            "adjustPoints": 0,
+            "autoTowerPoints": 0,
+            "autoTowerRobot1": "None",
+            "autoTowerRobot2": "None",
+            "autoTowerRobot3": "None",
+            "endGameTowerPoints": 0,
+            "endGameTowerRobot1": "None",
+            "endGameTowerRobot2": "None",
+            "endGameTowerRobot3": "None",
+            "energizedAchieved": false,
+            "foulPoints": 10,
+            "g206Penalty": false,
+            "hubScore": {
+              "autoCount": 8,
+              "autoPoints": 8,
+              "endgameCount": 28,
+              "endgamePoints": 28,
+              "shift1Count": 28,
+              "shift1Points": 28,
+              "shift2Count": 0,
+              "shift2Points": 0,
+              "shift3Count": 26,
+              "shift3Points": 26,
+              "shift4Count": 0,
+              "shift4Points": 0,
+              "teleopCount": 89,
+              "teleopPoints": 89,
+              "totalCount": 97,
+              "totalPoints": 97,
+              "transitionCount": 7,
+              "transitionPoints": 7,
+              "uncounted": 0
+            },
+            "majorFoulCount": 0,
+            "minorFoulCount": 1,
+            "penalties": "None",
+            "rp": 0,
+            "superchargedAchieved": false,
+            "totalAutoPoints": 8,
+            "totalPoints": 107,
+            "totalTeleopPoints": 89,
+            "totalTowerPoints": 0,
+            "traversalAchieved": false
+          },
+          "red": {
+            "adjustPoints": 0,
+            "autoTowerPoints": 0,
+            "autoTowerRobot1": "None",
+            "autoTowerRobot2": "None",
+            "autoTowerRobot3": "None",
+            "endGameTowerPoints": 10,
+            "endGameTowerRobot1": "None",
+            "endGameTowerRobot2": "Level1",
+            "endGameTowerRobot3": "None",
+            "energizedAchieved": false,
+            "foulPoints": 5,
+            "g206Penalty": false,
+            "hubScore": {
+              "autoCount": 23,
+              "autoPoints": 23,
+              "endgameCount": 13,
+              "endgamePoints": 13,
+              "shift1Count": 0,
+              "shift1Points": 0,
+              "shift2Count": 5,
+              "shift2Points": 5,
+              "shift3Count": 0,
+              "shift3Points": 0,
+              "shift4Count": 6,
+              "shift4Points": 6,
+              "teleopCount": 26,
+              "teleopPoints": 26,
+              "totalCount": 49,
+              "totalPoints": 49,
+              "transitionCount": 2,
+              "transitionPoints": 2,
+              "uncounted": 0
+            },
+            "majorFoulCount": 0,
+            "minorFoulCount": 2,
+            "penalties": "None",
+            "rp": 0,
+            "superchargedAchieved": false,
+            "totalAutoPoints": 23,
+            "totalPoints": 64,
+            "totalTeleopPoints": 36,
+            "totalTowerPoints": 10,
+            "traversalAchieved": false
+          }
+        },
+        "set_number": 2,
+        "time": 1771699140,
+        "videos": [],
+        "winning_alliance": "blue"
+      },
+      {
+        "actual_time": 1771701046,
+        "alliances": {
+          "blue": {
+            "dq_team_keys": [],
+            "score": 55,
+            "surrogate_team_keys": [],
+            "team_keys": [
+              "frc1119",
+              "frc2423",
+              "frc5422"
+            ]
+          },
+          "red": {
+            "dq_team_keys": [],
+            "score": 200,
+            "surrogate_team_keys": [],
+            "team_keys": [
+              "frc1768",
+              "frc4909",
+              "frc9644"
+            ]
+          }
+        },
+        "comp_level": "sf",
+        "event_key": "2026week0",
+        "key": "2026week0_sf3m1",
+        "match_number": 1,
+        "post_result_time": 1771701247,
+        "predicted_time": 1771700810,
+        "score_breakdown": {
+          "blue": {
+            "adjustPoints": 0,
+            "autoTowerPoints": 0,
+            "autoTowerRobot1": "None",
+            "autoTowerRobot2": "None",
+            "autoTowerRobot3": "None",
+            "endGameTowerPoints": 0,
+            "endGameTowerRobot1": "None",
+            "endGameTowerRobot2": "None",
+            "endGameTowerRobot3": "None",
+            "energizedAchieved": false,
+            "foulPoints": 5,
+            "g206Penalty": false,
+            "hubScore": {
+              "autoCount": 22,
+              "autoPoints": 22,
+              "endgameCount": 12,
+              "endgamePoints": 12,
+              "shift1Count": 7,
+              "shift1Points": 7,
+              "shift2Count": 0,
+              "shift2Points": 0,
+              "shift3Count": 5,
+              "shift3Points": 5,
+              "shift4Count": 0,
+              "shift4Points": 0,
+              "teleopCount": 28,
+              "teleopPoints": 28,
+              "totalCount": 50,
+              "totalPoints": 50,
+              "transitionCount": 4,
+              "transitionPoints": 4,
+              "uncounted": 0
+            },
+            "majorFoulCount": 0,
+            "minorFoulCount": 0,
+            "penalties": "None",
+            "rp": 0,
+            "superchargedAchieved": false,
+            "totalAutoPoints": 22,
+            "totalPoints": 55,
+            "totalTeleopPoints": 28,
+            "totalTowerPoints": 0,
+            "traversalAchieved": false
+          },
+          "red": {
+            "adjustPoints": 0,
+            "autoTowerPoints": 0,
+            "autoTowerRobot1": "None",
+            "autoTowerRobot2": "None",
+            "autoTowerRobot3": "None",
+            "endGameTowerPoints": 0,
+            "endGameTowerRobot1": "None",
+            "endGameTowerRobot2": "None",
+            "endGameTowerRobot3": "None",
+            "energizedAchieved": false,
+            "foulPoints": 0,
+            "g206Penalty": false,
+            "hubScore": {
+              "autoCount": 36,
+              "autoPoints": 36,
+              "endgameCount": 25,
+              "endgamePoints": 25,
+              "shift1Count": 0,
+              "shift1Points": 0,
+              "shift2Count": 77,
+              "shift2Points": 77,
+              "shift3Count": 0,
+              "shift3Points": 0,
+              "shift4Count": 62,
+              "shift4Points": 62,
+              "teleopCount": 164,
+              "teleopPoints": 164,
+              "totalCount": 200,
+              "totalPoints": 200,
+              "transitionCount": 0,
+              "transitionPoints": 0,
+              "uncounted": 0
+            },
+            "majorFoulCount": 0,
+            "minorFoulCount": 1,
+            "penalties": "None",
+            "rp": 0,
+            "superchargedAchieved": false,
+            "totalAutoPoints": 36,
+            "totalPoints": 200,
+            "totalTeleopPoints": 164,
+            "totalTowerPoints": 0,
+            "traversalAchieved": false
+          }
+        },
+        "set_number": 3,
+        "time": 1771699680,
+        "videos": [],
+        "winning_alliance": "red"
+      },
+      {
+        "actual_time": 1771701822,
+        "alliances": {
+          "blue": {
+            "dq_team_keys": [],
+            "score": 46,
+            "surrogate_team_keys": [],
+            "team_keys": [
+              "frc1153",
+              "frc1073",
+              "frc4041"
+            ]
+          },
+          "red": {
+            "dq_team_keys": [],
+            "score": 129,
+            "surrogate_team_keys": [],
+            "team_keys": [
+              "frc190",
+              "frc8724",
+              "frc1735"
+            ]
+          }
+        },
+        "comp_level": "sf",
+        "event_key": "2026week0",
+        "key": "2026week0_sf4m1",
+        "match_number": 1,
+        "post_result_time": 1771702013,
+        "predicted_time": 1771701618,
+        "score_breakdown": {
+          "blue": {
+            "adjustPoints": 0,
+            "autoTowerPoints": 0,
+            "autoTowerRobot1": "None",
+            "autoTowerRobot2": "None",
+            "autoTowerRobot3": "None",
+            "endGameTowerPoints": 0,
+            "endGameTowerRobot1": "None",
+            "endGameTowerRobot2": "None",
+            "endGameTowerRobot3": "None",
+            "energizedAchieved": false,
+            "foulPoints": 0,
+            "g206Penalty": false,
+            "hubScore": {
+              "autoCount": 4,
+              "autoPoints": 4,
+              "endgameCount": 7,
+              "endgamePoints": 7,
+              "shift1Count": 11,
+              "shift1Points": 11,
+              "shift2Count": 0,
+              "shift2Points": 0,
+              "shift3Count": 16,
+              "shift3Points": 16,
+              "shift4Count": 0,
+              "shift4Points": 0,
+              "teleopCount": 42,
+              "teleopPoints": 42,
+              "totalCount": 46,
+              "totalPoints": 46,
+              "transitionCount": 8,
+              "transitionPoints": 8,
+              "uncounted": 0
+            },
+            "majorFoulCount": 0,
+            "minorFoulCount": 0,
+            "penalties": "None",
+            "rp": 0,
+            "superchargedAchieved": false,
+            "totalAutoPoints": 4,
+            "totalPoints": 46,
+            "totalTeleopPoints": 42,
+            "totalTowerPoints": 0,
+            "traversalAchieved": false
+          },
+          "red": {
+            "adjustPoints": 0,
+            "autoTowerPoints": 0,
+            "autoTowerRobot1": "None",
+            "autoTowerRobot2": "None",
+            "autoTowerRobot3": "None",
+            "endGameTowerPoints": 0,
+            "endGameTowerRobot1": "None",
+            "endGameTowerRobot2": "None",
+            "endGameTowerRobot3": "None",
+            "energizedAchieved": false,
+            "foulPoints": 0,
+            "g206Penalty": false,
+            "hubScore": {
+              "autoCount": 30,
+              "autoPoints": 30,
+              "endgameCount": 32,
+              "endgamePoints": 32,
+              "shift1Count": 0,
+              "shift1Points": 0,
+              "shift2Count": 37,
+              "shift2Points": 37,
+              "shift3Count": 0,
+              "shift3Points": 0,
+              "shift4Count": 27,
+              "shift4Points": 27,
+              "teleopCount": 99,
+              "teleopPoints": 99,
+              "totalCount": 129,
+              "totalPoints": 129,
+              "transitionCount": 3,
+              "transitionPoints": 3,
+              "uncounted": 0
+            },
+            "majorFoulCount": 0,
+            "minorFoulCount": 0,
+            "penalties": "None",
+            "rp": 0,
+            "superchargedAchieved": false,
+            "totalAutoPoints": 30,
+            "totalPoints": 129,
+            "totalTeleopPoints": 99,
+            "totalTowerPoints": 0,
+            "traversalAchieved": false
+          }
+        },
+        "set_number": 4,
+        "time": 1771700220,
+        "videos": [],
+        "winning_alliance": "red"
+      },
+      {
+        "actual_time": null,
+        "alliances": {
+          "blue": {
+            "dq_team_keys": [],
+            "score": -1,
+            "surrogate_team_keys": [],
+            "team_keys": [
+              "frc2079",
+              "frc5000",
+              "frc1512"
+            ]
+          },
+          "red": {
+            "dq_team_keys": [],
+            "score": -1,
+            "surrogate_team_keys": [],
+            "team_keys": [
+              "frc88",
+              "frc78",
+              "frc131"
+            ]
+          }
+        },
+        "comp_level": "sf",
+        "event_key": "2026week0",
+        "key": "2026week0_sf5m1",
+        "match_number": 1,
+        "post_result_time": null,
+        "predicted_time": 1771702392,
+        "score_breakdown": null,
+        "set_number": 5,
+        "time": 1771700760,
+        "videos": [],
+        "winning_alliance": ""
+      },
+      {
+        "actual_time": null,
+        "alliances": {
+          "blue": {
+            "dq_team_keys": [],
+            "score": -1,
+            "surrogate_team_keys": [],
+            "team_keys": [
+              "frc1153",
+              "frc1073",
+              "frc4041"
+            ]
+          },
+          "red": {
+            "dq_team_keys": [],
+            "score": -1,
+            "surrogate_team_keys": [],
+            "team_keys": [
+              "frc1119",
+              "frc2423",
+              "frc5422"
+            ]
+          }
+        },
+        "comp_level": "sf",
+        "event_key": "2026week0",
+        "key": "2026week0_sf6m1",
+        "match_number": 1,
+        "post_result_time": null,
+        "predicted_time": 1771702932,
+        "score_breakdown": null,
+        "set_number": 6,
+        "time": 1771701300,
+        "videos": [],
+        "winning_alliance": ""
+      },
+      {
+        "actual_time": null,
+        "alliances": {
+          "blue": {
+            "dq_team_keys": [],
+            "score": -1,
+            "surrogate_team_keys": [],
+            "team_keys": [
+              "frc1721",
+              "frc5687",
+              "frc151"
+            ]
+          },
+          "red": {
+            "dq_team_keys": [],
+            "score": -1,
+            "surrogate_team_keys": [],
+            "team_keys": [
+              "frc2877",
+              "frc6328",
+              "frc2342"
+            ]
+          }
+        },
+        "comp_level": "sf",
+        "event_key": "2026week0",
+        "key": "2026week0_sf7m1",
+        "match_number": 1,
+        "post_result_time": null,
+        "predicted_time": 1771703472,
+        "score_breakdown": null,
+        "set_number": 7,
+        "time": 1771701840,
+        "videos": [],
+        "winning_alliance": ""
+      },
+      {
+        "actual_time": null,
+        "alliances": {
+          "blue": {
+            "dq_team_keys": [],
+            "score": -1,
+            "surrogate_team_keys": [],
+            "team_keys": [
+              "frc190",
+              "frc8724",
+              "frc1735"
+            ]
+          },
+          "red": {
+            "dq_team_keys": [],
+            "score": -1,
+            "surrogate_team_keys": [],
+            "team_keys": [
+              "frc1768",
+              "frc4909",
+              "frc9644"
+            ]
+          }
+        },
+        "comp_level": "sf",
+        "event_key": "2026week0",
+        "key": "2026week0_sf8m1",
+        "match_number": 1,
+        "post_result_time": null,
+        "predicted_time": 1771704012,
+        "score_breakdown": null,
+        "set_number": 8,
+        "time": 1771702380,
+        "videos": [],
+        "winning_alliance": ""
+      }
+    ]
+  },
+  "graph_info_": {
+    "single_team_configs_": [],
+    "coach_configs_": []
+  },
+  "form_info_": {
+    "teamform_": "team.json",
+    "matchform_": "match.json"
+  },
+  "team_db_info_": {
+    "col_descs_": [
+      {
+        "name": "key",
+        "type": "string",
+        "source": "base",
+        "editable": false
+      },
+      {
+        "name": "team_number",
+        "type": "integer",
+        "source": "base",
+        "editable": false
+      },
+      {
+        "name": "nickname",
+        "type": "string",
+        "source": "bluealliance",
+        "editable": false
+      },
+      {
+        "name": "name",
+        "type": "string",
+        "source": "bluealliance",
+        "editable": false
+      },
+      {
+        "name": "school_name",
+        "type": "string",
+        "source": "bluealliance",
+        "editable": false
+      },
+      {
+        "name": "city",
+        "type": "string",
+        "source": "bluealliance",
+        "editable": false
+      },
+      {
+        "name": "state_prov",
+        "type": "string",
+        "source": "bluealliance",
+        "editable": false
+      },
+      {
+        "name": "country",
+        "type": "string",
+        "source": "bluealliance",
+        "editable": false
+      },
+      {
+        "name": "address",
+        "type": "string",
+        "source": "bluealliance",
+        "editable": false
+      },
+      {
+        "name": "postal_code",
+        "type": "string",
+        "source": "bluealliance",
+        "editable": false
+      },
+      {
+        "name": "gmaps_place_id",
+        "type": "string",
+        "source": "bluealliance",
+        "editable": false
+      },
+      {
+        "name": "gmaps_url",
+        "type": "string",
+        "source": "bluealliance",
+        "editable": false
+      },
+      {
+        "name": "lat",
+        "type": "real",
+        "source": "bluealliance",
+        "editable": false
+      },
+      {
+        "name": "lng",
+        "type": "real",
+        "source": "bluealliance",
+        "editable": false
+      },
+      {
+        "name": "location_name",
+        "type": "string",
+        "source": "bluealliance",
+        "editable": false
+      },
+      {
+        "name": "website",
+        "type": "string",
+        "source": "bluealliance",
+        "editable": false
+      },
+      {
+        "name": "rookie_year",
+        "type": "integer",
+        "source": "bluealliance",
+        "editable": false
+      },
+      {
+        "name": "pit_trench",
+        "type": "boolean",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "pit_scouter",
+        "type": "string",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "pit_bump",
+        "type": "string",
+        "choices": [
+          {
+            "text": "can't",
+            "value": "cant"
+          },
+          {
+            "text": "low confidence",
+            "value": "low confidence"
+          },
+          {
+            "text": "can",
+            "value": "can"
+          }
+        ],
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "pit_DB",
+        "type": "string",
+        "choices": [
+          {
+            "text": "Swerve",
+            "value": "swerve"
+          },
+          {
+            "text": "Tank",
+            "value": "tank"
+          },
+          {
+            "text": "WC",
+            "value": "west_coast"
+          },
+          {
+            "text": "Mec",
+            "value": "mec"
+          },
+          {
+            "text": "Other",
+            "value": "other"
+          }
+        ],
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "pit_intake",
+        "type": "string",
+        "choices": [
+          {
+            "text": "None",
+            "value": "none"
+          },
+          {
+            "text": "Ground",
+            "value": "ground"
+          },
+          {
+            "text": "Human Player",
+            "value": "human_player"
+          },
+          {
+            "text": "Both",
+            "value": "both"
+          }
+        ],
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "pit_align",
+        "type": "string",
+        "choices": [
+          {
+            "text": "None",
+            "value": "none"
+          },
+          {
+            "text": "Manual Align",
+            "value": "manual"
+          },
+          {
+            "text": "Auto Align",
+            "value": "auto_static"
+          },
+          {
+            "text": "Shoot While Moving",
+            "value": "auto_moving"
+          }
+        ],
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "pit_BPS",
+        "type": "integer",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "pit_maxHopper",
+        "type": "integer",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "pit_OPdeliver",
+        "type": "boolean",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "pit_a_maxFuel",
+        "type": "integer",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "pit_estAccuracy",
+        "type": "real",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "pit_ferryNet",
+        "type": "boolean",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "pit_movingFerry",
+        "type": "boolean",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "pit_ferryAutoalign",
+        "type": "boolean",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "pit_ferrying",
+        "type": "string",
+        "choices": [
+          {
+            "text": "neutral zone",
+            "value": "NZ"
+          },
+          {
+            "text": "opponent zone",
+            "value": "OZ"
+          }
+        ],
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "tag_14",
+        "type": "string",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "pit_Notes",
+        "type": "string",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "pit_flipClimb",
+        "type": "boolean",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "pit_climb",
+        "type": "string",
+        "choices": [
+          {
+            "text": "L1",
+            "value": "L1"
+          },
+          {
+            "text": "Mid1",
+            "value": "M1"
+          },
+          {
+            "text": "R1",
+            "value": "R1"
+          },
+          {
+            "text": "L2",
+            "value": "L2"
+          },
+          {
+            "text": "Mid2",
+            "value": "M2"
+          },
+          {
+            "text": "R2",
+            "value": "R2"
+          },
+          {
+            "text": "L3",
+            "value": "L3"
+          },
+          {
+            "text": "Mid3",
+            "value": "M3"
+          },
+          {
+            "text": "R3",
+            "value": "R3"
+          },
+          {
+            "text": "No climb",
+            "value": "none"
+          }
+        ],
+        "editable": true,
+        "source": "form"
+      }
+    ]
+  },
+  "match_db_info_": {
+    "col_descs_": [
+      {
+        "name": "key",
+        "type": "string",
+        "source": "base",
+        "editable": false
+      },
+      {
+        "name": "comp_level",
+        "type": "string",
+        "source": "base",
+        "editable": false
+      },
+      {
+        "name": "set_number",
+        "type": "integer",
+        "source": "base",
+        "editable": false
+      },
+      {
+        "name": "match_number",
+        "type": "integer",
+        "source": "base",
+        "editable": false
+      },
+      {
+        "name": "team_key",
+        "type": "string",
+        "source": "base",
+        "editable": false
+      },
+      {
+        "name": "r1",
+        "type": "string",
+        "source": "bluealliance",
+        "editable": false
+      },
+      {
+        "name": "r2",
+        "type": "string",
+        "source": "bluealliance",
+        "editable": false
+      },
+      {
+        "name": "r3",
+        "type": "string",
+        "source": "bluealliance",
+        "editable": false
+      },
+      {
+        "name": "b1",
+        "type": "string",
+        "source": "bluealliance",
+        "editable": false
+      },
+      {
+        "name": "b2",
+        "type": "string",
+        "source": "bluealliance",
+        "editable": false
+      },
+      {
+        "name": "b3",
+        "type": "string",
+        "source": "bluealliance",
+        "editable": false
+      },
+      {
+        "name": "alliance",
+        "type": "string",
+        "source": "bluealliance",
+        "editable": false
+      },
+      {
+        "name": "scout_Init",
+        "type": "string",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "a_startPos",
+        "type": "string",
+        "choices": [
+          {
+            "text": "1",
+            "value": "depotWall1"
+          },
+          {
+            "text": "2",
+            "value": "depot2"
+          },
+          {
+            "text": "3",
+            "value": "middle3"
+          },
+          {
+            "text": "4",
+            "value": "outpost4"
+          },
+          {
+            "text": "5",
+            "value": "outpostWall5"
+          }
+        ],
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "a_hit",
+        "type": "boolean",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "a_Climb",
+        "type": "string",
+        "choices": [
+          {
+            "text": "No climb",
+            "value": "None"
+          },
+          {
+            "text": "Failed climb",
+            "value": "Failed"
+          },
+          {
+            "text": "L3, L",
+            "value": "L3_L"
+          },
+          {
+            "text": "L3, Mid",
+            "value": "L3_M"
+          },
+          {
+            "text": "L3, R",
+            "value": "L3_R"
+          },
+          {
+            "text": "L2, L",
+            "value": "L2_L"
+          },
+          {
+            "text": "L2, Mid",
+            "value": "L2_M"
+          },
+          {
+            "text": "L2, R",
+            "value": "L2_R"
+          },
+          {
+            "text": "L1, L",
+            "value": "L1_L"
+          },
+          {
+            "text": "L1, Mid",
+            "value": "L1_M"
+          },
+          {
+            "text": "L1, R",
+            "value": "L1_R"
+          }
+        ],
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "a_flipClimb",
+        "type": "boolean",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "a_scoringTime",
+        "type": "real",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "a_scoringTime_segments",
+        "type": "string",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "a_ferryTime",
+        "type": "real",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "a_ferryTime_segments",
+        "type": "string",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "a_selector",
+        "type": "string",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "t_incap",
+        "type": "integer",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "t_scoringTime",
+        "type": "real",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "t_scoringTime_segments",
+        "type": "string",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "t_NZferryTime",
+        "type": "real",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "t_NZferryTime_segments",
+        "type": "string",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "t_OZferryTime",
+        "type": "real",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "t_OZferryTime_segments",
+        "type": "string",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "end_Climb",
+        "type": "string",
+        "choices": [
+          {
+            "text": "No climb",
+            "value": "None"
+          },
+          {
+            "text": "Failed climb",
+            "value": "Failed"
+          },
+          {
+            "text": "L3, L",
+            "value": "L3_L"
+          },
+          {
+            "text": "L3, Mid",
+            "value": "L3_M"
+          },
+          {
+            "text": "L3, R",
+            "value": "L3_R"
+          },
+          {
+            "text": "L2, L",
+            "value": "L2_L"
+          },
+          {
+            "text": "L2, Mid",
+            "value": "L2_M"
+          },
+          {
+            "text": "L2, R",
+            "value": "L2_R"
+          },
+          {
+            "text": "L1, L",
+            "value": "L1_L"
+          },
+          {
+            "text": "L1, Mid",
+            "value": "L1_M"
+          },
+          {
+            "text": "L1, R",
+            "value": "L1_R"
+          }
+        ],
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "end_flipClimb",
+        "type": "boolean",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "t_Defense",
+        "type": "string",
+        "choices": [
+          {
+            "text": "None",
+            "value": "none"
+          },
+          {
+            "text": "Neutral Zone",
+            "value": "NZ"
+          },
+          {
+            "text": "Alliance Zone",
+            "value": "AZ"
+          },
+          {
+            "text": "Opp. Zone",
+            "value": "OZ"
+          },
+          {
+            "text": "Bump/Trench",
+            "value": "bumpTrench"
+          }
+        ],
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "a_Notes",
+        "type": "string",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "active_Notes",
+        "type": "string",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "inactive_Notes",
+        "type": "string",
+        "editable": true,
+        "source": "form"
+      },
+      {
+        "name": "end_Notes",
+        "type": "string",
+        "editable": true,
+        "source": "form"
+      }
+    ]
+  },
+  "playoff_info_": {
+    "alliances": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "outcomes": {}
+  },
+  "locked_": true,
+  "frcev_": {
+    "city": "Nashua",
+    "country": "USA",
+    "district": null,
+    "end_date": "2026-02-21",
+    "event_code": "week0",
+    "event_type": 100,
+    "key": "2026week0",
+    "name": "Week 0",
+    "start_date": "2026-02-21",
+    "state_prov": "NH",
+    "year": 2026
+  },
+  "uuid_": "fa0a8478-43ee-47f9-8010-7b4b2629c006"
+}

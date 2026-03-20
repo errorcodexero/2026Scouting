@@ -1,0 +1,34 @@
+{
+    "purpose": "match",
+    "sections": [
+        {
+            "name": "New Section",
+            "items": [
+                {
+                    "type": "robotphoto",
+                    "tag": "botPhoto",
+                    "x": 40,
+                    "y": 26,
+                    "width": 280,
+                    "height": 220,
+                    "color": "black",
+                    "background": "#f3f4f6",
+                    "fontFamily": "Arial",
+                    "fontSize": 20,
+                    "fontWeight": "normal",
+                    "fontStyle": "normal",
+                    "datatype": "string",
+                    "transparent": false,
+                    "mode": "display"
+                }
+            ]
+        }
+    ],
+    "tablet": {
+        "name": "surface",
+        "size": {
+            "width": 1089,
+            "height": 727
+        }
+    }
+}
